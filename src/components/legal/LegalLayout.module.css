@@ -1,0 +1,41 @@
+.container {
+    background: #fffaf2;
+    min-height: 100vh;
+    padding: 48px 20px;
+}
+
+.card {
+    max-width: 900px;
+    margin: auto;
+    background: white;
+    border-radius: 16px;
+    padding: 48px;
+    box-shadow: 0 10px 30px rgba(0,0,0,.05);
+}
+
+.brand {
+    color: #d97706;
+    text-decoration: none;
+    font-weight: 700;
+    font-size: 18px;
+}
+
+.updated {
+    color: #777;
+    margin-bottom: 32px;
+}
+
+.content h2 {
+    margin-top: 40px;
+    color: #3b2a16;
+}
+
+.content p,
+.content li {
+    line-height: 1.8;
+    color: #555;
+}
+
+.content ul {
+    padding-left: 22px;
+}
