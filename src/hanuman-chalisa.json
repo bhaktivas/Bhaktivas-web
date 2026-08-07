@@ -1,0 +1,1723 @@
+{
+  "id": "hanuman-chalisa",
+  "chapterNumber": 1,
+  "title": {
+    "hi": "श्री हनुमान चालीसा",
+    "en": "Shree Hanuman Chalisa"
+  },
+  "subtitle": {
+    "hi": "गोस्वामी तुलसीदास कृत",
+    "en": "Composed by Goswami Tulsidas"
+  },
+  "summary": {
+    "hi": "श्री हनुमान चालीसा हिंदी में – गोस्वामी तुलसीदास कृत 40 चौपाइयाँ एवं दोहे। नियमित पाठ से संकट मुक्ति, बल-बुद्धि की प्राप्ति एवं रोग निवारण।",
+    "en": "Shree Hanuman Chalisa in Hindi with meanings – 40 Chaupais and Dohas composed by Goswami Tulsidas."
+  },
+  "estimatedReadingTime": 7,
+  "verseCount": 43,
+  "blocks": [
+    {
+      "id": "heading-1-1",
+      "type": "heading",
+      "text": {
+        "hi": "🕉️ श्री हनुमान चालीसा",
+        "en": "Shree Hanuman Chalisa"
+      },
+      "order": 1
+    },
+    {
+      "id": "subheading-1-2",
+      "type": "subheading",
+      "text": {
+        "hi": "रचयिता: गोस्वामी तुलसीदास | संकट कटै मिटे सब पीरा",
+        "en": "Composed by Goswami Tulsidas"
+      },
+      "order": 2
+    },
+    {
+      "id": "paragraph-1-3",
+      "type": "paragraph",
+      "text": {
+        "hi": "श्री हनुमान चालीसा गोस्वामी तुलसीदास जी द्वारा रचित 40 चौपाइयों एवं दोहों का अत्यंत पवित्र एवं शक्तिशाली स्तोत्र है। इसके नियमित पाठ से जीवन के समस्त भय, संकट, रोग एवं बाधाओं का नाश होता है।",
+        "en": "Shree Hanuman Chalisa is a sacred 40-verse hymn composed by Goswami Tulsidas. Regular recitation removes fear, disease, and suffering."
+      },
+      "order": 3
+    },
+    {
+      "id": "divider-1-4",
+      "type": "divider",
+      "order": 4
+    },
+    {
+      "id": "subheading-1-5",
+      "type": "subheading",
+      "text": {
+        "hi": "॥ दोहा ॥",
+        "en": "Opening Dohas"
+      },
+      "order": 5
+    },
+    {
+      "id": "verse-1-1",
+      "type": "verse",
+      "verseNumber": 1,
+      "sanskrit": "श्रीगुरु चरन सरोज रज, निज मनु मुकुरु सुधारि।\nबरनऊं रघुबर बिमल जसु, जो दायकु फल चारि।।",
+      "transliteration": "shrīguru charan saroj raj, nij manu mukuru sudhāri |\nbaranūṁ raghubar bimal jasu, jo dāyaku phal chāri ||",
+      "translation": {
+        "hi": "श्री गुरु महाराज के चरण कमलों की धूलि से अपने मन रूपी दर्पण को पवित्र करके, मैं श्री रघुवीर के निर्मल यश का वर्णन करता हूँ, जो धर्म, अर्थ, काम और मोक्ष रूपी चारों फलों को देने वाला है।",
+        "en": "Cleansing the mirror of my mind with the dust of my Guru's lotus feet, I sing the pure glory of Lord Rama, which bestows the four fruits of life."
+      },
+      "explanation": {
+        "hi": "श्री गुरु महाराज के चरण कमलों की धूलि से अपने मन रूपी दर्पण को पवित्र करके, मैं श्री रघुवीर के निर्मल यश का वर्णन करता हूँ, जो धर्म, अर्थ, काम और मोक्ष रूपी चारों फलों को देने वाला है।",
+        "en": "Cleansing the mirror of my mind with the dust of my Guru's lotus feet, I sing the pure glory of Lord Rama, which bestows the four fruits of life."
+      },
+      "wordMeanings": {
+        "hi": "",
+        "en": ""
+      },
+      "order": 6
+    },
+    {
+      "id": "verse-1-2",
+      "type": "verse",
+      "verseNumber": 2,
+      "sanskrit": "बुद्धिहीन तनु जानिके, सुमिरौं पवन-कुमार।\nबल बुद्धि बिद्या देहु मोहिं, हरहु कलेस बिकार।।",
+      "transliteration": "buddhihīn tanu jānike, sumiraiṁ pavan-kumār |\nbal buddhi bidyā dehu mohiṁ, harahu kales bikār ||",
+      "translation": {
+        "hi": "हे पवन कुमार! मैं स्वयं को बुद्धिहीन मानकर आपका स्मरण करता हूँ। मुझे बल, बुद्धि और विद्या प्रदान करें और मेरे समस्त कष्टों एवं दोषों का निवारण करें।",
+        "en": "Knowing myself to be devoid of intelligence, I meditate on you, O Son of the Wind! Grant me strength, wisdom, and knowledge, and remove all my afflictions and impurities."
+      },
+      "explanation": {
+        "hi": "हे पवन कुमार! मैं स्वयं को बुद्धिहीन मानकर आपका स्मरण करता हूँ। मुझे बल, बुद्धि और विद्या प्रदान करें और मेरे समस्त कष्टों एवं दोषों का निवारण करें।",
+        "en": "Knowing myself to be devoid of intelligence, I meditate on you, O Son of the Wind! Grant me strength, wisdom, and knowledge, and remove all my afflictions and impurities."
+      },
+      "wordMeanings": {
+        "hi": "",
+        "en": ""
+      },
+      "order": 7
+    },
+    {
+      "id": "subheading-1-8",
+      "type": "subheading",
+      "text": {
+        "hi": "॥ चौपाई ॥",
+        "en": "40 Chaupais"
+      },
+      "order": 8
+    },
+    {
+      "id": "verse-1-3",
+      "type": "verse",
+      "verseNumber": 3,
+      "sanskrit": "जय हनुमान ज्ञान गुन सागर।\nजय कपीस तिहुं लोक उजागर।।",
+      "transliteration": "jai hanumān gyān gun sāgar |\njai kapīs tihuṁ lok ujāgar ||",
+      "translation": {
+        "hi": "ज्ञान और गुणों के समुद्र श्री हनुमान जी की जय हो! तीनों लोकों में प्रसिद्ध वानर श्रेष्ठ कपीश्वर की जय हो!",
+        "en": "Victory to Hanuman, the ocean of wisdom and virtue! Victory to the Lord of Monkeys, who illuminates all three worlds!"
+      },
+      "explanation": {
+        "hi": "ज्ञान और गुणों के समुद्र श्री हनुमान जी की जय हो! तीनों लोकों में प्रसिद्ध वानर श्रेष्ठ कपीश्वर की जय हो!",
+        "en": "Victory to Hanuman, the ocean of wisdom and virtue! Victory to the Lord of Monkeys, who illuminates all three worlds!"
+      },
+      "wordMeanings": {
+        "hi": "",
+        "en": ""
+      },
+      "order": 9
+    },
+    {
+      "id": "verse-1-4",
+      "type": "verse",
+      "verseNumber": 4,
+      "sanskrit": "रामदूत अतुलित बल धामा।\nअंजनि-पुत्र पवनसुत नामा।।",
+      "transliteration": "rāmadūt atulit bal dhāmā |\naṁjani-putra pavanasut nāmā ||",
+      "translation": {
+        "hi": "आप श्री राम के दूत और अतुलनीय बल के धाम हैं। आप माता अंजनी के पुत्र और पवनसुत नाम से जाने जाते हैं।",
+        "en": "You are the messenger of Lord Rama and the abode of immeasurable strength. You are known as Anjani's son and the Son of the Wind."
+      },
+      "explanation": {
+        "hi": "आप श्री राम के दूत और अतुलनीय बल के धाम हैं। आप माता अंजनी के पुत्र और पवनसुत नाम से जाने जाते हैं।",
+        "en": "You are the messenger of Lord Rama and the abode of immeasurable strength. You are known as Anjani's son and the Son of the Wind."
+      },
+      "wordMeanings": {
+        "hi": "",
+        "en": ""
+      },
+      "order": 10
+    },
+    {
+      "id": "verse-1-5",
+      "type": "verse",
+      "verseNumber": 5,
+      "sanskrit": "महाबीर बिक्रम बजरंगी।\nकुमति निवार सुमति के संगी।।",
+      "transliteration": "mahābīr bikram bajarangī |\nkumati nivār sumati ke saṁgī ||",
+      "translation": {
+        "hi": "हे महान वीर, पराक्रमी और बज्रांग वाले हनुमान जी! आप कुबुद्धि को दूर करने वाले और सुबुद्धि वालों के साथी हैं।",
+        "en": "O mighty hero, immensely powerful with a body as hard as a thunderbolt! You dispel evil thoughts and are the companion of the wise."
+      },
+      "explanation": {
+        "hi": "हे महान वीर, पराक्रमी और बज्रांग वाले हनुमान जी! आप कुबुद्धि को दूर करने वाले और सुबुद्धि वालों के साथी हैं।",
+        "en": "O mighty hero, immensely powerful with a body as hard as a thunderbolt! You dispel evil thoughts and are the companion of the wise."
+      },
+      "wordMeanings": {
+        "hi": "",
+        "en": ""
+      },
+      "order": 11
+    },
+    {
+      "id": "verse-1-6",
+      "type": "verse",
+      "verseNumber": 6,
+      "sanskrit": "कंचन बरन बिराज सुबेसा।\nकानन कुंडल कुंचित केसा।।",
+      "transliteration": "kaṁchan baran birāj subesā |\nkānan kuṁḍal kuṁchit kesā ||",
+      "translation": {
+        "hi": "आपका वर्ण स्वर्ण के समान कांतिमान है, आप सुंदर वस्त्रों से सुशोभित हैं। आपके कानों में कुंडल और बाल घुंघराले हैं।",
+        "en": "Your complexion shines like gold, and you are beautifully attired. You wear ear-rings and have curly hair."
+      },
+      "explanation": {
+        "hi": "आपका वर्ण स्वर्ण के समान कांतिमान है, आप सुंदर वस्त्रों से सुशोभित हैं। आपके कानों में कुंडल और बाल घुंघराले हैं।",
+        "en": "Your complexion shines like gold, and you are beautifully attired. You wear ear-rings and have curly hair."
+      },
+      "wordMeanings": {
+        "hi": "",
+        "en": ""
+      },
+      "order": 12
+    },
+    {
+      "id": "verse-1-7",
+      "type": "verse",
+      "verseNumber": 7,
+      "sanskrit": "हाथ बज्र औ ध्वजा बिराजै।\nकांधे मूंज जनेऊ साजै।।",
+      "transliteration": "hāth bajra au dhvajā birājai |\nkāṁdhe mūṁj janeū sājai ||",
+      "translation": {
+        "hi": "आपके हाथों में गदा (वज्र) और ध्वजा सुशोभित है तथा आपके कंधे पर मूंज का जनेऊ शोभा दे रहा है।",
+        "en": "In your hands rest the thunderbolt mace and the flag; across your shoulder rests the sacred thread of munja grass."
+      },
+      "explanation": {
+        "hi": "आपके हाथों में गदा (वज्र) और ध्वजा सुशोभित है तथा आपके कंधे पर मूंज का जनेऊ शोभा दे रहा है।",
+        "en": "In your hands rest the thunderbolt mace and the flag; across your shoulder rests the sacred thread of munja grass."
+      },
+      "wordMeanings": {
+        "hi": "",
+        "en": ""
+      },
+      "order": 13
+    },
+    {
+      "id": "verse-1-8",
+      "type": "verse",
+      "verseNumber": 8,
+      "sanskrit": "संकर सुवन केसरीनंदन।\nतेज प्रताप महा जग बन्दन।।",
+      "transliteration": "saṁkar suvan kesarīnaṁdan |\ntej pratāp mahā jag bandan ||",
+      "translation": {
+        "hi": "आप भगवान शिव के अंश और केसरी महाराज के नंदन हैं। आपके महान तेज और प्रताप की संपूर्ण संसार वंदना करता है।",
+        "en": "You are the incarnation of Lord Shiva and the joy of Kesari. Your immense glory and prowess are revered throughout the world."
+      },
+      "explanation": {
+        "hi": "आप भगवान शिव के अंश और केसरी महाराज के नंदन हैं। आपके महान तेज और प्रताप की संपूर्ण संसार वंदना करता है।",
+        "en": "You are the incarnation of Lord Shiva and the joy of Kesari. Your immense glory and prowess are revered throughout the world."
+      },
+      "wordMeanings": {
+        "hi": "",
+        "en": ""
+      },
+      "order": 14
+    },
+    {
+      "id": "verse-1-9",
+      "type": "verse",
+      "verseNumber": 9,
+      "sanskrit": "विद्यावान गुनी अति चातुर।\nराम काज करिबे को आतुर।।",
+      "transliteration": "vidyāvān gunī ati chātur |\nrām kāj karibe ko ātur ||",
+      "translation": {
+        "hi": "आप अत्यंत विद्यावान, गुणी और चतुर हैं तथा श्री राम के कार्यों को सिद्ध करने के लिए सदैव तत्पर रहते हैं।",
+        "en": "You are learned, virtuous, and exceptionally clever, always eager to fulfill the tasks of Lord Rama."
+      },
+      "explanation": {
+        "hi": "आप अत्यंत विद्यावान, गुणी और चतुर हैं तथा श्री राम के कार्यों को सिद्ध करने के लिए सदैव तत्पर रहते हैं।",
+        "en": "You are learned, virtuous, and exceptionally clever, always eager to fulfill the tasks of Lord Rama."
+      },
+      "wordMeanings": {
+        "hi": "",
+        "en": ""
+      },
+      "order": 15
+    },
+    {
+      "id": "verse-1-10",
+      "type": "verse",
+      "verseNumber": 10,
+      "sanskrit": "प्रभु चरित्र सुनिबे को रसिया।\nराम लखन सीता मन बसिया।।",
+      "transliteration": "prabhu charitra sunibe ko rasiyā |\nrām lakhan sītā man basiyā ||",
+      "translation": {
+        "hi": "आप श्री राम की पावन कथा सुनने के अत्यंत रसिक हैं। श्री राम, लक्ष्मण और माता सीता आपके हृदय में सदा निवास करते हैं।",
+        "en": "You delight in listening to the divine deeds of the Lord. Rama, Lakshmana, and Sita reside eternally in your heart."
+      },
+      "explanation": {
+        "hi": "आप श्री राम की पावन कथा सुनने के अत्यंत रसिक हैं। श्री राम, लक्ष्मण और माता सीता आपके हृदय में सदा निवास करते हैं।",
+        "en": "You delight in listening to the divine deeds of the Lord. Rama, Lakshmana, and Sita reside eternally in your heart."
+      },
+      "wordMeanings": {
+        "hi": "",
+        "en": ""
+      },
+      "order": 16
+    },
+    {
+      "id": "verse-1-11",
+      "type": "verse",
+      "verseNumber": 11,
+      "sanskrit": "सूक्ष्म रूप धरि सियहिं दिखावा।\nबिकट रूप धरि लंक जरावा।।",
+      "transliteration": "sūkṣma rūp dhari siyahiṁ dikhāvā |\nbikat rūp dhari laṁk jarāvā ||",
+      "translation": {
+        "hi": "आपने सूक्ष्म रूप धारण कर माता सीता को दर्शन दिए और विकराल रूप धारण कर लंका को दहन कर दिया।",
+        "en": "Assuming a minute form, you appeared before Sita; assuming a terrifying form, you burned down Lanka."
+      },
+      "explanation": {
+        "hi": "आपने सूक्ष्म रूप धारण कर माता सीता को दर्शन दिए और विकराल रूप धारण कर लंका को दहन कर दिया।",
+        "en": "Assuming a minute form, you appeared before Sita; assuming a terrifying form, you burned down Lanka."
+      },
+      "wordMeanings": {
+        "hi": "",
+        "en": ""
+      },
+      "order": 17
+    },
+    {
+      "id": "verse-1-12",
+      "type": "verse",
+      "verseNumber": 12,
+      "sanskrit": "भीम रूप धरि असुर संहारे।\nरामचंद्र के काज संवारे।।",
+      "transliteration": "bhīm rūp dhari asur saṁhāre |\nrāmachandra ke kāj saṁvāre ||",
+      "translation": {
+        "hi": "आपने विशाल भीमकाय रूप धरकर राक्षसों का संहार किया और श्री रामचंद्र जी के सभी कार्यों को सिद्ध किया।",
+        "en": "Assuming a colossal form, you destroyed the demons and accomplished all the missions of Lord Ramachandra."
+      },
+      "explanation": {
+        "hi": "आपने विशाल भीमकाय रूप धरकर राक्षसों का संहार किया और श्री रामचंद्र जी के सभी कार्यों को सिद्ध किया।",
+        "en": "Assuming a colossal form, you destroyed the demons and accomplished all the missions of Lord Ramachandra."
+      },
+      "wordMeanings": {
+        "hi": "",
+        "en": ""
+      },
+      "order": 18
+    },
+    {
+      "id": "verse-1-13",
+      "type": "verse",
+      "verseNumber": 13,
+      "sanskrit": "लाय सजीवन लखन जियाये।\nश्रीरघुबीर हरषि उर लाये।।",
+      "transliteration": "lāya sajīvan lakhan jiyāye |\nśrīraghubīr haraṣi ur lāye ||",
+      "translation": {
+        "hi": "आप संजीवनी बूटी लाकर लक्ष्मण जी के प्राण बचाए, जिससे प्रसन्न होकर श्री रघुनाथ जी ने आपको हृदय से लगा लिया।",
+        "en": "You brought the Sanjeevani herb and revived Lakshmana; overjoyed, Lord Rama embraced you to His heart."
+      },
+      "explanation": {
+        "hi": "आप संजीवनी बूटी लाकर लक्ष्मण जी के प्राण बचाए, जिससे प्रसन्न होकर श्री रघुनाथ जी ने आपको हृदय से लगा लिया।",
+        "en": "You brought the Sanjeevani herb and revived Lakshmana; overjoyed, Lord Rama embraced you to His heart."
+      },
+      "wordMeanings": {
+        "hi": "",
+        "en": ""
+      },
+      "order": 19
+    },
+    {
+      "id": "verse-1-14",
+      "type": "verse",
+      "verseNumber": 14,
+      "sanskrit": "रघुपति कीन्ही बहुत बड़ाई।\nतुम मम प्रिय भरतहि सम भाई।।",
+      "transliteration": "raghupati kīnhī bahut baṛāī |\ntum mam priya bharatahi sam bhāī ||",
+      "translation": {
+        "hi": "श्री राम जी ने आपकी भूरि-भूरि प्रशंसा की और कहा कि तुम मुझे भरत के समान ही प्रिय भाई हो।",
+        "en": "Lord Rama praised you profusely, saying: \"You are as dear to Me as My brother Bharata.\""
+      },
+      "explanation": {
+        "hi": "श्री राम जी ने आपकी भूरि-भूरि प्रशंसा की और कहा कि तुम मुझे भरत के समान ही प्रिय भाई हो।",
+        "en": "Lord Rama praised you profusely, saying: \"You are as dear to Me as My brother Bharata.\""
+      },
+      "wordMeanings": {
+        "hi": "",
+        "en": ""
+      },
+      "order": 20
+    },
+    {
+      "id": "verse-1-15",
+      "type": "verse",
+      "verseNumber": 15,
+      "sanskrit": "सहस बदन तुम्हरो जस गावैं।\nअस कहि श्रीपति कंठ लगावैं।।",
+      "transliteration": "sahas badan tumharo jas gāvaiṁ |\nasa kahi śrīpati kaṁṭh lagāvaiṁ ||",
+      "translation": {
+        "hi": "हजारों मुख वाले शेषनाग भी आपका यशोगान करते हैं — ऐसा कहकर लक्ष्मीपति श्री राम ने आपको पुन: गले से लगा लिया।",
+        "en": "\"Thousands of mouths sing your glory!\" Saying this, the Lord of Lakshmi embraced you."
+      },
+      "explanation": {
+        "hi": "हजारों मुख वाले शेषनाग भी आपका यशोगान करते हैं — ऐसा कहकर लक्ष्मीपति श्री राम ने आपको पुन: गले से लगा लिया।",
+        "en": "\"Thousands of mouths sing your glory!\" Saying this, the Lord of Lakshmi embraced you."
+      },
+      "wordMeanings": {
+        "hi": "",
+        "en": ""
+      },
+      "order": 21
+    },
+    {
+      "id": "verse-1-16",
+      "type": "verse",
+      "verseNumber": 16,
+      "sanskrit": "सनकादिक ब्रह्मादि मुनीसा।\nनारद सारद सहित अहीसा।।",
+      "transliteration": "sanakādika brahmādi munīsā |\nnārada sārada sahita ahīsā ||",
+      "translation": {
+        "hi": "सनक, सनन्दन आदि ऋषि, ब्रह्मा आदि देव, मुनिगण, नारद जी, माता सरस्वती और शेषनाग सब आपका यश गाते हैं।",
+        "en": "Sanaka and the sages, Brahma and the gods, Narada, Saraswati, and Sheshnaga all sing your praise."
+      },
+      "explanation": {
+        "hi": "सनक, सनन्दन आदि ऋषि, ब्रह्मा आदि देव, मुनिगण, नारद जी, माता सरस्वती और शेषनाग सब आपका यश गाते हैं।",
+        "en": "Sanaka and the sages, Brahma and the gods, Narada, Saraswati, and Sheshnaga all sing your praise."
+      },
+      "wordMeanings": {
+        "hi": "",
+        "en": ""
+      },
+      "order": 22
+    },
+    {
+      "id": "verse-1-17",
+      "type": "verse",
+      "verseNumber": 17,
+      "sanskrit": "जम कुबेर दिगपाल जहां ते।\nकबि कोबिद कहि सके कहां ते।।",
+      "transliteration": "jam kubera digapāla jahāṁ te |\nkabi kobida kahi sake kahāṁ te ||",
+      "translation": {
+        "hi": "यमराज, कुबेर और दसों दिशाओं के रक्षक (दिक्पाल) जहाँ तक आपकी महिमा का गान कर सकें, विद्वान और कवि भी उसे पूर्णतः कहने में असमर्थ हैं।",
+        "en": "Yama, Kubera, and the guardians of directions cannot fully describe your glory; how then can poets and scholars express it?"
+      },
+      "explanation": {
+        "hi": "यमराज, कुबेर और दसों दिशाओं के रक्षक (दिक्पाल) जहाँ तक आपकी महिमा का गान कर सकें, विद्वान और कवि भी उसे पूर्णतः कहने में असमर्थ हैं।",
+        "en": "Yama, Kubera, and the guardians of directions cannot fully describe your glory; how then can poets and scholars express it?"
+      },
+      "wordMeanings": {
+        "hi": "",
+        "en": ""
+      },
+      "order": 23
+    },
+    {
+      "id": "verse-1-18",
+      "type": "verse",
+      "verseNumber": 18,
+      "sanskrit": "तुम उपकार सुग्रीवहिं कीन्हा।\nराम मिलाय राज पद दीन्हा।।",
+      "transliteration": "tum upakār sugrīvahiṁ kīnhā |\nrām milāya rāja pada dīnhā ||",
+      "translation": {
+        "hi": "आपने सुग्रीव जी पर महान उपकार किया; उन्हें श्री राम से मिलाकर किष्किंधा का राज्य पद दिलाया।",
+        "en": "You rendered a great service to Sugriva by uniting him with Rama and bestowing upon him the kingdom."
+      },
+      "explanation": {
+        "hi": "आपने सुग्रीव जी पर महान उपकार किया; उन्हें श्री राम से मिलाकर किष्किंधा का राज्य पद दिलाया।",
+        "en": "You rendered a great service to Sugriva by uniting him with Rama and bestowing upon him the kingdom."
+      },
+      "wordMeanings": {
+        "hi": "",
+        "en": ""
+      },
+      "order": 24
+    },
+    {
+      "id": "verse-1-19",
+      "type": "verse",
+      "verseNumber": 19,
+      "sanskrit": "तुम्हरो मंत्र बिभीषन माना।\nलंकेस्वर भए सब जग जाना।।",
+      "transliteration": "tumharo mantra bibhīṣana mānā |\nlaṁkesvara bhae saba jaga jānā ||",
+      "translation": {
+        "hi": "आपकी सलाह को विभीषण ने माना और वे लंका के राजा बने, यह बात सारा संसार जानता है।",
+        "en": "Vibhishana heeded your counsel and became the king of Lanka, as the whole world knows."
+      },
+      "explanation": {
+        "hi": "आपकी सलाह को विभीषण ने माना और वे लंका के राजा बने, यह बात सारा संसार जानता है।",
+        "en": "Vibhishana heeded your counsel and became the king of Lanka, as the whole world knows."
+      },
+      "wordMeanings": {
+        "hi": "",
+        "en": ""
+      },
+      "order": 25
+    },
+    {
+      "id": "verse-1-20",
+      "type": "verse",
+      "verseNumber": 20,
+      "sanskrit": "जुग सहस्र जोजन पर भानू।\nलील्यो ताहि मधुर फल जानू।।",
+      "transliteration": "juga sahasra jojana para bhānū |\nlīlyo tāhi madhura phala jānū ||",
+      "translation": {
+        "hi": "जो सूर्य हजारों योजन की दूरी पर स्थित हैं, उन्हें आपने बाल्यकाल में एक मीठा फल समझकर निगल लिया था।",
+        "en": "The sun, situated thousands of yojanas away, was swallowed by you in childhood, mistaking it for a sweet fruit."
+      },
+      "explanation": {
+        "hi": "जो सूर्य हजारों योजन की दूरी पर स्थित हैं, उन्हें आपने बाल्यकाल में एक मीठा फल समझकर निगल लिया था।",
+        "en": "The sun, situated thousands of yojanas away, was swallowed by you in childhood, mistaking it for a sweet fruit."
+      },
+      "wordMeanings": {
+        "hi": "",
+        "en": ""
+      },
+      "order": 26
+    },
+    {
+      "id": "verse-1-21",
+      "type": "verse",
+      "verseNumber": 21,
+      "sanskrit": "प्रभु मुद्रिका मेलि मुख माहीं।\nजलधि लांघि गये अचरज नाहीं।।",
+      "transliteration": "prabhu mudrikā meli mukha māhīṁ |\njaladhi lāṁghi gaye acharaja nāhīṁ ||",
+      "translation": {
+        "hi": "श्री राम जी की अंगूठी को मुख में रखकर आपने विशाल समुद्र को लांघ लिया, इसमें कोई आश्चर्य की बात नहीं है।",
+        "en": "Holding the Lord's ring in your mouth, you leaped across the ocean; there is no wonder in this for you."
+      },
+      "explanation": {
+        "hi": "श्री राम जी की अंगूठी को मुख में रखकर आपने विशाल समुद्र को लांघ लिया, इसमें कोई आश्चर्य की बात नहीं है।",
+        "en": "Holding the Lord's ring in your mouth, you leaped across the ocean; there is no wonder in this for you."
+      },
+      "wordMeanings": {
+        "hi": "",
+        "en": ""
+      },
+      "order": 27
+    },
+    {
+      "id": "verse-1-22",
+      "type": "verse",
+      "verseNumber": 22,
+      "sanskrit": "दुर्गम काज जगत के जेते।\nसुगम अनुग्रह तुम्हरे तेते।।",
+      "transliteration": "durgama kāja jagata ke jete |\nsugama anugraha tumhare tete ||",
+      "translation": {
+        "hi": "संसार के जितने भी कठिन से कठिन कार्य हैं, वे आपकी कृपा दृष्टि से अत्यंत सुगम और सरल हो जाते हैं।",
+        "en": "Whatever difficult tasks exist in this world become easy by your grace."
+      },
+      "explanation": {
+        "hi": "संसार के जितने भी कठिन से कठिन कार्य हैं, वे आपकी कृपा दृष्टि से अत्यंत सुगम और सरल हो जाते हैं।",
+        "en": "Whatever difficult tasks exist in this world become easy by your grace."
+      },
+      "wordMeanings": {
+        "hi": "",
+        "en": ""
+      },
+      "order": 28
+    },
+    {
+      "id": "verse-1-23",
+      "type": "verse",
+      "verseNumber": 23,
+      "sanskrit": "राम दुआरे तुम रखवारे।\nहोत न आज्ञा बिनु पैसारे।।",
+      "transliteration": "rām duāre tum rakhavāre |\nhota na ājñā binu paisāre ||",
+      "translation": {
+        "hi": "आप श्री राम के द्वारपाल और रक्षक हैं। आपकी आज्ञा के बिना कोई भी राम जी की कृपा में प्रवेश नहीं पा सकता।",
+        "en": "You are the guardian at Rama's door; no one can enter without your permission."
+      },
+      "explanation": {
+        "hi": "आप श्री राम के द्वारपाल और रक्षक हैं। आपकी आज्ञा के बिना कोई भी राम जी की कृपा में प्रवेश नहीं पा सकता।",
+        "en": "You are the guardian at Rama's door; no one can enter without your permission."
+      },
+      "wordMeanings": {
+        "hi": "",
+        "en": ""
+      },
+      "order": 29
+    },
+    {
+      "id": "verse-1-24",
+      "type": "verse",
+      "verseNumber": 24,
+      "sanskrit": "सब सुख लहै तुम्हारी सरना।\nतुम रक्षक काहू को डर ना।।",
+      "transliteration": "saba sukha lahai tumhārī saranā |\ntuma rakṣaka kāhū ko ḍara nā ||",
+      "translation": {
+        "hi": "आपकी शरण में आने वाले को सब प्रकार के सुख प्राप्त होते हैं। जब आप रक्षक हैं, तो किसी बात का भय नहीं रहता।",
+        "en": "All happiness belongs to those who take refuge in you. When you are the protector, what is there to fear?"
+      },
+      "explanation": {
+        "hi": "आपकी शरण में आने वाले को सब प्रकार के सुख प्राप्त होते हैं। जब आप रक्षक हैं, तो किसी बात का भय नहीं रहता।",
+        "en": "All happiness belongs to those who take refuge in you. When you are the protector, what is there to fear?"
+      },
+      "wordMeanings": {
+        "hi": "",
+        "en": ""
+      },
+      "order": 30
+    },
+    {
+      "id": "verse-1-25",
+      "type": "verse",
+      "verseNumber": 25,
+      "sanskrit": "आपन तेज सम्हारो आपै।\nतीनों लोक हांक तें कांपै।।",
+      "transliteration": "āpana teja samhāro āpai |\ntīnoṁ loka hāṁka teṁ kāṁpai ||",
+      "translation": {
+        "hi": "अपने प्रचंड तेज और बल को केवल आप ही संभाल सकते हैं। आपकी गर्जना से तीनों लोक कांप उठते हैं।",
+        "en": "You alone can withstand your immense power; all three worlds tremble at your roar."
+      },
+      "explanation": {
+        "hi": "अपने प्रचंड तेज और बल को केवल आप ही संभाल सकते हैं। आपकी गर्जना से तीनों लोक कांप उठते हैं।",
+        "en": "You alone can withstand your immense power; all three worlds tremble at your roar."
+      },
+      "wordMeanings": {
+        "hi": "",
+        "en": ""
+      },
+      "order": 31
+    },
+    {
+      "id": "verse-1-26",
+      "type": "verse",
+      "verseNumber": 26,
+      "sanskrit": "भूत पिसाच निकट नहिं आवै।\nमहाबीर जब नाम सुनावै।।",
+      "transliteration": "bhūta pisācha nikaṭa nahiṁ āvai |\nmahābīra jaba nāma sunāvai ||",
+      "translation": {
+        "hi": "जब आपका \"महावीर\" नाम सुनाया जाता है, तो भूत-प्रेत और नकारात्मक शक्तियाँ निकट भी नहीं आतीं।",
+        "en": "Ghosts and evil spirits cannot come near when your name \"Mahavira\" is uttered."
+      },
+      "explanation": {
+        "hi": "जब आपका \"महावीर\" नाम सुनाया जाता है, तो भूत-प्रेत और नकारात्मक शक्तियाँ निकट भी नहीं आतीं।",
+        "en": "Ghosts and evil spirits cannot come near when your name \"Mahavira\" is uttered."
+      },
+      "wordMeanings": {
+        "hi": "",
+        "en": ""
+      },
+      "order": 32
+    },
+    {
+      "id": "verse-1-27",
+      "type": "verse",
+      "verseNumber": 27,
+      "sanskrit": "नासै रोग हरै सब पीरा।\nजपत निरंतर हनुमत बीरा।।",
+      "transliteration": "nāsai roga harai saba pīrā |\njapata nirantara hanumata bīrā ||",
+      "translation": {
+        "hi": "वीर हनुमान जी के नाम का निरंतर जप करने से समस्त रोग नष्ट हो जाते हैं और सब पीड़ाएँ दूर हो जाती हैं।",
+        "en": "All diseases are destroyed and all suffering is dispelled by constantly chanting the name of brave Hanuman."
+      },
+      "explanation": {
+        "hi": "वीर हनुमान जी के नाम का निरंतर जप करने से समस्त रोग नष्ट हो जाते हैं और सब पीड़ाएँ दूर हो जाती हैं।",
+        "en": "All diseases are destroyed and all suffering is dispelled by constantly chanting the name of brave Hanuman."
+      },
+      "wordMeanings": {
+        "hi": "",
+        "en": ""
+      },
+      "order": 33
+    },
+    {
+      "id": "verse-1-28",
+      "type": "verse",
+      "verseNumber": 28,
+      "sanskrit": "संकट तें हनुमान छुड़ावै।\nमन क्रम बचन ध्यान जो लावै।।",
+      "transliteration": "saṁkaṭa teṁ hanumāna chuṛāvai |\nmana krama bachana dhyāna jo lāvai ||",
+      "translation": {
+        "hi": "जो व्यक्ति मन, कर्म और वचन से हनुमान जी का ध्यान लगाता है, हनुमान जी उसे सब संकटों से मुक्त कर देते हैं।",
+        "en": "Hanuman releases from distress anyone who contemplates Him in thought, word, and deed."
+      },
+      "explanation": {
+        "hi": "जो व्यक्ति मन, कर्म और वचन से हनुमान जी का ध्यान लगाता है, हनुमान जी उसे सब संकटों से मुक्त कर देते हैं।",
+        "en": "Hanuman releases from distress anyone who contemplates Him in thought, word, and deed."
+      },
+      "wordMeanings": {
+        "hi": "",
+        "en": ""
+      },
+      "order": 34
+    },
+    {
+      "id": "verse-1-29",
+      "type": "verse",
+      "verseNumber": 29,
+      "sanskrit": "सब पर राम तपस्वी राजा।\nतिन के काज सकल तुम साजा।।",
+      "transliteration": "saba para rām tapasvī rājā |\ntina ke kāja sakala tuma sājā ||",
+      "translation": {
+        "hi": "तपस्वी राजा श्री राम सब पर सर्वश्रेष्ठ हैं, और उनके भी समस्त कार्यों को आपने ही सँवारा और सिद्ध किया।",
+        "en": "Supreme King Rama is the lord of all ascetics; and you accomplished all His tasks."
+      },
+      "explanation": {
+        "hi": "तपस्वी राजा श्री राम सब पर सर्वश्रेष्ठ हैं, और उनके भी समस्त कार्यों को आपने ही सँवारा और सिद्ध किया।",
+        "en": "Supreme King Rama is the lord of all ascetics; and you accomplished all His tasks."
+      },
+      "wordMeanings": {
+        "hi": "",
+        "en": ""
+      },
+      "order": 35
+    },
+    {
+      "id": "verse-1-30",
+      "type": "verse",
+      "verseNumber": 30,
+      "sanskrit": "और मनोरथ जो कोई लावै।\nसोइ अमित जीवन फल पावै।।",
+      "transliteration": "aura manoratha jo koī lāvai |\nsoi amita jīvana phala pāvai ||",
+      "translation": {
+        "hi": "जो कोई भक्त अपनी निष्काम या सकाम इच्छा आपके पास लाता है, वह जीवन का असीम और अक्षय फल प्राप्त करता है।",
+        "en": "Whosoever brings any desire to you attains the limitless fruit of life."
+      },
+      "explanation": {
+        "hi": "जो कोई भक्त अपनी निष्काम या सकाम इच्छा आपके पास लाता है, वह जीवन का असीम और अक्षय फल प्राप्त करता है।",
+        "en": "Whosoever brings any desire to you attains the limitless fruit of life."
+      },
+      "wordMeanings": {
+        "hi": "",
+        "en": ""
+      },
+      "order": 36
+    },
+    {
+      "id": "verse-1-31",
+      "type": "verse",
+      "verseNumber": 31,
+      "sanskrit": "चारों जुग परताप तुम्हारा।\nहै परसिद्ध जगत उजियारा।।",
+      "transliteration": "chāroṁ juga paratāpa tumhārā |\nhai parasiddha jagata ujiyārā ||",
+      "translation": {
+        "hi": "सतयुग, त्रेता, द्वापर और कलि — चारों युगों में आपका प्रताप फैला हुआ है और आपकी कीर्ति से सारा जगत् आलोकित है।",
+        "en": "Your glory shines throughout all four ages; your fame illuminates the entire world."
+      },
+      "explanation": {
+        "hi": "सतयुग, त्रेता, द्वापर और कलि — चारों युगों में आपका प्रताप फैला हुआ है और आपकी कीर्ति से सारा जगत् आलोकित है।",
+        "en": "Your glory shines throughout all four ages; your fame illuminates the entire world."
+      },
+      "wordMeanings": {
+        "hi": "",
+        "en": ""
+      },
+      "order": 37
+    },
+    {
+      "id": "verse-1-32",
+      "type": "verse",
+      "verseNumber": 32,
+      "sanskrit": "साधु-संत के तुम रखवारे।\nअसुर निकंदन राम दुलारे।।",
+      "transliteration": "sādhu-saṁta ke tuma rakhavāre |\nasura nikaṁdana rāma dulāre ||",
+      "translation": {
+        "hi": "आप साधुओं और संतों के रक्षक, दुष्ट असुरों का नाश करने वाले और श्री राम के अत्यंत दुलारे हैं।",
+        "en": "You are the protector of saints and sages, the destroyer of demons, and the beloved of Rama."
+      },
+      "explanation": {
+        "hi": "आप साधुओं और संतों के रक्षक, दुष्ट असुरों का नाश करने वाले और श्री राम के अत्यंत दुलारे हैं।",
+        "en": "You are the protector of saints and sages, the destroyer of demons, and the beloved of Rama."
+      },
+      "wordMeanings": {
+        "hi": "",
+        "en": ""
+      },
+      "order": 38
+    },
+    {
+      "id": "verse-1-33",
+      "type": "verse",
+      "verseNumber": 33,
+      "sanskrit": "अष्ट सिद्धि नौ निधि के दाता।\nअस बर दीन जानकी माता।।",
+      "transliteration": "aṣṭa siddhi nau nidhi ke dātā |\nasa bara dīna jānakī mātā ||",
+      "translation": {
+        "hi": "आप आठों सिद्धियों और नवों निधियों को देने वाले हैं; ऐसा वरदान आपको माता जानकी (सीता जी) ने दिया है।",
+        "en": "Mother Janaki granted you the boon to bestow the eight occult powers and the nine treasures."
+      },
+      "explanation": {
+        "hi": "आप आठों सिद्धियों और नवों निधियों को देने वाले हैं; ऐसा वरदान आपको माता जानकी (सीता जी) ने दिया है।",
+        "en": "Mother Janaki granted you the boon to bestow the eight occult powers and the nine treasures."
+      },
+      "wordMeanings": {
+        "hi": "",
+        "en": ""
+      },
+      "order": 39
+    },
+    {
+      "id": "verse-1-34",
+      "type": "verse",
+      "verseNumber": 34,
+      "sanskrit": "राम रसायन तुम्हरे पासा।\nसदा रहो रघुपति के दासा।।",
+      "transliteration": "rāma rasāyana tumhare pāsā |\nsadā raho raghupati ke dāsā ||",
+      "translation": {
+        "hi": "आपके पास श्री राम की भक्ति रूपी दिव्य औषधि (रसायन) है; आप सदैव श्री रघुनाथ जी के अनन्य सेवक बने रहें।",
+        "en": "You possess the elixir of Rama's devotion; may you ever remain the servant of Raghupati."
+      },
+      "explanation": {
+        "hi": "आपके पास श्री राम की भक्ति रूपी दिव्य औषधि (रसायन) है; आप सदैव श्री रघुनाथ जी के अनन्य सेवक बने रहें।",
+        "en": "You possess the elixir of Rama's devotion; may you ever remain the servant of Raghupati."
+      },
+      "wordMeanings": {
+        "hi": "",
+        "en": ""
+      },
+      "order": 40
+    },
+    {
+      "id": "verse-1-35",
+      "type": "verse",
+      "verseNumber": 35,
+      "sanskrit": "तुम्हरे भजन राम को पावै।\nजनम-जनम के दुख बिसरावै।।",
+      "transliteration": "tumhare bhajana rāma ko pāvai |\njanama-janama ke dukha bisarāvai ||",
+      "translation": {
+        "hi": "आपका भजन-स्मरण करने से भक्त को श्री राम की प्राप्ति होती है और उसके अनेक जन्मों के दुःखों का नाश हो जाता है।",
+        "en": "Chanting your praise, one finds Lord Rama and forgets the sorrows of many lifetimes."
+      },
+      "explanation": {
+        "hi": "आपका भजन-स्मरण करने से भक्त को श्री राम की प्राप्ति होती है और उसके अनेक जन्मों के दुःखों का नाश हो जाता है।",
+        "en": "Chanting your praise, one finds Lord Rama and forgets the sorrows of many lifetimes."
+      },
+      "wordMeanings": {
+        "hi": "",
+        "en": ""
+      },
+      "order": 41
+    },
+    {
+      "id": "verse-1-36",
+      "type": "verse",
+      "verseNumber": 36,
+      "sanskrit": "अन्तकाल रघुबर पुर जाई।\nजहां जन्म हरि-भक्त कहाई।।",
+      "transliteration": "antakāla raghubara pura jāī |\njahāṁ janma hari-bhakta kahāī ||",
+      "translation": {
+        "hi": "अंत समय में भक्त श्री राम के परम धाम (साकेत/वैकुंठ) जाता है, और यदि पुन: जन्म ले तो भगवान का अनन्य भक्त कहलाता है।",
+        "en": "At the end of life, one enters Rama's supreme abode, and wherever born again, is called a devotee of Hari."
+      },
+      "explanation": {
+        "hi": "अंत समय में भक्त श्री राम के परम धाम (साकेत/वैकुंठ) जाता है, और यदि पुन: जन्म ले तो भगवान का अनन्य भक्त कहलाता है।",
+        "en": "At the end of life, one enters Rama's supreme abode, and wherever born again, is called a devotee of Hari."
+      },
+      "wordMeanings": {
+        "hi": "",
+        "en": ""
+      },
+      "order": 42
+    },
+    {
+      "id": "verse-1-37",
+      "type": "verse",
+      "verseNumber": 37,
+      "sanskrit": "और देवता चित्त न धरई।\nहनुमत सेइ सर्ब सुख करई।।",
+      "transliteration": "aura devatā chitta na dharaī |\nhanumata sei sarba sukha karaī ||",
+      "translation": {
+        "hi": "अन्य किसी देवता का चित्त में ध्यान न भी धरे, तो भी केवल हनुमान जी की सेवा-भक्ति से संपूर्ण सुखों की प्राप्ति हो जाती है।",
+        "en": "Even without holding other deities in mind, serving Hanuman alone bestows all happiness."
+      },
+      "explanation": {
+        "hi": "अन्य किसी देवता का चित्त में ध्यान न भी धरे, तो भी केवल हनुमान जी की सेवा-भक्ति से संपूर्ण सुखों की प्राप्ति हो जाती है।",
+        "en": "Even without holding other deities in mind, serving Hanuman alone bestows all happiness."
+      },
+      "wordMeanings": {
+        "hi": "",
+        "en": ""
+      },
+      "order": 43
+    },
+    {
+      "id": "verse-1-38",
+      "type": "verse",
+      "verseNumber": 38,
+      "sanskrit": "संकट कटै मिटै सब पीरा।\nजो सुमिरै हनुमत बलबीरा।।",
+      "transliteration": "saṁkaṭa kaṭai miṭai saba pīrā |\njo sumirai hanumata balabīrā ||",
+      "translation": {
+        "hi": "जो भी बलशाली वीर हनुमान जी का स्मरण करता है, उसके समस्त संकट कट जाते हैं और सब प्रकार के कष्ट मिट जाते हैं।",
+        "en": "All troubles are cut short and all pains vanish for one who remembers the powerful Hanuman."
+      },
+      "explanation": {
+        "hi": "जो भी बलशाली वीर हनुमान जी का स्मरण करता है, उसके समस्त संकट कट जाते हैं और सब प्रकार के कष्ट मिट जाते हैं।",
+        "en": "All troubles are cut short and all pains vanish for one who remembers the powerful Hanuman."
+      },
+      "wordMeanings": {
+        "hi": "",
+        "en": ""
+      },
+      "order": 44
+    },
+    {
+      "id": "verse-1-39",
+      "type": "verse",
+      "verseNumber": 39,
+      "sanskrit": "जै जै जै हनुमान गोसाईं।\nकृपा करहु गुरुदेव की नाईं।।",
+      "transliteration": "jai jai jai hanumāna gosāīṁ |\nkṛpā karahu gurudeva kī nāīṁ ||",
+      "translation": {
+        "hi": "हे स्वामी हनुमान जी! आपकी जय हो, जय हो, जय हो! आप सद्गुरुदेव के समान मुझ पर अपनी पूर्ण कृपा दृष्टि बनाए रखें।",
+        "en": "Hail, hail, hail to Lord Hanuman! Shower your grace upon me like a divine spiritual master."
+      },
+      "explanation": {
+        "hi": "हे स्वामी हनुमान जी! आपकी जय हो, जय हो, जय हो! आप सद्गुरुदेव के समान मुझ पर अपनी पूर्ण कृपा दृष्टि बनाए रखें।",
+        "en": "Hail, hail, hail to Lord Hanuman! Shower your grace upon me like a divine spiritual master."
+      },
+      "wordMeanings": {
+        "hi": "",
+        "en": ""
+      },
+      "order": 45
+    },
+    {
+      "id": "verse-1-40",
+      "type": "verse",
+      "verseNumber": 40,
+      "sanskrit": "जो सत बार पाठ कर कोई।\nछूटहि बंदि महा सुख होई।।",
+      "transliteration": "jo sata bāra pāṭha kara koī |\nchūṭahi baṁdi mahā sukha hoī ||",
+      "translation": {
+        "hi": "जो कोई भी इस हनुमान चालीसा का सौ बार पाठ करता है, वह जन्म-मरण एवं सांसारिक बंधनों से छूट जाता है और परम सुख पाता है।",
+        "en": "Whoever recites this a hundred times is released from bondage and attains supreme bliss."
+      },
+      "explanation": {
+        "hi": "जो कोई भी इस हनुमान चालीसा का सौ बार पाठ करता है, वह जन्म-मरण एवं सांसारिक बंधनों से छूट जाता है और परम सुख पाता है।",
+        "en": "Whoever recites this a hundred times is released from bondage and attains supreme bliss."
+      },
+      "wordMeanings": {
+        "hi": "",
+        "en": ""
+      },
+      "order": 46
+    },
+    {
+      "id": "verse-1-41",
+      "type": "verse",
+      "verseNumber": 41,
+      "sanskrit": "जो यह पढ़ै हनुमान चालीसा।\nहोय सिद्धि साखी गौरीसा।।",
+      "transliteration": "jo yaha paṛhai hanumāna chālīsā |\nhoya siddhi sākhī gaurīsā ||",
+      "translation": {
+        "hi": "जो भी इस हनुमान चालीसा को पढ़ता है, उसे अवश्य ही कार्यसिद्धि प्राप्त होती है; इसके साक्षी स्वयं भगवान शिव (गौरीश) हैं।",
+        "en": "Whoever reads this Hanuman Chalisa attains perfection, as Lord Shiva Himself bears witness."
+      },
+      "explanation": {
+        "hi": "जो भी इस हनुमान चालीसा को पढ़ता है, उसे अवश्य ही कार्यसिद्धि प्राप्त होती है; इसके साक्षी स्वयं भगवान शिव (गौरीश) हैं।",
+        "en": "Whoever reads this Hanuman Chalisa attains perfection, as Lord Shiva Himself bears witness."
+      },
+      "wordMeanings": {
+        "hi": "",
+        "en": ""
+      },
+      "order": 47
+    },
+    {
+      "id": "verse-1-42",
+      "type": "verse",
+      "verseNumber": 42,
+      "sanskrit": "तुलसीदास सदा हरि चेरा।\nकीजै नाथ हृदय मंह डेरा।।",
+      "transliteration": "tulasīdāsa sadā hari cherā |\nkījai nātha hṛdaya maṁha ḍerā ||",
+      "translation": {
+        "hi": "तुलसीदास सदा भगवान श्री राम का दास है; हे नाथ (हनुमान जी)! आप सदैव मेरे हृदय में निवास कीजिए।",
+        "en": "Tulsidas is ever the servant of Hari; O Lord Hanuman, make your permanent abode in my heart."
+      },
+      "explanation": {
+        "hi": "तुलसीदास सदा भगवान श्री राम का दास है; हे नाथ (हनुमान जी)! आप सदैव मेरे हृदय में निवास कीजिए।",
+        "en": "Tulsidas is ever the servant of Hari; O Lord Hanuman, make your permanent abode in my heart."
+      },
+      "wordMeanings": {
+        "hi": "",
+        "en": ""
+      },
+      "order": 48
+    },
+    {
+      "id": "subheading-1-49",
+      "type": "subheading",
+      "text": {
+        "hi": "॥ दोहा ॥",
+        "en": "Closing Doha"
+      },
+      "order": 49
+    },
+    {
+      "id": "verse-1-43",
+      "type": "verse",
+      "verseNumber": 43,
+      "sanskrit": "पवन तनय संकट हरन, मंगल मूरति रूप।\nराम लखन सीता सहित, हृदय बसहु सुर भूप।।",
+      "transliteration": "pavana tanaya saṁkaṭa harana, maṁgala mūrati rūpa |\nrāma lakhana sītā sahita, hṛdaya basahu sura bhūpa ||",
+      "translation": {
+        "hi": "हे संकटमोचन पवनपुत्र! आप मंगलमूर्ति स्वरूप हैं। हे देवों के राजा! आप प्रभु श्री राम, लक्ष्मण और माता सीता सहित मेरे हृदय में सदा निवास कीजिए।",
+        "en": "O Son of the Wind, dispeller of distress, embodiment of auspiciousness! O King of Gods, reside in my heart along with Rama, Lakshmana, and Sita."
+      },
+      "explanation": {
+        "hi": "हे संकटमोचन पवनपुत्र! आप मंगलमूर्ति स्वरूप हैं। हे देवों के राजा! आप प्रभु श्री राम, लक्ष्मण और माता सीता सहित मेरे हृदय में सदा निवास कीजिए।",
+        "en": "O Son of the Wind, dispeller of distress, embodiment of auspiciousness! O King of Gods, reside in my heart along with Rama, Lakshmana, and Sita."
+      },
+      "wordMeanings": {
+        "hi": "",
+        "en": ""
+      },
+      "order": 50
+    },
+    {
+      "id": "divider-1-51",
+      "type": "divider",
+      "order": 51
+    },
+    {
+      "id": "heading-1-52",
+      "type": "heading",
+      "text": {
+        "hi": "🙏 हनुमान चालीसा का विशेष महत्व व महिमा",
+        "en": "Significance & Glory of Hanuman Chalisa"
+      },
+      "order": 52
+    },
+    {
+      "id": "quote-1-53",
+      "type": "quote",
+      "text": {
+        "hi": "🎯 संकट कटै मिटै सब पीरा, जो सुमिरै हनुमत बलबीरा। हनुमान चालीसा का पाठ करने से जीवन के सभी संकट दूर होते हैं और भय मिटता है।",
+        "en": "All troubles are cut short and all pains vanish for one who remembers the powerful Hanuman."
+      },
+      "order": 53
+    },
+    {
+      "id": "bullet_list-1-54",
+      "type": "bullet_list",
+      "items": [
+        {
+          "hi": "⚡ शक्ति और सुरक्षा: नियमित पाठ से अपार आत्मबल, ऊर्जा तथा भयमुक्ति की प्राप्ति होती है।",
+          "en": "Strength & Protection"
+        },
+        {
+          "hi": "🩺 रोग निवारण: \"नासै रोग हरै सब पीरा, जपत निरंतर हनुमत बीरा\" — रोगों तथा मानसिक तनाव से मुक्ति मिलती है।",
+          "en": "Healing & Health"
+        },
+        {
+          "hi": "📿 अष्ट सिद्धि नौ निधि: माता जानकी के आशीर्वाद से हनुमान जी सिद्धियों और निधियों के दाता हैं।",
+          "en": "Eight Siddhis & Nine Nidhis"
+        }
+      ],
+      "order": 54
+    },
+    {
+      "id": "footer-1-55",
+      "type": "footer",
+      "text": {
+        "hi": "॥ जय श्री राम ॥ जय हनुमान ज्ञान गुन सागर ॥",
+        "en": "Hail Lord Rama! Hail Hanuman!"
+      },
+      "order": 55
+    }
+  ],
+  "verses": [
+    {
+      "verseNumber": 1,
+      "sanskrit": "श्रीगुरु चरन सरोज रज, निज मनु मुकुरु सुधारि।\nबरनऊं रघुबर बिमल जसु, जो दायकु फल चारि।।",
+      "transliteration": "shrīguru charan saroj raj, nij manu mukuru sudhāri |\nbaranūṁ raghubar bimal jasu, jo dāyaku phal chāri ||",
+      "translation": {
+        "hi": "श्री गुरु महाराज के चरण कमलों की धूलि से अपने मन रूपी दर्पण को पवित्र करके, मैं श्री रघुवीर के निर्मल यश का वर्णन करता हूँ, जो धर्म, अर्थ, काम और मोक्ष रूपी चारों फलों को देने वाला है।",
+        "en": "Cleansing the mirror of my mind with the dust of my Guru's lotus feet, I sing the pure glory of Lord Rama, which bestows the four fruits of life."
+      },
+      "explanation": {
+        "hi": "श्री गुरु महाराज के चरण कमलों की धूलि से अपने मन रूपी दर्पण को पवित्र करके, मैं श्री रघुवीर के निर्मल यश का वर्णन करता हूँ, जो धर्म, अर्थ, काम और मोक्ष रूपी चारों फलों को देने वाला है।",
+        "en": "Cleansing the mirror of my mind with the dust of my Guru's lotus feet, I sing the pure glory of Lord Rama, which bestows the four fruits of life."
+      },
+      "wordMeanings": {
+        "hi": "",
+        "en": ""
+      }
+    },
+    {
+      "verseNumber": 2,
+      "sanskrit": "बुद्धिहीन तनु जानिके, सुमिरौं पवन-कुमार।\nबल बुद्धि बिद्या देहु मोहिं, हरहु कलेस बिकार।।",
+      "transliteration": "buddhihīn tanu jānike, sumiraiṁ pavan-kumār |\nbal buddhi bidyā dehu mohiṁ, harahu kales bikār ||",
+      "translation": {
+        "hi": "हे पवन कुमार! मैं स्वयं को बुद्धिहीन मानकर आपका स्मरण करता हूँ। मुझे बल, बुद्धि और विद्या प्रदान करें और मेरे समस्त कष्टों एवं दोषों का निवारण करें।",
+        "en": "Knowing myself to be devoid of intelligence, I meditate on you, O Son of the Wind! Grant me strength, wisdom, and knowledge, and remove all my afflictions and impurities."
+      },
+      "explanation": {
+        "hi": "हे पवन कुमार! मैं स्वयं को बुद्धिहीन मानकर आपका स्मरण करता हूँ। मुझे बल, बुद्धि और विद्या प्रदान करें और मेरे समस्त कष्टों एवं दोषों का निवारण करें।",
+        "en": "Knowing myself to be devoid of intelligence, I meditate on you, O Son of the Wind! Grant me strength, wisdom, and knowledge, and remove all my afflictions and impurities."
+      },
+      "wordMeanings": {
+        "hi": "",
+        "en": ""
+      }
+    },
+    {
+      "verseNumber": 3,
+      "sanskrit": "जय हनुमान ज्ञान गुन सागर।\nजय कपीस तिहुं लोक उजागर।।",
+      "transliteration": "jai hanumān gyān gun sāgar |\njai kapīs tihuṁ lok ujāgar ||",
+      "translation": {
+        "hi": "ज्ञान और गुणों के समुद्र श्री हनुमान जी की जय हो! तीनों लोकों में प्रसिद्ध वानर श्रेष्ठ कपीश्वर की जय हो!",
+        "en": "Victory to Hanuman, the ocean of wisdom and virtue! Victory to the Lord of Monkeys, who illuminates all three worlds!"
+      },
+      "explanation": {
+        "hi": "ज्ञान और गुणों के समुद्र श्री हनुमान जी की जय हो! तीनों लोकों में प्रसिद्ध वानर श्रेष्ठ कपीश्वर की जय हो!",
+        "en": "Victory to Hanuman, the ocean of wisdom and virtue! Victory to the Lord of Monkeys, who illuminates all three worlds!"
+      },
+      "wordMeanings": {
+        "hi": "",
+        "en": ""
+      }
+    },
+    {
+      "verseNumber": 4,
+      "sanskrit": "रामदूत अतुलित बल धामा।\nअंजनि-पुत्र पवनसुत नामा।।",
+      "transliteration": "rāmadūt atulit bal dhāmā |\naṁjani-putra pavanasut nāmā ||",
+      "translation": {
+        "hi": "आप श्री राम के दूत और अतुलनीय बल के धाम हैं। आप माता अंजनी के पुत्र और पवनसुत नाम से जाने जाते हैं।",
+        "en": "You are the messenger of Lord Rama and the abode of immeasurable strength. You are known as Anjani's son and the Son of the Wind."
+      },
+      "explanation": {
+        "hi": "आप श्री राम के दूत और अतुलनीय बल के धाम हैं। आप माता अंजनी के पुत्र और पवनसुत नाम से जाने जाते हैं।",
+        "en": "You are the messenger of Lord Rama and the abode of immeasurable strength. You are known as Anjani's son and the Son of the Wind."
+      },
+      "wordMeanings": {
+        "hi": "",
+        "en": ""
+      }
+    },
+    {
+      "verseNumber": 5,
+      "sanskrit": "महाबीर बिक्रम बजरंगी।\nकुमति निवार सुमति के संगी।।",
+      "transliteration": "mahābīr bikram bajarangī |\nkumati nivār sumati ke saṁgī ||",
+      "translation": {
+        "hi": "हे महान वीर, पराक्रमी और बज्रांग वाले हनुमान जी! आप कुबुद्धि को दूर करने वाले और सुबुद्धि वालों के साथी हैं।",
+        "en": "O mighty hero, immensely powerful with a body as hard as a thunderbolt! You dispel evil thoughts and are the companion of the wise."
+      },
+      "explanation": {
+        "hi": "हे महान वीर, पराक्रमी और बज्रांग वाले हनुमान जी! आप कुबुद्धि को दूर करने वाले और सुबुद्धि वालों के साथी हैं।",
+        "en": "O mighty hero, immensely powerful with a body as hard as a thunderbolt! You dispel evil thoughts and are the companion of the wise."
+      },
+      "wordMeanings": {
+        "hi": "",
+        "en": ""
+      }
+    },
+    {
+      "verseNumber": 6,
+      "sanskrit": "कंचन बरन बिराज सुबेसा।\nकानन कुंडल कुंचित केसा।।",
+      "transliteration": "kaṁchan baran birāj subesā |\nkānan kuṁḍal kuṁchit kesā ||",
+      "translation": {
+        "hi": "आपका वर्ण स्वर्ण के समान कांतिमान है, आप सुंदर वस्त्रों से सुशोभित हैं। आपके कानों में कुंडल और बाल घुंघराले हैं।",
+        "en": "Your complexion shines like gold, and you are beautifully attired. You wear ear-rings and have curly hair."
+      },
+      "explanation": {
+        "hi": "आपका वर्ण स्वर्ण के समान कांतिमान है, आप सुंदर वस्त्रों से सुशोभित हैं। आपके कानों में कुंडल और बाल घुंघराले हैं।",
+        "en": "Your complexion shines like gold, and you are beautifully attired. You wear ear-rings and have curly hair."
+      },
+      "wordMeanings": {
+        "hi": "",
+        "en": ""
+      }
+    },
+    {
+      "verseNumber": 7,
+      "sanskrit": "हाथ बज्र औ ध्वजा बिराजै।\nकांधे मूंज जनेऊ साजै।।",
+      "transliteration": "hāth bajra au dhvajā birājai |\nkāṁdhe mūṁj janeū sājai ||",
+      "translation": {
+        "hi": "आपके हाथों में गदा (वज्र) और ध्वजा सुशोभित है तथा आपके कंधे पर मूंज का जनेऊ शोभा दे रहा है।",
+        "en": "In your hands rest the thunderbolt mace and the flag; across your shoulder rests the sacred thread of munja grass."
+      },
+      "explanation": {
+        "hi": "आपके हाथों में गदा (वज्र) और ध्वजा सुशोभित है तथा आपके कंधे पर मूंज का जनेऊ शोभा दे रहा है।",
+        "en": "In your hands rest the thunderbolt mace and the flag; across your shoulder rests the sacred thread of munja grass."
+      },
+      "wordMeanings": {
+        "hi": "",
+        "en": ""
+      }
+    },
+    {
+      "verseNumber": 8,
+      "sanskrit": "संकर सुवन केसरीनंदन।\nतेज प्रताप महा जग बन्दन।।",
+      "transliteration": "saṁkar suvan kesarīnaṁdan |\ntej pratāp mahā jag bandan ||",
+      "translation": {
+        "hi": "आप भगवान शिव के अंश और केसरी महाराज के नंदन हैं। आपके महान तेज और प्रताप की संपूर्ण संसार वंदना करता है।",
+        "en": "You are the incarnation of Lord Shiva and the joy of Kesari. Your immense glory and prowess are revered throughout the world."
+      },
+      "explanation": {
+        "hi": "आप भगवान शिव के अंश और केसरी महाराज के नंदन हैं। आपके महान तेज और प्रताप की संपूर्ण संसार वंदना करता है।",
+        "en": "You are the incarnation of Lord Shiva and the joy of Kesari. Your immense glory and prowess are revered throughout the world."
+      },
+      "wordMeanings": {
+        "hi": "",
+        "en": ""
+      }
+    },
+    {
+      "verseNumber": 9,
+      "sanskrit": "विद्यावान गुनी अति चातुर।\nराम काज करिबे को आतुर।।",
+      "transliteration": "vidyāvān gunī ati chātur |\nrām kāj karibe ko ātur ||",
+      "translation": {
+        "hi": "आप अत्यंत विद्यावान, गुणी और चतुर हैं तथा श्री राम के कार्यों को सिद्ध करने के लिए सदैव तत्पर रहते हैं।",
+        "en": "You are learned, virtuous, and exceptionally clever, always eager to fulfill the tasks of Lord Rama."
+      },
+      "explanation": {
+        "hi": "आप अत्यंत विद्यावान, गुणी और चतुर हैं तथा श्री राम के कार्यों को सिद्ध करने के लिए सदैव तत्पर रहते हैं।",
+        "en": "You are learned, virtuous, and exceptionally clever, always eager to fulfill the tasks of Lord Rama."
+      },
+      "wordMeanings": {
+        "hi": "",
+        "en": ""
+      }
+    },
+    {
+      "verseNumber": 10,
+      "sanskrit": "प्रभु चरित्र सुनिबे को रसिया।\nराम लखन सीता मन बसिया।।",
+      "transliteration": "prabhu charitra sunibe ko rasiyā |\nrām lakhan sītā man basiyā ||",
+      "translation": {
+        "hi": "आप श्री राम की पावन कथा सुनने के अत्यंत रसिक हैं। श्री राम, लक्ष्मण और माता सीता आपके हृदय में सदा निवास करते हैं।",
+        "en": "You delight in listening to the divine deeds of the Lord. Rama, Lakshmana, and Sita reside eternally in your heart."
+      },
+      "explanation": {
+        "hi": "आप श्री राम की पावन कथा सुनने के अत्यंत रसिक हैं। श्री राम, लक्ष्मण और माता सीता आपके हृदय में सदा निवास करते हैं।",
+        "en": "You delight in listening to the divine deeds of the Lord. Rama, Lakshmana, and Sita reside eternally in your heart."
+      },
+      "wordMeanings": {
+        "hi": "",
+        "en": ""
+      }
+    },
+    {
+      "verseNumber": 11,
+      "sanskrit": "सूक्ष्म रूप धरि सियहिं दिखावा।\nबिकट रूप धरि लंक जरावा।।",
+      "transliteration": "sūkṣma rūp dhari siyahiṁ dikhāvā |\nbikat rūp dhari laṁk jarāvā ||",
+      "translation": {
+        "hi": "आपने सूक्ष्म रूप धारण कर माता सीता को दर्शन दिए और विकराल रूप धारण कर लंका को दहन कर दिया।",
+        "en": "Assuming a minute form, you appeared before Sita; assuming a terrifying form, you burned down Lanka."
+      },
+      "explanation": {
+        "hi": "आपने सूक्ष्म रूप धारण कर माता सीता को दर्शन दिए और विकराल रूप धारण कर लंका को दहन कर दिया।",
+        "en": "Assuming a minute form, you appeared before Sita; assuming a terrifying form, you burned down Lanka."
+      },
+      "wordMeanings": {
+        "hi": "",
+        "en": ""
+      }
+    },
+    {
+      "verseNumber": 12,
+      "sanskrit": "भीम रूप धरि असुर संहारे।\nरामचंद्र के काज संवारे।।",
+      "transliteration": "bhīm rūp dhari asur saṁhāre |\nrāmachandra ke kāj saṁvāre ||",
+      "translation": {
+        "hi": "आपने विशाल भीमकाय रूप धरकर राक्षसों का संहार किया और श्री रामचंद्र जी के सभी कार्यों को सिद्ध किया।",
+        "en": "Assuming a colossal form, you destroyed the demons and accomplished all the missions of Lord Ramachandra."
+      },
+      "explanation": {
+        "hi": "आपने विशाल भीमकाय रूप धरकर राक्षसों का संहार किया और श्री रामचंद्र जी के सभी कार्यों को सिद्ध किया।",
+        "en": "Assuming a colossal form, you destroyed the demons and accomplished all the missions of Lord Ramachandra."
+      },
+      "wordMeanings": {
+        "hi": "",
+        "en": ""
+      }
+    },
+    {
+      "verseNumber": 13,
+      "sanskrit": "लाय सजीवन लखन जियाये।\nश्रीरघुबीर हरषि उर लाये।।",
+      "transliteration": "lāya sajīvan lakhan jiyāye |\nśrīraghubīr haraṣi ur lāye ||",
+      "translation": {
+        "hi": "आप संजीवनी बूटी लाकर लक्ष्मण जी के प्राण बचाए, जिससे प्रसन्न होकर श्री रघुनाथ जी ने आपको हृदय से लगा लिया।",
+        "en": "You brought the Sanjeevani herb and revived Lakshmana; overjoyed, Lord Rama embraced you to His heart."
+      },
+      "explanation": {
+        "hi": "आप संजीवनी बूटी लाकर लक्ष्मण जी के प्राण बचाए, जिससे प्रसन्न होकर श्री रघुनाथ जी ने आपको हृदय से लगा लिया।",
+        "en": "You brought the Sanjeevani herb and revived Lakshmana; overjoyed, Lord Rama embraced you to His heart."
+      },
+      "wordMeanings": {
+        "hi": "",
+        "en": ""
+      }
+    },
+    {
+      "verseNumber": 14,
+      "sanskrit": "रघुपति कीन्ही बहुत बड़ाई।\nतुम मम प्रिय भरतहि सम भाई।।",
+      "transliteration": "raghupati kīnhī bahut baṛāī |\ntum mam priya bharatahi sam bhāī ||",
+      "translation": {
+        "hi": "श्री राम जी ने आपकी भूरि-भूरि प्रशंसा की और कहा कि तुम मुझे भरत के समान ही प्रिय भाई हो।",
+        "en": "Lord Rama praised you profusely, saying: \"You are as dear to Me as My brother Bharata.\""
+      },
+      "explanation": {
+        "hi": "श्री राम जी ने आपकी भूरि-भूरि प्रशंसा की और कहा कि तुम मुझे भरत के समान ही प्रिय भाई हो।",
+        "en": "Lord Rama praised you profusely, saying: \"You are as dear to Me as My brother Bharata.\""
+      },
+      "wordMeanings": {
+        "hi": "",
+        "en": ""
+      }
+    },
+    {
+      "verseNumber": 15,
+      "sanskrit": "सहस बदन तुम्हरो जस गावैं।\nअस कहि श्रीपति कंठ लगावैं।।",
+      "transliteration": "sahas badan tumharo jas gāvaiṁ |\nasa kahi śrīpati kaṁṭh lagāvaiṁ ||",
+      "translation": {
+        "hi": "हजारों मुख वाले शेषनाग भी आपका यशोगान करते हैं — ऐसा कहकर लक्ष्मीपति श्री राम ने आपको पुन: गले से लगा लिया।",
+        "en": "\"Thousands of mouths sing your glory!\" Saying this, the Lord of Lakshmi embraced you."
+      },
+      "explanation": {
+        "hi": "हजारों मुख वाले शेषनाग भी आपका यशोगान करते हैं — ऐसा कहकर लक्ष्मीपति श्री राम ने आपको पुन: गले से लगा लिया।",
+        "en": "\"Thousands of mouths sing your glory!\" Saying this, the Lord of Lakshmi embraced you."
+      },
+      "wordMeanings": {
+        "hi": "",
+        "en": ""
+      }
+    },
+    {
+      "verseNumber": 16,
+      "sanskrit": "सनकादिक ब्रह्मादि मुनीसा।\nनारद सारद सहित अहीसा।।",
+      "transliteration": "sanakādika brahmādi munīsā |\nnārada sārada sahita ahīsā ||",
+      "translation": {
+        "hi": "सनक, सनन्दन आदि ऋषि, ब्रह्मा आदि देव, मुनिगण, नारद जी, माता सरस्वती और शेषनाग सब आपका यश गाते हैं।",
+        "en": "Sanaka and the sages, Brahma and the gods, Narada, Saraswati, and Sheshnaga all sing your praise."
+      },
+      "explanation": {
+        "hi": "सनक, सनन्दन आदि ऋषि, ब्रह्मा आदि देव, मुनिगण, नारद जी, माता सरस्वती और शेषनाग सब आपका यश गाते हैं।",
+        "en": "Sanaka and the sages, Brahma and the gods, Narada, Saraswati, and Sheshnaga all sing your praise."
+      },
+      "wordMeanings": {
+        "hi": "",
+        "en": ""
+      }
+    },
+    {
+      "verseNumber": 17,
+      "sanskrit": "जम कुबेर दिगपाल जहां ते।\nकबि कोबिद कहि सके कहां ते।।",
+      "transliteration": "jam kubera digapāla jahāṁ te |\nkabi kobida kahi sake kahāṁ te ||",
+      "translation": {
+        "hi": "यमराज, कुबेर और दसों दिशाओं के रक्षक (दिक्पाल) जहाँ तक आपकी महिमा का गान कर सकें, विद्वान और कवि भी उसे पूर्णतः कहने में असमर्थ हैं।",
+        "en": "Yama, Kubera, and the guardians of directions cannot fully describe your glory; how then can poets and scholars express it?"
+      },
+      "explanation": {
+        "hi": "यमराज, कुबेर और दसों दिशाओं के रक्षक (दिक्पाल) जहाँ तक आपकी महिमा का गान कर सकें, विद्वान और कवि भी उसे पूर्णतः कहने में असमर्थ हैं।",
+        "en": "Yama, Kubera, and the guardians of directions cannot fully describe your glory; how then can poets and scholars express it?"
+      },
+      "wordMeanings": {
+        "hi": "",
+        "en": ""
+      }
+    },
+    {
+      "verseNumber": 18,
+      "sanskrit": "तुम उपकार सुग्रीवहिं कीन्हा।\nराम मिलाय राज पद दीन्हा।।",
+      "transliteration": "tum upakār sugrīvahiṁ kīnhā |\nrām milāya rāja pada dīnhā ||",
+      "translation": {
+        "hi": "आपने सुग्रीव जी पर महान उपकार किया; उन्हें श्री राम से मिलाकर किष्किंधा का राज्य पद दिलाया।",
+        "en": "You rendered a great service to Sugriva by uniting him with Rama and bestowing upon him the kingdom."
+      },
+      "explanation": {
+        "hi": "आपने सुग्रीव जी पर महान उपकार किया; उन्हें श्री राम से मिलाकर किष्किंधा का राज्य पद दिलाया।",
+        "en": "You rendered a great service to Sugriva by uniting him with Rama and bestowing upon him the kingdom."
+      },
+      "wordMeanings": {
+        "hi": "",
+        "en": ""
+      }
+    },
+    {
+      "verseNumber": 19,
+      "sanskrit": "तुम्हरो मंत्र बिभीषन माना।\nलंकेस्वर भए सब जग जाना।।",
+      "transliteration": "tumharo mantra bibhīṣana mānā |\nlaṁkesvara bhae saba jaga jānā ||",
+      "translation": {
+        "hi": "आपकी सलाह को विभीषण ने माना और वे लंका के राजा बने, यह बात सारा संसार जानता है।",
+        "en": "Vibhishana heeded your counsel and became the king of Lanka, as the whole world knows."
+      },
+      "explanation": {
+        "hi": "आपकी सलाह को विभीषण ने माना और वे लंका के राजा बने, यह बात सारा संसार जानता है।",
+        "en": "Vibhishana heeded your counsel and became the king of Lanka, as the whole world knows."
+      },
+      "wordMeanings": {
+        "hi": "",
+        "en": ""
+      }
+    },
+    {
+      "verseNumber": 20,
+      "sanskrit": "जुग सहस्र जोजन पर भानू।\nलील्यो ताहि मधुर फल जानू।।",
+      "transliteration": "juga sahasra jojana para bhānū |\nlīlyo tāhi madhura phala jānū ||",
+      "translation": {
+        "hi": "जो सूर्य हजारों योजन की दूरी पर स्थित हैं, उन्हें आपने बाल्यकाल में एक मीठा फल समझकर निगल लिया था।",
+        "en": "The sun, situated thousands of yojanas away, was swallowed by you in childhood, mistaking it for a sweet fruit."
+      },
+      "explanation": {
+        "hi": "जो सूर्य हजारों योजन की दूरी पर स्थित हैं, उन्हें आपने बाल्यकाल में एक मीठा फल समझकर निगल लिया था।",
+        "en": "The sun, situated thousands of yojanas away, was swallowed by you in childhood, mistaking it for a sweet fruit."
+      },
+      "wordMeanings": {
+        "hi": "",
+        "en": ""
+      }
+    },
+    {
+      "verseNumber": 21,
+      "sanskrit": "प्रभु मुद्रिका मेलि मुख माहीं।\nजलधि लांघि गये अचरज नाहीं।।",
+      "transliteration": "prabhu mudrikā meli mukha māhīṁ |\njaladhi lāṁghi gaye acharaja nāhīṁ ||",
+      "translation": {
+        "hi": "श्री राम जी की अंगूठी को मुख में रखकर आपने विशाल समुद्र को लांघ लिया, इसमें कोई आश्चर्य की बात नहीं है।",
+        "en": "Holding the Lord's ring in your mouth, you leaped across the ocean; there is no wonder in this for you."
+      },
+      "explanation": {
+        "hi": "श्री राम जी की अंगूठी को मुख में रखकर आपने विशाल समुद्र को लांघ लिया, इसमें कोई आश्चर्य की बात नहीं है।",
+        "en": "Holding the Lord's ring in your mouth, you leaped across the ocean; there is no wonder in this for you."
+      },
+      "wordMeanings": {
+        "hi": "",
+        "en": ""
+      }
+    },
+    {
+      "verseNumber": 22,
+      "sanskrit": "दुर्गम काज जगत के जेते।\nसुगम अनुग्रह तुम्हरे तेते।।",
+      "transliteration": "durgama kāja jagata ke jete |\nsugama anugraha tumhare tete ||",
+      "translation": {
+        "hi": "संसार के जितने भी कठिन से कठिन कार्य हैं, वे आपकी कृपा दृष्टि से अत्यंत सुगम और सरल हो जाते हैं।",
+        "en": "Whatever difficult tasks exist in this world become easy by your grace."
+      },
+      "explanation": {
+        "hi": "संसार के जितने भी कठिन से कठिन कार्य हैं, वे आपकी कृपा दृष्टि से अत्यंत सुगम और सरल हो जाते हैं।",
+        "en": "Whatever difficult tasks exist in this world become easy by your grace."
+      },
+      "wordMeanings": {
+        "hi": "",
+        "en": ""
+      }
+    },
+    {
+      "verseNumber": 23,
+      "sanskrit": "राम दुआरे तुम रखवारे।\nहोत न आज्ञा बिनु पैसारे।।",
+      "transliteration": "rām duāre tum rakhavāre |\nhota na ājñā binu paisāre ||",
+      "translation": {
+        "hi": "आप श्री राम के द्वारपाल और रक्षक हैं। आपकी आज्ञा के बिना कोई भी राम जी की कृपा में प्रवेश नहीं पा सकता।",
+        "en": "You are the guardian at Rama's door; no one can enter without your permission."
+      },
+      "explanation": {
+        "hi": "आप श्री राम के द्वारपाल और रक्षक हैं। आपकी आज्ञा के बिना कोई भी राम जी की कृपा में प्रवेश नहीं पा सकता।",
+        "en": "You are the guardian at Rama's door; no one can enter without your permission."
+      },
+      "wordMeanings": {
+        "hi": "",
+        "en": ""
+      }
+    },
+    {
+      "verseNumber": 24,
+      "sanskrit": "सब सुख लहै तुम्हारी सरना।\nतुम रक्षक काहू को डर ना।।",
+      "transliteration": "saba sukha lahai tumhārī saranā |\ntuma rakṣaka kāhū ko ḍara nā ||",
+      "translation": {
+        "hi": "आपकी शरण में आने वाले को सब प्रकार के सुख प्राप्त होते हैं। जब आप रक्षक हैं, तो किसी बात का भय नहीं रहता।",
+        "en": "All happiness belongs to those who take refuge in you. When you are the protector, what is there to fear?"
+      },
+      "explanation": {
+        "hi": "आपकी शरण में आने वाले को सब प्रकार के सुख प्राप्त होते हैं। जब आप रक्षक हैं, तो किसी बात का भय नहीं रहता।",
+        "en": "All happiness belongs to those who take refuge in you. When you are the protector, what is there to fear?"
+      },
+      "wordMeanings": {
+        "hi": "",
+        "en": ""
+      }
+    },
+    {
+      "verseNumber": 25,
+      "sanskrit": "आपन तेज सम्हारो आपै।\nतीनों लोक हांक तें कांपै।।",
+      "transliteration": "āpana teja samhāro āpai |\ntīnoṁ loka hāṁka teṁ kāṁpai ||",
+      "translation": {
+        "hi": "अपने प्रचंड तेज और बल को केवल आप ही संभाल सकते हैं। आपकी गर्जना से तीनों लोक कांप उठते हैं।",
+        "en": "You alone can withstand your immense power; all three worlds tremble at your roar."
+      },
+      "explanation": {
+        "hi": "अपने प्रचंड तेज और बल को केवल आप ही संभाल सकते हैं। आपकी गर्जना से तीनों लोक कांप उठते हैं।",
+        "en": "You alone can withstand your immense power; all three worlds tremble at your roar."
+      },
+      "wordMeanings": {
+        "hi": "",
+        "en": ""
+      }
+    },
+    {
+      "verseNumber": 26,
+      "sanskrit": "भूत पिसाच निकट नहिं आवै।\nमहाबीर जब नाम सुनावै।।",
+      "transliteration": "bhūta pisācha nikaṭa nahiṁ āvai |\nmahābīra jaba nāma sunāvai ||",
+      "translation": {
+        "hi": "जब आपका \"महावीर\" नाम सुनाया जाता है, तो भूत-प्रेत और नकारात्मक शक्तियाँ निकट भी नहीं आतीं।",
+        "en": "Ghosts and evil spirits cannot come near when your name \"Mahavira\" is uttered."
+      },
+      "explanation": {
+        "hi": "जब आपका \"महावीर\" नाम सुनाया जाता है, तो भूत-प्रेत और नकारात्मक शक्तियाँ निकट भी नहीं आतीं।",
+        "en": "Ghosts and evil spirits cannot come near when your name \"Mahavira\" is uttered."
+      },
+      "wordMeanings": {
+        "hi": "",
+        "en": ""
+      }
+    },
+    {
+      "verseNumber": 27,
+      "sanskrit": "नासै रोग हरै सब पीरा।\nजपत निरंतर हनुमत बीरा।।",
+      "transliteration": "nāsai roga harai saba pīrā |\njapata nirantara hanumata bīrā ||",
+      "translation": {
+        "hi": "वीर हनुमान जी के नाम का निरंतर जप करने से समस्त रोग नष्ट हो जाते हैं और सब पीड़ाएँ दूर हो जाती हैं।",
+        "en": "All diseases are destroyed and all suffering is dispelled by constantly chanting the name of brave Hanuman."
+      },
+      "explanation": {
+        "hi": "वीर हनुमान जी के नाम का निरंतर जप करने से समस्त रोग नष्ट हो जाते हैं और सब पीड़ाएँ दूर हो जाती हैं।",
+        "en": "All diseases are destroyed and all suffering is dispelled by constantly chanting the name of brave Hanuman."
+      },
+      "wordMeanings": {
+        "hi": "",
+        "en": ""
+      }
+    },
+    {
+      "verseNumber": 28,
+      "sanskrit": "संकट तें हनुमान छुड़ावै।\nमन क्रम बचन ध्यान जो लावै।।",
+      "transliteration": "saṁkaṭa teṁ hanumāna chuṛāvai |\nmana krama bachana dhyāna jo lāvai ||",
+      "translation": {
+        "hi": "जो व्यक्ति मन, कर्म और वचन से हनुमान जी का ध्यान लगाता है, हनुमान जी उसे सब संकटों से मुक्त कर देते हैं।",
+        "en": "Hanuman releases from distress anyone who contemplates Him in thought, word, and deed."
+      },
+      "explanation": {
+        "hi": "जो व्यक्ति मन, कर्म और वचन से हनुमान जी का ध्यान लगाता है, हनुमान जी उसे सब संकटों से मुक्त कर देते हैं।",
+        "en": "Hanuman releases from distress anyone who contemplates Him in thought, word, and deed."
+      },
+      "wordMeanings": {
+        "hi": "",
+        "en": ""
+      }
+    },
+    {
+      "verseNumber": 29,
+      "sanskrit": "सब पर राम तपस्वी राजा।\nतिन के काज सकल तुम साजा।।",
+      "transliteration": "saba para rām tapasvī rājā |\ntina ke kāja sakala tuma sājā ||",
+      "translation": {
+        "hi": "तपस्वी राजा श्री राम सब पर सर्वश्रेष्ठ हैं, और उनके भी समस्त कार्यों को आपने ही सँवारा और सिद्ध किया।",
+        "en": "Supreme King Rama is the lord of all ascetics; and you accomplished all His tasks."
+      },
+      "explanation": {
+        "hi": "तपस्वी राजा श्री राम सब पर सर्वश्रेष्ठ हैं, और उनके भी समस्त कार्यों को आपने ही सँवारा और सिद्ध किया।",
+        "en": "Supreme King Rama is the lord of all ascetics; and you accomplished all His tasks."
+      },
+      "wordMeanings": {
+        "hi": "",
+        "en": ""
+      }
+    },
+    {
+      "verseNumber": 30,
+      "sanskrit": "और मनोरथ जो कोई लावै।\nसोइ अमित जीवन फल पावै।।",
+      "transliteration": "aura manoratha jo koī lāvai |\nsoi amita jīvana phala pāvai ||",
+      "translation": {
+        "hi": "जो कोई भक्त अपनी निष्काम या सकाम इच्छा आपके पास लाता है, वह जीवन का असीम और अक्षय फल प्राप्त करता है।",
+        "en": "Whosoever brings any desire to you attains the limitless fruit of life."
+      },
+      "explanation": {
+        "hi": "जो कोई भक्त अपनी निष्काम या सकाम इच्छा आपके पास लाता है, वह जीवन का असीम और अक्षय फल प्राप्त करता है।",
+        "en": "Whosoever brings any desire to you attains the limitless fruit of life."
+      },
+      "wordMeanings": {
+        "hi": "",
+        "en": ""
+      }
+    },
+    {
+      "verseNumber": 31,
+      "sanskrit": "चारों जुग परताप तुम्हारा।\nहै परसिद्ध जगत उजियारा।।",
+      "transliteration": "chāroṁ juga paratāpa tumhārā |\nhai parasiddha jagata ujiyārā ||",
+      "translation": {
+        "hi": "सतयुग, त्रेता, द्वापर और कलि — चारों युगों में आपका प्रताप फैला हुआ है और आपकी कीर्ति से सारा जगत् आलोकित है।",
+        "en": "Your glory shines throughout all four ages; your fame illuminates the entire world."
+      },
+      "explanation": {
+        "hi": "सतयुग, त्रेता, द्वापर और कलि — चारों युगों में आपका प्रताप फैला हुआ है और आपकी कीर्ति से सारा जगत् आलोकित है।",
+        "en": "Your glory shines throughout all four ages; your fame illuminates the entire world."
+      },
+      "wordMeanings": {
+        "hi": "",
+        "en": ""
+      }
+    },
+    {
+      "verseNumber": 32,
+      "sanskrit": "साधु-संत के तुम रखवारे।\nअसुर निकंदन राम दुलारे।।",
+      "transliteration": "sādhu-saṁta ke tuma rakhavāre |\nasura nikaṁdana rāma dulāre ||",
+      "translation": {
+        "hi": "आप साधुओं और संतों के रक्षक, दुष्ट असुरों का नाश करने वाले और श्री राम के अत्यंत दुलारे हैं।",
+        "en": "You are the protector of saints and sages, the destroyer of demons, and the beloved of Rama."
+      },
+      "explanation": {
+        "hi": "आप साधुओं और संतों के रक्षक, दुष्ट असुरों का नाश करने वाले और श्री राम के अत्यंत दुलारे हैं।",
+        "en": "You are the protector of saints and sages, the destroyer of demons, and the beloved of Rama."
+      },
+      "wordMeanings": {
+        "hi": "",
+        "en": ""
+      }
+    },
+    {
+      "verseNumber": 33,
+      "sanskrit": "अष्ट सिद्धि नौ निधि के दाता।\nअस बर दीन जानकी माता।।",
+      "transliteration": "aṣṭa siddhi nau nidhi ke dātā |\nasa bara dīna jānakī mātā ||",
+      "translation": {
+        "hi": "आप आठों सिद्धियों और नवों निधियों को देने वाले हैं; ऐसा वरदान आपको माता जानकी (सीता जी) ने दिया है।",
+        "en": "Mother Janaki granted you the boon to bestow the eight occult powers and the nine treasures."
+      },
+      "explanation": {
+        "hi": "आप आठों सिद्धियों और नवों निधियों को देने वाले हैं; ऐसा वरदान आपको माता जानकी (सीता जी) ने दिया है।",
+        "en": "Mother Janaki granted you the boon to bestow the eight occult powers and the nine treasures."
+      },
+      "wordMeanings": {
+        "hi": "",
+        "en": ""
+      }
+    },
+    {
+      "verseNumber": 34,
+      "sanskrit": "राम रसायन तुम्हरे पासा।\nसदा रहो रघुपति के दासा।।",
+      "transliteration": "rāma rasāyana tumhare pāsā |\nsadā raho raghupati ke dāsā ||",
+      "translation": {
+        "hi": "आपके पास श्री राम की भक्ति रूपी दिव्य औषधि (रसायन) है; आप सदैव श्री रघुनाथ जी के अनन्य सेवक बने रहें।",
+        "en": "You possess the elixir of Rama's devotion; may you ever remain the servant of Raghupati."
+      },
+      "explanation": {
+        "hi": "आपके पास श्री राम की भक्ति रूपी दिव्य औषधि (रसायन) है; आप सदैव श्री रघुनाथ जी के अनन्य सेवक बने रहें।",
+        "en": "You possess the elixir of Rama's devotion; may you ever remain the servant of Raghupati."
+      },
+      "wordMeanings": {
+        "hi": "",
+        "en": ""
+      }
+    },
+    {
+      "verseNumber": 35,
+      "sanskrit": "तुम्हरे भजन राम को पावै।\nजनम-जनम के दुख बिसरावै।।",
+      "transliteration": "tumhare bhajana rāma ko pāvai |\njanama-janama ke dukha bisarāvai ||",
+      "translation": {
+        "hi": "आपका भजन-स्मरण करने से भक्त को श्री राम की प्राप्ति होती है और उसके अनेक जन्मों के दुःखों का नाश हो जाता है।",
+        "en": "Chanting your praise, one finds Lord Rama and forgets the sorrows of many lifetimes."
+      },
+      "explanation": {
+        "hi": "आपका भजन-स्मरण करने से भक्त को श्री राम की प्राप्ति होती है और उसके अनेक जन्मों के दुःखों का नाश हो जाता है।",
+        "en": "Chanting your praise, one finds Lord Rama and forgets the sorrows of many lifetimes."
+      },
+      "wordMeanings": {
+        "hi": "",
+        "en": ""
+      }
+    },
+    {
+      "verseNumber": 36,
+      "sanskrit": "अन्तकाल रघुबर पुर जाई।\nजहां जन्म हरि-भक्त कहाई।।",
+      "transliteration": "antakāla raghubara pura jāī |\njahāṁ janma hari-bhakta kahāī ||",
+      "translation": {
+        "hi": "अंत समय में भक्त श्री राम के परम धाम (साकेत/वैकुंठ) जाता है, और यदि पुन: जन्म ले तो भगवान का अनन्य भक्त कहलाता है।",
+        "en": "At the end of life, one enters Rama's supreme abode, and wherever born again, is called a devotee of Hari."
+      },
+      "explanation": {
+        "hi": "अंत समय में भक्त श्री राम के परम धाम (साकेत/वैकुंठ) जाता है, और यदि पुन: जन्म ले तो भगवान का अनन्य भक्त कहलाता है।",
+        "en": "At the end of life, one enters Rama's supreme abode, and wherever born again, is called a devotee of Hari."
+      },
+      "wordMeanings": {
+        "hi": "",
+        "en": ""
+      }
+    },
+    {
+      "verseNumber": 37,
+      "sanskrit": "और देवता चित्त न धरई।\nहनुमत सेइ सर्ब सुख करई।।",
+      "transliteration": "aura devatā chitta na dharaī |\nhanumata sei sarba sukha karaī ||",
+      "translation": {
+        "hi": "अन्य किसी देवता का चित्त में ध्यान न भी धरे, तो भी केवल हनुमान जी की सेवा-भक्ति से संपूर्ण सुखों की प्राप्ति हो जाती है।",
+        "en": "Even without holding other deities in mind, serving Hanuman alone bestows all happiness."
+      },
+      "explanation": {
+        "hi": "अन्य किसी देवता का चित्त में ध्यान न भी धरे, तो भी केवल हनुमान जी की सेवा-भक्ति से संपूर्ण सुखों की प्राप्ति हो जाती है।",
+        "en": "Even without holding other deities in mind, serving Hanuman alone bestows all happiness."
+      },
+      "wordMeanings": {
+        "hi": "",
+        "en": ""
+      }
+    },
+    {
+      "verseNumber": 38,
+      "sanskrit": "संकट कटै मिटै सब पीरा।\nजो सुमिरै हनुमत बलबीरा।।",
+      "transliteration": "saṁkaṭa kaṭai miṭai saba pīrā |\njo sumirai hanumata balabīrā ||",
+      "translation": {
+        "hi": "जो भी बलशाली वीर हनुमान जी का स्मरण करता है, उसके समस्त संकट कट जाते हैं और सब प्रकार के कष्ट मिट जाते हैं।",
+        "en": "All troubles are cut short and all pains vanish for one who remembers the powerful Hanuman."
+      },
+      "explanation": {
+        "hi": "जो भी बलशाली वीर हनुमान जी का स्मरण करता है, उसके समस्त संकट कट जाते हैं और सब प्रकार के कष्ट मिट जाते हैं।",
+        "en": "All troubles are cut short and all pains vanish for one who remembers the powerful Hanuman."
+      },
+      "wordMeanings": {
+        "hi": "",
+        "en": ""
+      }
+    },
+    {
+      "verseNumber": 39,
+      "sanskrit": "जै जै जै हनुमान गोसाईं।\nकृपा करहु गुरुदेव की नाईं।।",
+      "transliteration": "jai jai jai hanumāna gosāīṁ |\nkṛpā karahu gurudeva kī nāīṁ ||",
+      "translation": {
+        "hi": "हे स्वामी हनुमान जी! आपकी जय हो, जय हो, जय हो! आप सद्गुरुदेव के समान मुझ पर अपनी पूर्ण कृपा दृष्टि बनाए रखें।",
+        "en": "Hail, hail, hail to Lord Hanuman! Shower your grace upon me like a divine spiritual master."
+      },
+      "explanation": {
+        "hi": "हे स्वामी हनुमान जी! आपकी जय हो, जय हो, जय हो! आप सद्गुरुदेव के समान मुझ पर अपनी पूर्ण कृपा दृष्टि बनाए रखें।",
+        "en": "Hail, hail, hail to Lord Hanuman! Shower your grace upon me like a divine spiritual master."
+      },
+      "wordMeanings": {
+        "hi": "",
+        "en": ""
+      }
+    },
+    {
+      "verseNumber": 40,
+      "sanskrit": "जो सत बार पाठ कर कोई।\nछूटहि बंदि महा सुख होई।।",
+      "transliteration": "jo sata bāra pāṭha kara koī |\nchūṭahi baṁdi mahā sukha hoī ||",
+      "translation": {
+        "hi": "जो कोई भी इस हनुमान चालीसा का सौ बार पाठ करता है, वह जन्म-मरण एवं सांसारिक बंधनों से छूट जाता है और परम सुख पाता है।",
+        "en": "Whoever recites this a hundred times is released from bondage and attains supreme bliss."
+      },
+      "explanation": {
+        "hi": "जो कोई भी इस हनुमान चालीसा का सौ बार पाठ करता है, वह जन्म-मरण एवं सांसारिक बंधनों से छूट जाता है और परम सुख पाता है।",
+        "en": "Whoever recites this a hundred times is released from bondage and attains supreme bliss."
+      },
+      "wordMeanings": {
+        "hi": "",
+        "en": ""
+      }
+    },
+    {
+      "verseNumber": 41,
+      "sanskrit": "जो यह पढ़ै हनुमान चालीसा।\nहोय सिद्धि साखी गौरीसा।।",
+      "transliteration": "jo yaha paṛhai hanumāna chālīsā |\nhoya siddhi sākhī gaurīsā ||",
+      "translation": {
+        "hi": "जो भी इस हनुमान चालीसा को पढ़ता है, उसे अवश्य ही कार्यसिद्धि प्राप्त होती है; इसके साक्षी स्वयं भगवान शिव (गौरीश) हैं।",
+        "en": "Whoever reads this Hanuman Chalisa attains perfection, as Lord Shiva Himself bears witness."
+      },
+      "explanation": {
+        "hi": "जो भी इस हनुमान चालीसा को पढ़ता है, उसे अवश्य ही कार्यसिद्धि प्राप्त होती है; इसके साक्षी स्वयं भगवान शिव (गौरीश) हैं।",
+        "en": "Whoever reads this Hanuman Chalisa attains perfection, as Lord Shiva Himself bears witness."
+      },
+      "wordMeanings": {
+        "hi": "",
+        "en": ""
+      }
+    },
+    {
+      "verseNumber": 42,
+      "sanskrit": "तुलसीदास सदा हरि चेरा।\nकीजै नाथ हृदय मंह डेरा।।",
+      "transliteration": "tulasīdāsa sadā hari cherā |\nkījai nātha hṛdaya maṁha ḍerā ||",
+      "translation": {
+        "hi": "तुलसीदास सदा भगवान श्री राम का दास है; हे नाथ (हनुमान जी)! आप सदैव मेरे हृदय में निवास कीजिए।",
+        "en": "Tulsidas is ever the servant of Hari; O Lord Hanuman, make your permanent abode in my heart."
+      },
+      "explanation": {
+        "hi": "तुलसीदास सदा भगवान श्री राम का दास है; हे नाथ (हनुमान जी)! आप सदैव मेरे हृदय में निवास कीजिए।",
+        "en": "Tulsidas is ever the servant of Hari; O Lord Hanuman, make your permanent abode in my heart."
+      },
+      "wordMeanings": {
+        "hi": "",
+        "en": ""
+      }
+    },
+    {
+      "verseNumber": 43,
+      "sanskrit": "पवन तनय संकट हरन, मंगल मूरति रूप।\nराम लखन सीता सहित, हृदय बसहु सुर भूप।।",
+      "transliteration": "pavana tanaya saṁkaṭa harana, maṁgala mūrati rūpa |\nrāma lakhana sītā sahita, hṛdaya basahu sura bhūpa ||",
+      "translation": {
+        "hi": "हे संकटमोचन पवनपुत्र! आप मंगलमूर्ति स्वरूप हैं। हे देवों के राजा! आप प्रभु श्री राम, लक्ष्मण और माता सीता सहित मेरे हृदय में सदा निवास कीजिए।",
+        "en": "O Son of the Wind, dispeller of distress, embodiment of auspiciousness! O King of Gods, reside in my heart along with Rama, Lakshmana, and Sita."
+      },
+      "explanation": {
+        "hi": "हे संकटमोचन पवनपुत्र! आप मंगलमूर्ति स्वरूप हैं। हे देवों के राजा! आप प्रभु श्री राम, लक्ष्मण और माता सीता सहित मेरे हृदय में सदा निवास कीजिए।",
+        "en": "O Son of the Wind, dispeller of distress, embodiment of auspiciousness! O King of Gods, reside in my heart along with Rama, Lakshmana, and Sita."
+      },
+      "wordMeanings": {
+        "hi": "",
+        "en": ""
+      }
+    }
+  ]
+}

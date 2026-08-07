@@ -1,0 +1,2020 @@
+[ {
+    "id": "1",
+    "chapterNumber": 1,
+    "title": {
+      "hi": "अर्जुन विषाद योग",
+      "en": "Arjuna Vishada Yoga"
+    },
+    "subtitle": {
+      "hi": "",
+      "en": ""
+    },
+    "summary": {
+      "hi": "प्रथम अध्याय में कुरुक्षेत्र के युद्धभूमि का वर्णन है और अर्जुन के गहरे विषाद का चित्रण है, जो आगे के उपदेशों की भूमिका तैयार करता है।",
+      "en": ""
+    },
+    "estimatedReadingTime": 15,
+    "verseCount": 47,
+    "blocks": [
+      {
+        "id": "heading-1-1",
+        "type": "heading",
+        "text": {
+          "hi": "🌿 अर्जुन विषाद योग 🌿 Arjuna Vishada Yoga – भगवद्गीता अध्याय १ (Bhagavad Gita Chapter 1)",
+          "en": ""
+        },
+        "order": 1
+      },
+      {
+        "id": "paragraph-1-2",
+        "type": "paragraph",
+        "text": {
+          "hi": "॥ श्री हरि: ॐ ॥ यह पृष्ठ श्रीमद्भगवद्गीता के प्रथम अध्याय 'अर्जुन विषाद योग' (Arjuna Vishada Yoga) की गहन और विस्तृत व्याख्या प्रस्तुत करता है। इसमें हिंदी और अंग्रेजी का मिश्रण (Hinglish) है ताकि यह अधिक से अधिक साधकों तक पहुँच सके। इस अध्याय में कुल 47 श्लोक हैं, जो कुरुक्षेत्र के युद्ध के प्रारंभ और अर्जुन के आध्यात्मिक संकट का वर्णन करते हैं।",
+          "en": ""
+        },
+        "order": 2
+      },
+      {
+        "id": "divider-1-3",
+        "type": "divider",
+        "order": 3
+      },
+      {
+        "id": "heading-1-4",
+        "type": "heading",
+        "text": {
+          "hi": "⚔️ १. कुरुक्षेत्र का युद्धक्षेत्र – The Battlefield of Kurukshetra",
+          "en": ""
+        },
+        "order": 4
+      },
+      {
+        "id": "paragraph-1-5",
+        "type": "paragraph",
+        "text": {
+          "hi": "अंधे राजा धृतराष्ट्र (Dhritarashtra) ने संजय (Sanjaya) से पूछा — \"धर्मक्षेत्रे कुरुक्षेत्रे समवेता युयुत्सवः... ममकाः पाण्डवाश्चैव किमकुर्वत संजय\" (1.1)। यह प्रश्न पूरे युद्ध का दृश्य खोलता है। संजय, जिन्हें व्यास जी ने दिव्य दृष्टि दी थी, वर्णन करते हैं कि दोनों सेनाएँ युद्ध के लिए तैयार हैं। पाण्डवों की सेना (Pandava army) का नेतृत्व धृष्टद्युम्न (Dhrishtadyumna) कर रहे हैं और स्वयं भगवान श्रीकृष्ण (Lord Krishna) अर्जुन के सारथी बने हैं। दूसरी ओर, कौरवों की सेना (Kaurava army) में भीष्म पितामह (Bhishma), द्रोणाचार्य (Dronacharya), कर्ण (Karna) जैसे महारथी मौजूद हैं। (श्लोक 1.4–1.11)",
+          "en": ""
+        },
+        "order": 5
+      },
+      {
+        "id": "quote-1-6",
+        "type": "quote",
+        "text": {
+          "hi": "शंखध्वनि और युद्ध का आह्वान — श्लोक 1.12 से 1.19 में भीष्म पितामह ने सिंहनाद किया और शंख बजाया, फिर कृष्ण-अर्जुन के दिव्य शंख (पांचजन्य और देवदत्त) गूंज उठे। समूचा वातावरण भेरी-नगाड़ों से भर गया। यह दृश्य बताता है कि दोनों पक्ष पूरी तरह युद्धोन्मुख थे।",
+          "en": ""
+        },
+        "order": 6
+      },
+      {
+        "id": "heading-1-7",
+        "type": "heading",
+        "text": {
+          "hi": "🚩 २. अर्जुन का रथ दोनों सेनाओं के बीच – Arjuna's Chariot Between the Armies",
+          "en": ""
+        },
+        "order": 7
+      },
+      {
+        "id": "paragraph-1-8",
+        "type": "paragraph",
+        "text": {
+          "hi": "तभी अर्जुन (Arjuna) ने कृष्ण से एक अद्भुत प्रार्थना की: \"सेनयोरुभयोर्मध्ये रथं स्थापय मे'च्युत\" (1.21) – हे अच्युत, मेरे रथ को दोनों सेनाओं के बीच खड़ा कर दीजिए। अर्जुन उन सभी योद्धाओं को देखना चाहते थे जिनके साथ उन्हें युद्ध करना है। कृष्ण ने वैसा ही किया और रथ को भीष्म, द्रोण और सभी राजाओं के सामने लाकर रोक दिया। (श्लोक 1.20–1.25)",
+          "en": ""
+        },
+        "order": 8
+      },
+      {
+        "id": "heading-1-9",
+        "type": "heading",
+        "text": {
+          "hi": "😢 ३. विषाद और शोक का प्रारंभ – The Onset of Grief & Despair",
+          "en": ""
+        },
+        "order": 9
+      },
+      {
+        "id": "paragraph-1-10",
+        "type": "paragraph",
+        "text": {
+          "hi": "रथ खड़ा होते ही अर्जुन ने सामने अपने ही लोगों को देखा — चाचा-ताऊ, गुरुजन, चचेरे भाई, पुत्र, मित्र, ससुराल वाले... दोनों ओर अपने ही। यह देखकर वे गहरे शोक (Vishada) में डूब गए। संजय वर्णन करते हैं (1.28–1.30): \"दृष्ट्वा तु पाण्डवानीकं व्यूढं दुर्योधनस्तदा... अर्जुन उवाच...\" अर्जुन के मुँह से निकला — मेरे अंग ढीले हो रहे हैं, मुँह सूख रहा है, शरीर काँप रहा है, गांडीव धनुष हाथ से छूट रहा है।",
+          "en": ""
+        },
+        "order": 10
+      },
+      {
+        "id": "subheading-1-11",
+        "type": "subheading",
+        "text": {
+          "hi": "📌 प्रमुख श्लोक और उनका भाव – Key Verses & Their Essence (Hinglish में)",
+          "en": ""
+        },
+        "order": 11
+      },
+      {
+        "id": "bullet_list-1-12",
+        "type": "bullet_list",
+        "items": [
+          {
+            "hi": "श्लोक 1.31–32: \"न काङ्क्षे विजयं कृष्ण न च राज्यं सुखानि च\" – हे कृष्ण, मैं न विजय चाहता हूँ, न राज्य, न सुख। स्वजनों को मारकर हम कैसे सुखी रहेंगे?",
+            "en": ""
+          },
+          {
+            "hi": "श्लोक 1.35–36: इन महानुभावों (भीष्म, द्रोण) को मारना तो भी हमारे लिए ठीक नहीं, क्योंकि ये हमारे पूजनीय हैं। धृतराष्ट्र के पुत्रों को मारकर हमें क्या प्रसन्नता मिलेगी? पाप ही लगेगा।",
+            "en": ""
+          },
+          {
+            "hi": "श्लोक 1.37–44: यहाँ अर्जुन समझाते हैं कि कुल का क्षय (destruction of family) से सनातन कुलधर्म नष्ट होते हैं, अधर्म बढ़ता है, और स्त्रियाँ दूषित होती हैं, जिससे वर्णसंकर (unwanted progeny) पैदा होता है। पितरों का पतन होता है।",
+            "en": ""
+          },
+          {
+            "hi": "श्लोक 1.45–46: \"यदि मामप्रतीकारमशस्त्रं शस्त्रपाणयः\" – यदि ये शस्त्रधारी कौरव मुझे निःशस्त्र और बिना विरोध किए मार डालें, तो भी वह मेरे लिए अधिक कल्याणकारी होगा, बजाय इसके कि मैं इन गुरुजनों को मारूँ।",
+            "en": ""
+          }
+        ],
+        "order": 12
+      },
+      {
+        "id": "heading-1-13",
+        "type": "heading",
+        "text": {
+          "hi": "🌀 ४. धर्म का दुविधा – The Dharma Dilemma (Moral Crisis)",
+          "en": ""
+        },
+        "order": 13
+      },
+      {
+        "id": "paragraph-1-14",
+        "type": "paragraph",
+        "text": {
+          "hi": "अर्जुन का यह विषाद भय या कायरता (cowardice) से नहीं था, बल्कि यह दो धर्मों के टकराव का परिणाम था। एक तरफ क्षत्रिय धर्म (Kshatriya dharma) कहता है — युद्ध करो, अधर्म का नाश करो। दूसरी ओर मानवीय धर्म (family duty) कहता है — अपने बुजुर्गों, गुरुओं, भाइयों की रक्षा करो। अर्जुन के लिए यह टकराव इतना गहरा था कि उन्होंने धर्म की ही परिभाषा पर प्रश्नचिह्न लगा दिया। उनका मानना था कि इस युद्ध से केवल विनाश होगा, पाप बढ़ेगा, और समाज का नैतिक पतन होगा।",
+          "en": ""
+        },
+        "order": 14
+      },
+      {
+        "id": "heading-1-15",
+        "type": "heading",
+        "text": {
+          "hi": "🧘 ५. आध्यात्मिक दृष्टि – Spiritual Significance of Arjuna Vishada Yoga",
+          "en": ""
+        },
+        "order": 15
+      },
+      {
+        "id": "paragraph-1-16",
+        "type": "paragraph",
+        "text": {
+          "hi": "गीता का पहला अध्याय सिर्फ एक ऐतिहासिक प्रस्तावना नहीं है; यह हर मनुष्य के भीतर उठने वाले संकट का प्रतीक (symbolism) है। जब हम जीवन की कठिन परिस्थितियों में फँसते हैं, तब हमारी बुद्धि भ्रमित हो जाती है। अर्जुन का रथ पर बैठकर धनुष त्याग देना (1.47) दर्शाता है कि जब हमारे सारे साधन समाप्त हो जाते हैं, तब हम परमात्मा (ईश्वर) के शरणागत होते हैं। यही शरणागति आगे के अध्यायों के ज्ञान की नींव बनती है। अर्जुन विषाद योग अंततः 'योग' है क्योंकि यह जीवात्मा को परमात्मा से जोड़ने का प्रथम चरण है — भले ही वह शोक के माध्यम से हो।",
+          "en": ""
+        },
+        "order": 16
+      },
+      {
+        "id": "heading-1-17",
+        "type": "heading",
+        "text": {
+          "hi": "📖 ६. अध्याय १ का संक्षिप्त सारांश – Chapter 1 Summary (SEO Optimized)",
+          "en": ""
+        },
+        "order": 17
+      },
+      {
+        "id": "bullet_list-1-18",
+        "type": "bullet_list",
+        "items": [
+          {
+            "hi": "धृतराष्ट्र-संजय संवाद – अंधे राजा का प्रश्न और युद्ध का वर्णन। (श्लोक 1.1)",
+            "en": ""
+          },
+          {
+            "hi": "सेनाओं का वर्णन – भीष्म, द्रोण, कर्ण, अर्जुन, भीम आदि वीरों की उपस्थिति। (1.2–1.18)",
+            "en": ""
+          },
+          {
+            "hi": "शंखनाद – कृष्ण-अर्जुन सहित सभी योद्धाओं ने शंख बजाए। (1.12–1.19)",
+            "en": ""
+          },
+          {
+            "hi": "अर्जुन का रथ मध्य में – कृष्ण रथ को दोनों सेनाओं के बीच ले गए। (1.20–1.25)",
+            "en": ""
+          },
+          {
+            "hi": "विषाद और शोक संवाद – अर्जुन के मुख से निकले करुण वचन, गांडीव त्याग, और रथ पर बैठ जाना। (1.26–1.47)",
+            "en": ""
+          }
+        ],
+        "order": 18
+      },
+      {
+        "id": "quote-1-19",
+        "type": "quote",
+        "text": {
+          "hi": "📌 अंतिम श्लोक (1.47) बहुत महत्वपूर्ण है — \"एवमुक्त्वार्जुनः संख्ये रथोपस्थ उपाविशत् । विसृज्य सशरं चापं शोकसंविग्नमानसः\" – ऐसा कहकर अर्जुन शोक से व्यथित हृदय हो, बाण सहित धनुष त्यागकर रथ पर बैठ गए। यहीं से गीता का वास्तविक उपदेश प्रारंभ होता है।",
+          "en": ""
+        },
+        "order": 19
+      },
+      {
+        "id": "heading-1-20",
+        "type": "heading",
+        "text": {
+          "hi": "💡 ७. अर्जुन विषाद योग की मुख्य शिक्षाएँ – Core Teachings for Life",
+          "en": ""
+        },
+        "order": 20
+      },
+      {
+        "id": "bullet_list-1-21",
+        "type": "bullet_list",
+        "items": [
+          {
+            "hi": "संकट में भी शरणागति आवश्यक है – जब बुद्धि काम न करे, तो सद्गुरु या ईश्वर की शरण लेनी चाहिए।",
+            "en": ""
+          },
+          {
+            "hi": "आसक्ति (attachment) से भ्रम पैदा होता है – अर्जुन का मोह उनके स्वजनों के प्रति स्नेह के कारण था। गीता हमें निष्काम भाव से कर्म करना सिखाती है।",
+            "en": ""
+          },
+          {
+            "hi": "धर्म का निर्णय ऊँचे दृष्टिकोण से होता है – जो भावनात्मक लगता है, वह हमेशा धर्म नहीं होता। इसलिए कृष्ण जैसे मार्गदर्शक की आवश्यकता है।",
+            "en": ""
+          },
+          {
+            "hi": "विषाद योग ही ज्ञान योग का द्वार है – यह अध्याय बताता है कि सच्चा ज्ञान तब मिलता है जब हम अपनी असहायता स्वीकार कर लेते हैं।",
+            "en": ""
+          }
+        ],
+        "order": 21
+      },
+      {
+        "id": "divider-1-22",
+        "type": "divider",
+        "order": 22
+      },
+      {
+        "id": "paragraph-1-23",
+        "type": "paragraph",
+        "text": {
+          "hi": "अर्जुन विषाद योग (Arjuna Vishada Yoga) भगवद्गीता की आधारशिला है। यह अध्याय हमें सिखाता है कि जीवन के युद्ध में हार और जीत से पहले, आत्मिक दुविधा (existential crisis) आती है। अर्जुन ने उस दुविधा को मूर्त रूप दिया। कुरुक्षेत्र के मैदान में खड़ा योद्धा आज हर इंसान के भीतर मौजूद है। जब तक यह विषाद नहीं होगा, कृष्ण की वाणी सुनने की पात्रता नहीं आती। इसलिए यह अध्याय 'योग' कहलाता है — क्योंकि यह हमें भगवान से जोड़ता है। अगले अध्याय (सांख्य योग) में कृष्ण इसी विषाद का समाधान देंगे। तब तक, अर्जुन की तरह हम भी मौन होकर सुनें।",
+          "en": ""
+        },
+        "order": 23
+      },
+      {
+        "id": "divider-1-24",
+        "type": "divider",
+        "order": 24
+      },
+      {
+        "id": "heading-1-25",
+        "type": "heading",
+        "text": {
+          "hi": "अध्याय 1 के समस्त श्लोक",
+          "en": "All Verses of Chapter 1"
+        },
+        "order": 25
+      },
+      {
+        "id": "verse-1-1",
+        "type": "verse",
+        "verseNumber": 1,
+        "sanskrit": "धृतराष्ट्र उवाच | धर्मक्षेत्रे कुरुक्षेत्रे समवेता युयुत्सवः | मामकाः पाण्डवाश्चैव किमकुर्वत सञ्जय ||१||",
+        "transliteration": "dhṛtarāṣṭra uvāca | dharma-kṣetre kuru-kṣetre samavetā yuyutsavaḥ | māmakāḥ pāṇḍavāś caiva kim akurvata sañjaya ||1||",
+        "translation": {
+          "hi": "धृतराष्ट्र बोले: हे संजय! धर्मभूमि कुरुक्षेत्र में युद्ध की इच्छा से एकत्र हुए मेरे तथा पाण्डु के पुत्रों ने क्या किया?",
+          "en": "Dhritarashtra said: On the holy plain of Kurukshetra, gathered together, eager to fight, what did my sons and the sons of Pandu do, O Sanjaya?"
+        },
+        "explanation": {
+          "hi": "धृतराष्ट्र का यह प्रश्न उनके पुत्र-मोह को दर्शाता है। \"धर्मक्षेत्र\" शब्द यह संकेत देता है कि यह युद्ध केवल राजनीतिक नहीं, अपितु धार्मिक महत्व का भी है। The word \"dharma-kshetra\" signifies that this battlefield is sacred.",
+          "en": ""
+        },
+        "wordMeanings": {
+          "hi": "धृतराष्ट्र: राजा धृतराष्ट्र; उवाच: बोले; धर्मक्षेत्रे: धर्मभूमि में; कुरुक्षेत्रे: कुरुक्षेत्र में; समवेताः: एकत्रित; युयुत्सवः: युद्ध की इच्छा वाले; मामकाः: मेरे पुत्र; पाण्डवाः: पाण्डु के पुत्र; च: और; एव: निश्चय ही; किम्: क्या; अकुर्वत: उन्होंने किया; सञ्जय: हे संजय।",
+          "en": ""
+        },
+        "order": 26
+      },
+      {
+        "id": "verse-1-2",
+        "type": "verse",
+        "verseNumber": 2,
+        "sanskrit": "सञ्जय उवाच | दृष्ट्वा तु पाण्डवानीकं व्यूढं दुर्योधनस्तदा | आचार्यमुपसङ्गम्य राजा वचनमब्रवीत् ||२||",
+        "transliteration": "sañjaya uvāca | dṛṣṭvā tu pāṇḍavānīkaṃ vyūḍhaṃ duryodhanastadā | ācāryamupasaṅgamya rājā vacanamabravīt ||2||",
+        "translation": {
+          "hi": "संजय बोले: तब राजा दुर्योधन ने पाण्डवों की सेना को व्यूहबद्ध देखकर आचार्य द्रोणाचार्य के पास जाकर यह वचन कहे।",
+          "en": "Sanjaya said: Then, seeing the Pandava army drawn up in battle array, King Duryodhana approached his teacher Dronacharya and spoke these words."
+        },
+        "explanation": {
+          "hi": "दुर्योधन की आशंका और व्याकुलता यहाँ दिखती है। वह सेना की शक्ति का आकलन कर रहा है और गुरु द्रोण को सचेत करना चाहता है। Duryodhana's anxiety reflects his inner insecurity despite his large army.",
+          "en": ""
+        },
+        "wordMeanings": {
+          "hi": "सञ्जय: संजय; उवाच: बोले; दृष्ट्वा: देखकर; तु: तो; पाण्डवानीकम्: पाण्डवों की सेना; व्यूढम्: व्यूह रचना किए हुए; दुर्योधन: दुर्योधन; तदा: तब; आचार्यम्: आचार्य (द्रोण) के पास; उपसङ्गम्य: जाकर; राजा: राजा; वचनम्: वचन; अब्रवीत्: बोला।",
+          "en": ""
+        },
+        "order": 27
+      },
+      {
+        "id": "verse-1-3",
+        "type": "verse",
+        "verseNumber": 3,
+        "sanskrit": "पश्यैतां पाण्डुपुत्राणामाचार्य महतीं चमूम् | व्यूढां द्रुपदपुत्रेण तव शिष्येण धीमता ||३||",
+        "transliteration": "paśyaitāṃ pāṇḍuputrāṇāmācārya mahatīṃ camūm | vyūḍhāṃ drupadaputreṇa tava śiṣyeṇa dhīmatā ||3||",
+        "translation": {
+          "hi": "हे आचार्य! आपके बुद्धिमान शिष्य द्रुपदपुत्र (धृष्टद्युम्न) द्वारा व्यूहबद्ध पाण्डुपुत्रों की इस विशाल सेना को देखिए।",
+          "en": "O Teacher, behold this great army of the sons of Pandu, arrayed for battle by the son of Drupada, your wise disciple!"
+        },
+        "explanation": {
+          "hi": "दुर्योधन यहाँ द्रोणाचार्य की भावनाओं को भड़काने का प्रयास कर रहा है, क्योंकि धृष्टद्युम्न द्रोण के शत्रु द्रुपद का पुत्र है। Duryodhana subtly reminds Drona that his own disciple is fighting against him.",
+          "en": ""
+        },
+        "wordMeanings": {
+          "hi": "पश्य: देखिए; एताम्: इस; पाण्डुपुत्राणाम्: पाण्डुपुत्रों की; आचार्य: हे आचार्य; महतीम्: महान; चमूम्: सेना को; व्यूढाम्: व्यूहबद्ध; द्रुपदपुत्रेण: द्रुपद के पुत्र (धृष्टद्युम्न) द्वारा; तव: आपके; शिष्येण: शिष्य; धीमता: बुद्धिमान।",
+          "en": ""
+        },
+        "order": 28
+      },
+      {
+        "id": "verse-1-4",
+        "type": "verse",
+        "verseNumber": 4,
+        "sanskrit": "अत्र शूरा महेष्वासा भीमार्जुनसमा युधि | युयुधानो विराटश्च द्रुपदश्च महारथः ||४||",
+        "transliteration": "atra śūrā maheṣvāsā bhīmārjunasamā yudhi | yuyudhāno virāṭaśca drupadaśca mahārathaḥ ||4||",
+        "translation": {
+          "hi": "इस सेना में भीम और अर्जुन के समान युद्ध करने वाले महान धनुर्धर वीर हैं – युयुधान (सात्यकि), विराट और महारथी द्रुपद।",
+          "en": "Here in this army are many heroic warriors, mighty archers equal in battle to Bhima and Arjuna: great fighters like Yuyudhana, Virata, and Drupada."
+        },
+        "explanation": {
+          "hi": "दुर्योधन पाण्डव पक्ष के प्रमुख योद्धाओं के नाम गिना रहा है, जिससे द्रोण को यह अहसास हो कि युद्ध आसान नहीं होगा। Duryodhana lists the prominent warriors on the Pandava side to emphasize the challenge.",
+          "en": ""
+        },
+        "wordMeanings": {
+          "hi": "अत्र: यहाँ; शूरा: वीर; महेष्वासा: महान धनुर्धर; भीमार्जुनसमा: भीम और अर्जुन के समान; युधि: युद्ध में; युयुधान: सात्यकि; विराट: राजा विराट; च: और; द्रुपद: द्रुपद; च: भी; महारथः: महारथी।",
+          "en": ""
+        },
+        "order": 29
+      },
+      {
+        "id": "verse-1-5",
+        "type": "verse",
+        "verseNumber": 5,
+        "sanskrit": "धृष्टकेतुश्चेकितानः काशिराजश्च वीर्यवान् | पुरुजित्कुन्तिभोजश्च शैब्यश्च नरपुङ्गवः ||५||",
+        "transliteration": "dhṛṣṭaketuścekitānaḥ kāśirājaśca vīryavān | purujitkuntibhojaśca śaibyaśca narapuṅgavaḥ ||5||",
+        "translation": {
+          "hi": "धृष्टकेतु, चेकितान, पराक्रमी काशीराज, पुरुजित्, कुन्तिभोज और नरश्रेष्ठ शैब्य भी यहाँ हैं।",
+          "en": "There are also great, heroic, and powerful fighters like Dhrishtaketu, Chekitana, the valiant king of Kashi, Purujit, Kuntibhoja, and Shaibya – the best of men."
+        },
+        "explanation": {
+          "hi": "ये सभी राजा पाण्डवों के पक्ष में हैं। दुर्योधन उनकी गिनती कर अपनी चिंता प्रकट कर रहा है। All these kings are allied with the Pandavas; Duryodhana is clearly worried.",
+          "en": ""
+        },
+        "wordMeanings": {
+          "hi": "धृष्टकेतु: धृष्टकेतु (चेदिराज); च: और; चेकितान: चेकितान; काशिराज: काशीराज; च: और; वीर्यवान: पराक्रमी; पुरुजित्: पुरुजित्; कुन्तिभोज: कुन्तिभोज; च: और; शैब्य: शैब्य; च: और; नरपुङ्गव: नरश्रेष्ठ।",
+          "en": ""
+        },
+        "order": 30
+      },
+      {
+        "id": "verse-1-6",
+        "type": "verse",
+        "verseNumber": 6,
+        "sanskrit": "युधामन्युश्च विक्रान्त उत्तमौजाश्च वीर्यवान् | सौभद्रो द्रौपदेयाश्च सर्व एव महारथाः ||६||",
+        "transliteration": "yudhāmanyuśca vikrānta uttamaujāśca vīryavān | saubhadro draupadeyāśca sarva eva mahārathāḥ ||6||",
+        "translation": {
+          "hi": "पराक्रमी युधामन्यु, शक्तिशाली उत्तमौजा, सौभद्र (अभिमन्यु) और द्रौपदी के पुत्र – ये सभी महारथी हैं।",
+          "en": "The brave Yudhamanyu, the powerful Uttamaujas, the son of Subhadra (Abhimanyu), and the sons of Draupadi – all are great warriors."
+        },
+        "explanation": {
+          "hi": "दुर्योधन अब पाण्डव पक्ष के और योद्धा गिना रहा है, जिनमें अभिमन्यु (अर्जुन पुत्र) और द्रौपदी के पाँचों पुत्र शामिल हैं। Now Duryodhana names Abhimanyu and the five sons of Draupadi – all rated as great warriors.",
+          "en": ""
+        },
+        "wordMeanings": {
+          "hi": "युधामन्यु: युधामन्यु; च: और; विक्रान्त: पराक्रमी; उत्तमौजा: उत्तमौजा; च: और; वीर्यवान्: शक्तिशाली; सौभद्र: सौभद्र (अभिमन्यु); द्रौपदेयाः: द्रौपदी के पुत्र; च: और; सर्व: सभी; एव: निश्चय ही; महारथाः: महारथी।",
+          "en": ""
+        },
+        "order": 31
+      },
+      {
+        "id": "verse-1-7",
+        "type": "verse",
+        "verseNumber": 7,
+        "sanskrit": "अस्माकं तु विशिष्टा ये तान्निबोध द्विजोत्तम | नायका मम सैन्यस्य संज्ञार्थं तान्ब्रवीमि ते ||७||",
+        "transliteration": "asmākaṃ tu viśiṣṭā ye tānnibodha dvijottama | nāyakā mama sainyasya saṃjñārthaṃ tānbravīmi te ||7||",
+        "translation": {
+          "hi": "किन्तु हे द्विजश्रेष्ठ! आपकी जानकारी के लिए मैं अपनी सेना के जो विशेष नायक हैं, उन्हें बताता हूँ।",
+          "en": "But for your information, O best of the twice-born, let me tell you about the distinguished commanders who are especially qualified to lead my army."
+        },
+        "explanation": {
+          "hi": "दुर्योधन अब अपनी सेना के प्रमुख योद्धाओं का परिचय देता है, यह दिखाने के लिए कि उसकी सेना भी कम शक्तिशाली नहीं है। Duryodhana now lists the key warriors on his own side to boost morale.",
+          "en": ""
+        },
+        "wordMeanings": {
+          "hi": "अस्माकम्: हमारी ओर; तु: तो; विशिष्टा: विशेष; ये: जो; तान्: उन्हें; निबोध: जानो; द्विजोत्तम: हे द्विजश्रेष्ठ; नायका: नायक; मम: मेरी; सैन्यस्य: सेना के; संज्ञार्थम्: सूचना के लिए; तान्: उन्हें; ब्रवीमि: बताता हूँ; ते: आपको।",
+          "en": ""
+        },
+        "order": 32
+      },
+      {
+        "id": "verse-1-8",
+        "type": "verse",
+        "verseNumber": 8,
+        "sanskrit": "भवान्भीष्मश्च कर्णश्च कृपश्च समितिञ्जयः | अश्वत्थामा विकर्णश्च सौमदत्तिस्तथैव च ||८||",
+        "transliteration": "bhavānbhīṣmaśca karṇaśca kṛpaśca samitiñjayaḥ | aśvatthāmā vikarṇaśca saumadattistathaiva ca ||8||",
+        "translation": {
+          "hi": "आप (द्रोणाचार्य), भीष्म, कर्ण, युद्ध में सदा विजयी कृपाचार्य, अश्वत्थामा, विकर्ण और सोमदत्त के पुत्र भूरिश्रवा – ये सभी हैं।",
+          "en": "There are personalities like yourself, Bhishma, Karna, Kripa who are always victorious in battle, Ashvatthama, Vikarna, and the son of Somadatta (Bhurishrava)."
+        },
+        "explanation": {
+          "hi": "दुर्योधन ने सर्वप्रथम अपने गुरु द्रोण का नाम लिया, फिर भीष्म पितामह, कर्ण, कृपाचार्य, अश्वत्थामा, विकर्ण और भूरिश्रवा। Duryodhana lists the most powerful warriors on his side, starting with Drona and Bhishma.",
+          "en": ""
+        },
+        "wordMeanings": {
+          "hi": "भवान्: आप; भीष्म: भीष्म; च: और; कर्ण: कर्ण; च: और; कृप: कृपाचार्य; च: और; समितिञ्जय: युद्ध में सदा विजयी; अश्वत्थामा: अश्वत्थामा; विकर्ण: विकर्ण; च: और; सौमदत्ति: सोमदत्त के पुत्र (भूरिश्रवा); तथा: तथा; एव: ही; च: और।",
+          "en": ""
+        },
+        "order": 33
+      },
+      {
+        "id": "verse-1-9",
+        "type": "verse",
+        "verseNumber": 9,
+        "sanskrit": "अन्ये च बहवः शूरा मदर्थे त्यक्तजीविताः | नानाशस्त्रप्रहरणाः सर्वे युद्धविशारदाः ||९||",
+        "transliteration": "anye ca bahavaḥ śūrā madarthe tyaktajīvitāḥ | nānāśastra praharaṇāḥ sarve yuddhaviśāradāḥ ||9||",
+        "translation": {
+          "hi": "और भी बहुत से वीर हैं जो मेरे लिए जीवन का त्याग करने को तैयार हैं। वे अनेक प्रकार के शस्त्रों से सुसज्जित हैं और सभी युद्ध में निपुण हैं।",
+          "en": "There are many other heroes who are prepared to lay down their lives for my sake. They are armed with various weapons and are all skilled in warfare."
+        },
+        "explanation": {
+          "hi": "दुर्योधन यहाँ अपनी सेना के सामान्य सैनिकों और अन्य योद्धाओं की ओर संकेत करता है, जो उसके लिए प्राण न्योछावर करने को तैयार हैं। Duryodhana highlights the loyalty and skill of the ordinary soldiers.",
+          "en": ""
+        },
+        "wordMeanings": {
+          "hi": "अन्ये: अन्य; च: और; बहवः: अनेक; शूरा: वीर; मदर्थे: मेरे लिए; त्यक्तजीविताः: जीवन का त्याग करने वाले; नाना: अनेक प्रकार के; शस्त्र: शस्त्रों से; प्रहरणाः: सुसज्जित; सर्वे: सभी; युद्धविशारदाः: युद्ध में निपुण।",
+          "en": ""
+        },
+        "order": 34
+      },
+      {
+        "id": "verse-1-10",
+        "type": "verse",
+        "verseNumber": 10,
+        "sanskrit": "अपर्याप्तं तदस्माकं बलं भीष्माभिरक्षितम् | पर्याप्तं त्विदमेतेषां बलं भीमाभिरक्षितम् ||१०||",
+        "transliteration": "aparyāptaṃ tadasmākaṃ balaṃ bhīṣmābhirakṣitam | paryāptaṃ tvidameteṣāṃ balaṃ bhīmābhirakṣitam ||10||",
+        "translation": {
+          "hi": "भीष्म द्वारा सुरक्षित हमारी सेना अपरिमित है, जबकि भीम द्वारा सुरक्षित इनकी सेना परिमित है।",
+          "en": "Our army, protected by Bhishma, is unlimited; but their army, protected by Bhima, is limited."
+        },
+        "explanation": {
+          "hi": "दुर्योधन यहाँ आत्मविश्वास दिखा रहा है कि भीष्म जैसे योद्धा के कारण उसकी सेना अजेय है, जबकि पाण्डव सेना सीमित है। Duryodhana expresses confidence in Bhishma's protection, though his comparison is flawed because Bhima is also a great warrior.",
+          "en": ""
+        },
+        "wordMeanings": {
+          "hi": "अपर्याप्तम्: अपरिमित; तत्: वह; अस्माकम्: हमारी; बलम्: सेना; भीष्म: भीष्म द्वारा; अभिरक्षितम्: सुरक्षित; पर्याप्तम्: परिमित; तु: तो; इदम्: यह; एतेषाम्: इन (पाण्डवों) की; बलम्: सेना; भीम: भीम द्वारा; अभिरक्षितम्: सुरक्षित।",
+          "en": ""
+        },
+        "order": 35
+      },
+      {
+        "id": "verse-1-11",
+        "type": "verse",
+        "verseNumber": 11,
+        "sanskrit": "अयनेषु च सर्वेषु यथाभागमवस्थिताः | भीष्ममेवाभिरक्षन्तु भवन्तः सर्व एव हि ||११||",
+        "transliteration": "ayaneṣu ca sarveṣu yathābhāgamavasthitāḥ | bhīṣmamevābhirakṣantu bhavantaḥ sarva eva hi ||11||",
+        "translation": {
+          "hi": "अतः सब मोर्चों पर यथायोग्य स्थित होकर आप सब लोग भीष्म की ही सुरक्षा करें।",
+          "en": "Therefore, stationed in your respective positions on all fronts, all of you must protect Bhishma at all costs."
+        },
+        "explanation": {
+          "hi": "दुर्योधन यहाँ अपने सैनिकों को निर्देश देता है कि वे भीष्म की रक्षा पर ध्यान दें, क्योंकि भीष्म ही उनकी सेना के मुख्य आधार हैं। Duryodhana orders everyone to protect Bhishma, recognizing him as the cornerstone of their army.",
+          "en": ""
+        },
+        "wordMeanings": {
+          "hi": "अयनेषु: मोर्चों पर; च: और; सर्वेषु: सब; यथाभागम्: यथायोग्य विभाग में; अवस्थिताः: स्थित होकर; भीष्मम्: भीष्म को; एव: ही; अभिरक्षन्तु: पूरी तरह सुरक्षित करें; भवन्तः: आप लोग; सर्व: सभी; एव: ही; हि: निश्चय ही।",
+          "en": ""
+        },
+        "order": 36
+      },
+      {
+        "id": "verse-1-12",
+        "type": "verse",
+        "verseNumber": 12,
+        "sanskrit": "तस्य सञ्जनयन्हर्षं कुरुवृद्धः पितामहः | सिंहनादं विनद्योच्चैः शङ्खं दध्मौ प्रतापवान् ||१२||",
+        "transliteration": "tasya sañjanayan harṣaṃ kuruvṛddhaḥ pitāmahaḥ | siṃhanādaṃ vinadyoccaiḥ śaṅkhaṃ dadhmau pratāpavān ||12||",
+        "translation": {
+          "hi": "तब कुरुवंश के वृद्ध पितामह प्रतापी भीष्म ने सिंह की गर्जना के समान ऊँचे स्वर से शंख बजाया, जिससे दुर्योधन को हर्ष हुआ।",
+          "en": "Then the glorious grandsire of the Kuru dynasty, Bhishma, roaring like a lion, blew his conch loudly, infusing joy in Duryodhana."
+        },
+        "explanation": {
+          "hi": "भीष्म ने अपने शंखनाद से युद्ध का आह्वान किया और दुर्योधन का मनोबल बढ़ाया। Bhishma's conch signaled the start of war and boosted Duryodhana's spirits.",
+          "en": ""
+        },
+        "wordMeanings": {
+          "hi": "तस्य: उस (दुर्योधन) के; सञ्जनयन्: उत्पन्न करते हुए; हर्षम्: हर्ष; कुरुवृद्धः: कुरुवंश के वृद्ध; पितामहः: पितामह; सिंहनादम्: सिंह की गर्जना के समान; विनद्य: गर्जना करके; उच्चैः: ऊँचे स्वर से; शङ्खम्: शंख; दध्मौ: बजाया; प्रतापवान्: प्रतापी।",
+          "en": ""
+        },
+        "order": 37
+      },
+      {
+        "id": "verse-1-13",
+        "type": "verse",
+        "verseNumber": 13,
+        "sanskrit": "ततः शङ्खाश्च भेर्यश्च पणवानकगोमुखाः | सहसैवाभ्यहन्यन्त स शब्दस्तुमुलोऽभवत् ||१३||",
+        "transliteration": "tataḥ śaṅkhāśca bheryaśca paṇavānakagomukhāḥ | sahasaivābhyahanyanta sa śabdastumulo'bhavat ||13||",
+        "translation": {
+          "hi": "उसके बाद अचानक ही शंख, नगाड़े, ढोल, मृदंग और तुरही आदि बजाए गए और वह शब्द अत्यंत भयंकर हो गया।",
+          "en": "After that, conches, kettledrums, cymbals, drums, and trumpets were suddenly sounded, and the combined sound was tumultuous."
+        },
+        "explanation": {
+          "hi": "भीष्म के शंख के बाद कौरव सेना के सभी वाद्य यंत्र एक साथ बज उठे, जिससे वातावरण युद्धोन्माद से भर गया। After Bhishma's conch, all instruments of the Kaurava army played together, creating a tumultuous sound.",
+          "en": ""
+        },
+        "wordMeanings": {
+          "hi": "ततः: उसके बाद; शङ्खाः: शंख; च: और; भेर्यः: नगाड़े; च: और; पणव: पणव (ढोल); आनक: आनक (मृदंग); गोमुखाः: गोमुख (तुरही); सहसा: अचानक; एव: ही; अभ्यहन्यन्त: बजाए गए; स: वह; शब्दः: शब्द; तुमुलः: भयंकर; अभवत्: हो गया।",
+          "en": ""
+        },
+        "order": 38
+      },
+      {
+        "id": "verse-1-14",
+        "type": "verse",
+        "verseNumber": 14,
+        "sanskrit": "ततः श्वेतैर्हयैर्युक्ते महति स्यन्दने स्थितौ | माधवः पाण्डवश्चैव दिव्यौ शङ्खौ प्रदध्मतुः ||१४||",
+        "transliteration": "tataḥ śvetairhayairyukte mahati syandane sthitau | mādhavaḥ pāṇḍavaścaiva divyau śaṅkhau pradadhmatuḥ ||14||",
+        "translation": {
+          "hi": "तब सफेद घोड़ों से युक्त विशाल रथ पर स्थित माधव (श्रीकृष्ण) और पाण्डव (अर्जुन) ने दिव्य शंख बजाए।",
+          "en": "Then, from the great chariot yoked with white horses, Madhava (Krishna) and the son of Pandu (Arjuna) blew their divine conches."
+        },
+        "explanation": {
+          "hi": "अब पाण्डव पक्ष की ओर से भगवान कृष्ण और अर्जुन ने अपने शंख बजाए, जो दिव्य थे। Now Krishna and Arjuna blow their divine conches from the Pandava side.",
+          "en": ""
+        },
+        "wordMeanings": {
+          "hi": "ततः: तब; श्वेतैः: सफेद; हयैः: घोड़ों से; युक्ते: युक्त; महति: विशाल; स्यन्दने: रथ में; स्थितौ: स्थित; माधवः: माधव (श्रीकृष्ण); पाण्डवः: पाण्डव (अर्जुन); च: और; एव: ही; दिव्यौ: दिव्य; शङ्खौ: शंख; प्रदध्मतुः: बजाया।",
+          "en": ""
+        },
+        "order": 39
+      },
+      {
+        "id": "verse-1-15",
+        "type": "verse",
+        "verseNumber": 15,
+        "sanskrit": "पाञ्चजन्यं हृषीकेशो देवदत्तं धनञ्जयः | पौण्ड्रं दध्मौ महाशङ्खं भीमकर्मा वृकोदरः ||१५||",
+        "transliteration": "pāñcajanyaṃ hṛṣīkeśo devadattaṃ dhanañjayaḥ | pauṇḍraṃ dadhmau mahāśaṅkhaṃ bhīmakarmā vṛkodaraḥ ||15||",
+        "translation": {
+          "hi": "हृषीकेश (श्रीकृष्ण) ने पाञ्चजन्य, धनंजय (अर्जुन) ने देवदत्त, और भयंकर कर्म करने वाले वृकोदर (भीम) ने पौण्ड्र नामक महाशंख बजाया।",
+          "en": "Hrishikesha (Krishna) blew the Panchajanya; Arjuna blew the Devadatta; and Bhima, the voracious eater and performer of herculean tasks, blew the great conch Paundra."
+        },
+        "explanation": {
+          "hi": "यहाँ तीन प्रमुख पाण्डव योद्धाओं के शंखों के नाम दिए गए हैं – कृष्ण का पाञ्चजन्य, अर्जुन का देवदत्त, और भीम का पौण्ड्र। The names of the conches of the three main Pandava warriors are mentioned.",
+          "en": ""
+        },
+        "wordMeanings": {
+          "hi": "पाञ्चजन्यम्: पाञ्चजन्य नामक शंख; हृषीकेशः: हृषीकेश (श्रीकृष्ण); देवदत्तम्: देवदत्त; धनञ्जयः: धनंजय (अर्जुन); पौण्ड्रम्: पौण्ड्र; दध्मौ: बजाया; महाशङ्खम्: महाशंख; भीमकर्मा: भयंकर कर्म करने वाला; वृकोदरः: वृकोदर (भीम)।",
+          "en": ""
+        },
+        "order": 40
+      },
+      {
+        "id": "verse-1-16",
+        "type": "verse",
+        "verseNumber": 16,
+        "sanskrit": "अनन्तविजयं राजा कुन्तीपुत्रो युधिष्ठिरः | नकुलः सहदेवश्च सुघोषमणिपुष्पकौ ||१६||",
+        "transliteration": "anantavijayaṃ rājā kuntīputro yudhiṣṭhiraḥ | nakulaḥ sahadevaśca sughoṣamaṇipuṣpakau ||16||",
+        "translation": {
+          "hi": "राजा युधिष्ठिर ने अनन्तविजय, नकुल ने सुघोष और सहदेव ने मणिपुष्पक शंख बजाया।",
+          "en": "King Yudhishthira, son of Kunti, blew his conch Anantavijaya; Nakula and Sahadeva blew their conches Sughosha and Manipushpaka respectively."
+        },
+        "explanation": {
+          "hi": "अब शेष पाण्डव भी अपने-अपने शंख बजाते हैं – युधिष्ठिर का अनन्तविजय, नकुल का सुघोष, सहदेव का मणिपुष्पक। The remaining Pandavas also blow their conches.",
+          "en": ""
+        },
+        "wordMeanings": {
+          "hi": "अनन्तविजयम्: अनन्तविजय नामक शंख; राजा: राजा; कुन्तीपुत्रः: कुन्तीपुत्र; युधिष्ठिरः: युधिष्ठिर; नकुलः: नकुल; सहदेवः: सहदेव; च: और; सुघोषमणिपुष्पकौ: सुघोष और मणिपुष्पक नामक शंख।",
+          "en": ""
+        },
+        "order": 41
+      },
+      {
+        "id": "verse-1-17",
+        "type": "verse",
+        "verseNumber": 17,
+        "sanskrit": "काश्यश्च परमेष्वासः शिखण्डी च महारथः | धृष्टद्युम्नो विराटश्च सात्यकिश्चापराजितः ||१७||",
+        "transliteration": "kāśyaśca parameṣvāsaḥ śikhaṇḍī ca mahārathaḥ | dhṛṣṭadyumno virāṭaśca sātyakiścāparājitaḥ ||17||",
+        "translation": {
+          "hi": "काशीराज (अत्यंत धनुर्धर), महारथी शिखण्डी, धृष्टद्युम्न, विराट और अपराजित सात्यकि – इन सबने भी शंख बजाए।",
+          "en": "The king of Kashi, an excellent archer; the great warrior Shikhandi; Dhrishtadyumna; Virata; and the invincible Satyaki – all blew their conches."
+        },
+        "explanation": {
+          "hi": "यहाँ पाण्डव पक्ष के अन्य प्रमुख योद्धाओं के शंखनाद का उल्लेख है। Here the other prominent warriors on the Pandava side blow their conches.",
+          "en": ""
+        },
+        "wordMeanings": {
+          "hi": "काश्यः: काशीराज; च: और; परमेष्वासः: अत्यंत धनुर्धर; शिखण्डी: शिखण्डी; च: और; महारथः: महारथी; धृष्टद्युम्नः: धृष्टद्युम्न; विराटः: राजा विराट; च: और; सात्यकिः: सात्यकि; च: और; अपराजितः: कभी न हारने वाला।",
+          "en": ""
+        },
+        "order": 42
+      },
+      {
+        "id": "verse-1-18",
+        "type": "verse",
+        "verseNumber": 18,
+        "sanskrit": "द्रुपदो द्रौपदेयाश्च सर्वशः पृथिवीपते | सौभद्रश्च महाबाहुः शङ्खान्दध्मुः पृथक्पृथक् ||१८||",
+        "transliteration": "drupado draupadeyāśca sarvaśaḥ pṛthivīpate | saubhadraśca mahābāhuḥ śaṅkhāndadhmaḥ pṛthak pṛthak ||18||",
+        "translation": {
+          "hi": "द्रुपद, द्रौपदी के पुत्र, और महाबाहु अभिमन्यु – इन सबने अलग-अलग अपने-अपने शंख बजाए।",
+          "en": "Drupada, the sons of Draupadi, and the mighty-armed son of Subhadra (Abhimanyu), O king, all blew their conches separately."
+        },
+        "explanation": {
+          "hi": "अब द्रुपद, द्रौपदी के पाँचों पुत्र और अभिमन्यु का शंखनाद हुआ। Now Drupada, the five sons of Draupadi, and Abhimanyu blow their conches.",
+          "en": ""
+        },
+        "wordMeanings": {
+          "hi": "द्रुपद: राजा द्रुपद; द्रौपदेयाः: द्रौपदी के पुत्र; च: और; सर्वशः: सभी ने; पृथिवीपते: हे पृथ्वीपति (धृतराष्ट्र); सौभद्र: अभिमन्यु; च: और; महाबाहुः: महाबाहु; शङ्खान्: शंख; दध्मुः: बजाए; पृथक् पृथक्: अलग-अलग।",
+          "en": ""
+        },
+        "order": 43
+      },
+      {
+        "id": "verse-1-19",
+        "type": "verse",
+        "verseNumber": 19,
+        "sanskrit": "स घोषो धार्तराष्ट्राणां हृदयानि व्यदारयत् | नभश्च पृथिवीं चैव तुमुलो व्यानुनादयन् ||१९||",
+        "transliteration": "sa ghoṣo dhārtarāṣṭrāṇāṃ hṛdayāni vyadārayat | nabhaśca pṛthivīṃ caiva tumulo vyanunādayan ||19||",
+        "translation": {
+          "hi": "उस भयंकर शब्द ने आकाश और पृथ्वी को गूंजाते हुए धृतराष्ट्र के पुत्रों के हृदय विदीर्ण कर दिए।",
+          "en": "That tumultuous sound, reverberating through the earth and sky, rent the hearts of Dhritarashtra's sons."
+        },
+        "explanation": {
+          "hi": "पाण्डव पक्ष के सामूहिक शंखनाद का प्रभाव कौरवों पर हुआ – उनके हृदय दहल गए। The collective sound of the Pandava conches had a demoralizing effect on the Kauravas.",
+          "en": ""
+        },
+        "wordMeanings": {
+          "hi": "स: वह; घोष: शब्द; धार्तराष्ट्राणाम्: धृतराष्ट्र के पुत्रों के; हृदयानि: हृदय; व्यदारयत्: विदीर्ण कर दिए; नभ: आकाश; च: और; पृथिवीम्: पृथ्वी; च: और; एव: ही; तुमुल: भयंकर; व्यनुनादयन्: गूंजाते हुए।",
+          "en": ""
+        },
+        "order": 44
+      },
+      {
+        "id": "verse-1-20",
+        "type": "verse",
+        "verseNumber": 20,
+        "sanskrit": "अथ व्यवस्थितान्दृष्ट्वा धार्तराष्ट्रान्कपिध्वजः | प्रवृत्ते शस्त्रसम्पाते धनुरुद्यम्य पाण्डवः ||२०||",
+        "transliteration": "atha vyavasthitāndṛṣṭvā dhārtarāṣṭrān kapidhvajaḥ | pravṛtte śastrasampāte dhanurudyamya pāṇḍavaḥ ||20||",
+        "translation": {
+          "hi": "तब शस्त्र-संपात (बाणों की वर्षा) प्रारंभ होने पर, धृतराष्ट्र के पुत्रों को युद्ध के लिए तैयार देखकर, कपिध्वज अर्जुन ने धनुष उठाया।",
+          "en": "Then, seeing the sons of Dhritarashtra drawn up for battle, as the exchange of weapons was about to begin, Arjuna, the son of Pandu, whose banner bore the emblem of Hanuman, took up his bow."
+        },
+        "explanation": {
+          "hi": "युद्ध आरंभ होने के क्षण में अर्जुन ने अपना गांडीव धनुष उठाया, जो आगे के संवाद की भूमिका तैयार करता है। At the moment of commencement, Arjuna takes up his bow, setting the stage for the dialogue.",
+          "en": ""
+        },
+        "wordMeanings": {
+          "hi": "अथ: उसके बाद; व्यवस्थितान्: युद्ध के लिए तैयार खड़े; दृष्ट्वा: देखकर; धार्तराष्ट्रान्: धृतराष्ट्र के पुत्रों को; कपिध्वजः: कपिध्वज (अर्जुन, जिनके ध्वज पर हनुमान थे); प्रवृत्ते: होने पर; शस्त्रसम्पाते: शस्त्रों के प्रहार का आरंभ; धनु: धनुष; उद्यम्य: उठाकर; पाण्डवः: पाण्डु पुत्र।",
+          "en": ""
+        },
+        "order": 45
+      },
+      {
+        "id": "verse-1-21",
+        "type": "verse",
+        "verseNumber": 21,
+        "sanskrit": "हृषीकेशं तदा वाक्यमिदमाह महीपते | सेनयोरुभयोर्मध्ये रथं स्थापय मेऽच्युत ||२१||",
+        "transliteration": "hṛṣīkeśaṃ tadā vākyamidamāha mahīpate | senayorubhayormadhye rathaṃ sthāpaya me'cyuta ||21||",
+        "translation": {
+          "hi": "तब अर्जुन ने हृषीकेश (श्रीकृष्ण) से यह वचन कहा: हे अच्युत! मेरे रथ को दोनों सेनाओं के बीच में खड़ा कर दीजिए।",
+          "en": "Arjuna said: O Achyuta (Krishna), place my chariot between the two armies, O lord of the earth (Dhritarashtra is being addressed by Sanjaya)."
+        },
+        "explanation": {
+          "hi": "अर्जुन कृष्ण से रथ दोनों सेनाओं के बीच ले जाने को कहते हैं, ताकि वह युद्ध से पहले अपने विरोधियों को देख सकें। Arjuna asks Krishna to place the chariot between the armies so he can observe the combatants.",
+          "en": ""
+        },
+        "wordMeanings": {
+          "hi": "हृषीकेशम्: हृषीकेश (श्रीकृष्ण) से; तदा: तब; वाक्यम्: वचन; इदम्: यह; आह: बोला; महीपते: हे राजन् (धृतराष्ट्र); सेनयोः: दोनों सेनाओं के; उभयोः: दोनों; मध्ये: बीच में; रथम्: रथ; स्थापय: खड़ा कर; मे: मेरा; अच्युत: हे अच्युत।",
+          "en": ""
+        },
+        "order": 46
+      },
+      {
+        "id": "verse-1-22",
+        "type": "verse",
+        "verseNumber": 22,
+        "sanskrit": "यावदेतान्निरीक्षेऽहं योद्धुकामानवस्थितान् | कैर्मया सह योद्धव्यमस्मिन्रणसमुद्यमे ||२२||",
+        "transliteration": "yāvadetānnirīkṣe'haṃ yoddhukāmānavasthitān | kairmayā saha yoddhavyamasmin raṇasamudyame ||22||",
+        "translation": {
+          "hi": "मैं उन योद्धाओं को देखना चाहता हूँ जो युद्ध की इच्छा से यहाँ खड़े हैं और जिनके साथ मुझे इस युद्ध में लड़ना है।",
+          "en": "Let me see those who have come here to fight, wishing to please the evil-minded Duryodhana by fighting this battle."
+        },
+        "explanation": {
+          "hi": "अर्जुन उन सभी योद्धाओं को देखना चाहते हैं जो उनके विरुद्ध लड़ने के लिए एकत्र हुए हैं। Arjuna wants to identify all those who have assembled to fight against him.",
+          "en": ""
+        },
+        "wordMeanings": {
+          "hi": "यावत्: जब तक; एतान्: इनको; निरीक्षे: देखूं; अहम्: मैं; योद्धुकामान्: युद्ध की इच्छा वाले; अवस्थितान्: खड़े हुए; कैः: किनके साथ; मया: मुझे; सह: साथ; योद्धव्यम्: युद्ध करना है; अस्मिन्: इस; रणसमुद्यमे: युद्ध के अवसर में।",
+          "en": ""
+        },
+        "order": 47
+      },
+      {
+        "id": "verse-1-23",
+        "type": "verse",
+        "verseNumber": 23,
+        "sanskrit": "योत्स्यमानानवेक्षेऽहं य एतेऽत्र समागताः | धार्तराष्ट्रस्य दुर्बुद्धेर्युद्धे प्रियचिकीर्षवः ||२३||",
+        "transliteration": "yotsyamānānavekṣe'haṃ ya ete'tra samāgatāḥ | dhārtarāṣṭrasya durbuddheryuddhe priyacikīrṣavaḥ ||23||",
+        "translation": {
+          "hi": "मैं उन योद्धाओं को देखना चाहता हूँ जो दुष्टबुद्धि दुर्योधन का पक्ष लेकर युद्ध में उसे प्रसन्न करने के लिए यहाँ एकत्र हुए हैं।",
+          "en": "I desire to see those who have assembled here to fight, wishing to please the evil-minded son of Dhritarashtra (Duryodhana)."
+        },
+        "explanation": {
+          "hi": "अर्जुन यहाँ दुर्योधन को \"दुर्बुद्धि\" कहते हैं, जो दर्शाता है कि वे युद्ध के कारण को जानते थे – दुर्योधन का अधर्म। Arjuna calls Duryodhana \"evil-minded,\" indicating his awareness of the adharma behind the war.",
+          "en": ""
+        },
+        "wordMeanings": {
+          "hi": "योत्स्यमानान्: युद्ध करने वालों को; अवेक्षे: देखूँ; अहम्: मैं; ये: जो; एते: ये; अत्र: यहाँ; समागताः: एकत्र हुए हैं; धार्तराष्ट्रस्य: धृतराष्ट्र के पुत्र (दुर्योधन) के; दुर्बुद्धेः: दुष्ट बुद्धि वाले; युद्धे: युद्ध में; प्रियचिकीर्षवः: प्रिय करने की इच्छा वाले।",
+          "en": ""
+        },
+        "order": 48
+      },
+      {
+        "id": "verse-1-24",
+        "type": "verse",
+        "verseNumber": 24,
+        "sanskrit": "एवमुक्तो हृषीकेशो गुडाकेशेन भारत | सेनयोरुभयोर्मध्ये स्थापयित्वा रथोत्तमम् ||२४||",
+        "transliteration": "evamukto hṛṣīkeśo guḍākeśena bhārata | senayorubhayormadhye sthāpayitvā rathottamam ||24||",
+        "translation": {
+          "hi": "हे भारत (धृतराष्ट्र)! गुडाकेश (अर्जुन) द्वारा इस प्रकार कहे जाने पर हृषीकेश (श्रीकृष्ण) ने उत्तम रथ को दोनों सेनाओं के बीच में खड़ा कर दिया।",
+          "en": "O descendant of Bharata (Dhritarashtra), being thus addressed by Gudakesha (Arjuna), Hrishikesha (Krishna) placed that excellent chariot between the two armies."
+        },
+        "explanation": {
+          "hi": "अर्जुन के अनुरोध पर कृष्ण ने रथ को दोनों सेनाओं के बीच में ले जाकर खड़ा कर दिया। At Arjuna's request, Krishna placed the chariot between the two armies.",
+          "en": ""
+        },
+        "wordMeanings": {
+          "hi": "एवम्: इस प्रकार; उक्तः: कहे जाने पर; हृषीकेशः: हृषीकेश (श्रीकृष्ण); गुडाकेशेन: गुडाकेश (अर्जुन) द्वारा; भारत: हे भरतवंशी (धृतराष्ट्र); सेनयोः: दोनों सेनाओं के; उभयोः: दोनों; मध्ये: बीच में; स्थापयित्वा: खड़ा करके; रथोत्तमम्: उत्तम रथ को।",
+          "en": ""
+        },
+        "order": 49
+      },
+      {
+        "id": "verse-1-25",
+        "type": "verse",
+        "verseNumber": 25,
+        "sanskrit": "भीष्मद्रोणप्रमुखतः सर्वेषां च महीक्षिताम् | उवाच पार्थ पश्यैतान्समवेतान्कुरूनिति ||२५||",
+        "transliteration": "bhīṣmadroṇapramukhataḥ sarveṣāṃ ca mahīkṣitām | uvāca pārtha paśyaitānsamavetānkurūniti ||25||",
+        "translation": {
+          "hi": "भीष्म, द्रोण और सभी राजाओं के सामने कृष्ण ने कहा: हे पार्थ! इन एकत्रित कुरुवंशियों को देखो।",
+          "en": "In the presence of Bhishma, Drona, and all the other kings, Krishna said: O Partha (Arjuna), behold all the Kurus gathered here!"
+        },
+        "explanation": {
+          "hi": "कृष्ण ने अर्जुन को सभी कुरुवंशी योद्धाओं को दिखाया, जिनमें भीष्म, द्रोण आदि थे। Krishna showed Arjuna all the Kuru warriors assembled, including Bhishma, Drona, and others.",
+          "en": ""
+        },
+        "wordMeanings": {
+          "hi": "भीष्म: भीष्म; द्रोण: द्रोणाचार्य; प्रमुखतः: आगे; सर्वेषाम्: सभी; च: और; महीक्षिताम्: राजाओं के; उवाच: बोले; पार्थ: हे पार्थ (अर्जुन); पश्य: देखो; एतान्: इन; समवेतान्: एकत्रित; कुरून्: कुरुवंशियों को; इति: इस प्रकार।",
+          "en": ""
+        },
+        "order": 50
+      },
+      {
+        "id": "verse-1-26",
+        "type": "verse",
+        "verseNumber": 26,
+        "sanskrit": "तत्रापश्यत्स्थितान्पार्थः पितॄनथ पितामहान् | आचार्यान्मातुलान्भ्रातॄन्पुत्रान्पौत्रान्सखींस्तथा ||२६||",
+        "transliteration": "tatrāpaśyatsthitānpārthaḥ pitṝnatha pitāmahān | ācāryānmātulānbhrātṝnputrānpautrānsakhīṃstathā ||26||",
+        "translation": {
+          "hi": "वहाँ अर्जुन ने देखा कि दोनों सेनाओं में उनके पिता, पितामह, आचार्य, मामा, भाई, पुत्र, पौत्र, मित्र आदि सभी खड़े थे।",
+          "en": "There Arjuna saw standing on both sides his fathers, grandfathers, teachers, maternal uncles, brothers, sons, grandsons, and friends."
+        },
+        "explanation": {
+          "hi": "अर्जुन ने अपने सगे-संबंधियों और प्रियजनों को दोनों ओर देखा। इससे उनके मन में मोह और करुणा उत्पन्न हुई। Arjuna saw his own relatives and loved ones on both sides, which gave rise to attachment and pity in his heart.",
+          "en": ""
+        },
+        "wordMeanings": {
+          "hi": "तत्र: वहाँ; अपश्यत्: देखा; स्थितान्: खड़े हुए; पार्थः: पार्थ (अर्जुन); पितॄन्: पिताओं को; अथ: तथा; पितामहान्: दादाओं को; आचार्यान्: आचार्यों को; मातुलान्: मामाओं को; भ्रातॄन्: भाइयों को; पुत्रान्: पुत्रों को; पौत्रान्: पौत्रों को; सखीन्: मित्रों को; तथा: और।",
+          "en": ""
+        },
+        "order": 51
+      },
+      {
+        "id": "verse-1-27",
+        "type": "verse",
+        "verseNumber": 27,
+        "sanskrit": "श्वशुरान्सुहृदश्चैव सेनयोरुभयोरपि | तान्समीक्ष्य स कौन्तेयः सर्वान्बन्धूनवस्थितान् ||२७||",
+        "transliteration": "śvaśurānsuhṛdaścaiva senayorubhayorapi | tānsamīkṣya sa kaunteyaḥ sarvānbandhūnavasthitān ||27||",
+        "translation": {
+          "hi": "दोनों सेनाओं में ससुर और हितैषी भी थे। उन सब बांधवों को वहाँ खड़ा देखकर अर्जुन के हृदय में करुणा उत्पन्न हुई।",
+          "en": "He also saw fathers-in-law and well-wishers in both armies. Seeing all these kinsmen standing there, Arjuna was overcome with pity."
+        },
+        "explanation": {
+          "hi": "अर्जुन ने अपने ससुराल पक्ष के लोगों (जैसे काशीराज) और अन्य हितैषियों को भी देखा। Arjuna also saw his fathers-in-law and well-wishers on both sides.",
+          "en": ""
+        },
+        "wordMeanings": {
+          "hi": "श्वशुरान्: ससुरों को; सुहृदः: हितैषियों को; च: और; एव: ही; सेनयोः: दोनों सेनाओं में; उभयोः: दोनों; अपि: भी; तान्: उनको; समीक्‍ष्य: देखकर; स: वह; कौन्तेयः: कुन्तीपुत्र (अर्जुन); सर्वान्: सभी; बन्धून्: बांधवों को; अवस्थितान्: खड़े हुए।",
+          "en": ""
+        },
+        "order": 52
+      },
+      {
+        "id": "verse-1-28",
+        "type": "verse",
+        "verseNumber": 28,
+        "sanskrit": "कृपया परयाविष्टो विषीदन्निदमब्रवीत् | दृष्ट्वेमं स्वजनं कृष्ण युयुत्सुं समुपस्थितम् ||२८||",
+        "transliteration": "kṛpayā parayāviṣṭo viṣīdannidamabravīt | dṛṣṭvemaṃ svajanaṃ kṛṣṇa yuyutsuṃ samupasthitam ||28||",
+        "translation": {
+          "hi": "अत्यधिक करुणा से आविष्ट और विषाद करते हुए अर्जुन ने यह कहा: हे कृष्ण! युद्ध की इच्छा से उपस्थित अपने इन स्वजनों को देखकर ...",
+          "en": "Overwhelmed with compassion, Arjuna, in great sorrow, spoke thus: O Krishna, seeing my own kinsmen standing here eager for battle, ..."
+        },
+        "explanation": {
+          "hi": "अर्जुन अब अपने मनोभाव प्रकट करते हैं – वे अत्यधिक करुणा से भर गए हैं और विषाद में बोलते हैं। Arjuna now expresses his feelings – he is overwhelmed with compassion and speaks in sorrow.",
+          "en": ""
+        },
+        "wordMeanings": {
+          "hi": "कृपया: करुणा से; परया: अत्यधिक; आविष्टः: आविष्ट; विषीदन्: विषाद करते हुए; इदम्: यह; अब्रवीत्: बोला; दृष्ट्वा: देखकर; इमम्: इस; स्वजनम्: अपने लोगों को; कृष्ण: हे कृष्ण; युयुत्सुम्: युद्ध की इच्छा से; समुपस्थितम्: उपस्थित।",
+          "en": ""
+        },
+        "order": 53
+      },
+      {
+        "id": "verse-1-29",
+        "type": "verse",
+        "verseNumber": 29,
+        "sanskrit": "सीदन्ति मम गात्राणि मुखं च परिशुष्यति | वेपथुश्च शरीरे मे रोमहर्षश्च जायते ||२९||",
+        "transliteration": "sīdanti mama gātrāṇi mukhaṃ ca pariśuṣyati | vepathuśca śarīre me romaharṣaśca jāyate ||29||",
+        "translation": {
+          "hi": "मेरे अंग शिथिल हो रहे हैं, मुख सूख रहा है, शरीर में कम्पन हो रहा है और रोमांच खड़ा हो रहा है।",
+          "en": "My limbs are giving way, my mouth is drying up, my body trembles, and my hair is standing on end."
+        },
+        "explanation": {
+          "hi": "अर्जुन अपने शारीरिक लक्षण बता रहे हैं जो भय और विषाद के कारण उत्पन्न हो रहे हैं। Arjuna describes the physical symptoms of his fear and sorrow.",
+          "en": ""
+        },
+        "wordMeanings": {
+          "hi": "सीदन्ति: शिथिल हो रहे हैं; मम: मेरे; गात्राणि: अंग; मुखम्: मुख; च: और; परिशुष्यति: सूख रहा है; वेपथु: कम्पन; च: और; शरीरे: शरीर में; मे: मेरे; रोमहर्ष: रोमांच; च: और; जायते: हो रहा है।",
+          "en": ""
+        },
+        "order": 54
+      },
+      {
+        "id": "verse-1-30",
+        "type": "verse",
+        "verseNumber": 30,
+        "sanskrit": "गाण्डीवं स्रंसते हस्तात्त्वक्चैव परिदह्यते | न च शक्नोम्यवस्थातुं भ्रमतीव च मे मनः ||३०||",
+        "transliteration": "gāṇḍīvaṃ sraṃsate hastāttvakcaiva paridahyate | na ca śaknomyavasthātuṃ bhramatīva ca me manaḥ ||30||",
+        "translation": {
+          "hi": "मेरे हाथ से गांडीव धनुष गिर रहा है, त्वचा जल रही है, मैं स्थिर खड़ा नहीं रह सकता और मेरा मन घूम रहा है (भ्रमित हो रहा है)।",
+          "en": "The bow Gandiva is slipping from my hand, my skin is burning all over, I am unable to stand steady, and my mind is reeling."
+        },
+        "explanation": {
+          "hi": "अर्जुन का दुःख और भय इतना बढ़ गया कि उनका धनुष हाथ से छूट रहा है, त्वचा में जलन हो रही है, और मन भ्रमित है। Arjuna's distress is so intense that he cannot hold his bow, his skin burns, his mind reels.",
+          "en": ""
+        },
+        "wordMeanings": {
+          "hi": "गाण्डीवम्: गांडीव धनुष; स्रंसते: गिर रहा है; हस्तात्: हाथ से; त्वक्: त्वचा; च: और; एव: ही; परिदह्यते: जल रही है; न: नहीं; च: और; शक्नोमि: समर्थ हूँ; अवस्थातुम्: खड़े रहने में; भ्रमति: भ्रमित हो रहा है; इव: मानो; च: और; मे: मेरा; मनः: मन।",
+          "en": ""
+        },
+        "order": 55
+      },
+      {
+        "id": "verse-1-31",
+        "type": "verse",
+        "verseNumber": 31,
+        "sanskrit": "निमित्तानि च पश्यामि विपरीतानि केशव | न च श्रेयोऽनुपश्यामि हत्वा स्वजनमाहवे ||३१||",
+        "transliteration": "nimittāni ca paśyāmi viparītāni keśava | na ca śreyo'nupaśyāmi hatvā svajanamāh ave ||31||",
+        "translation": {
+          "hi": "हे केशव! मैं विपरीत (अशुभ) लक्षण देख रहा हूँ और युद्ध में अपने स्वजनों को मारकर मुझे कल्याण नहीं दिखता।",
+          "en": "I see inauspicious omens, O Keshava. I do not foresee any good in killing my own kinsmen in this battle."
+        },
+        "explanation": {
+          "hi": "अर्जुन अशुभ शकुन देखते हैं और सोचते हैं कि अपनों को मारने से कोई कल्याण नहीं होगा। Arjuna sees bad omens and thinks that no good can come from killing one's own people.",
+          "en": ""
+        },
+        "wordMeanings": {
+          "hi": "निमित्तानि: लक्षण; च: और; पश्यामि: देखता हूँ; विपरीतानि: विपरीत; केशव: हे केशव (कृष्ण); न: नहीं; च: और; श्रेयः: कल्याण; अनुपश्यामि: देखता हूँ; हत्वा: मारकर; स्वजनम्: स्वजनों को; आहवे: युद्ध में।",
+          "en": ""
+        },
+        "order": 56
+      },
+      {
+        "id": "verse-1-32",
+        "type": "verse",
+        "verseNumber": 32,
+        "sanskrit": "न काङ्क्षे विजयं कृष्ण न च राज्यं सुखानि च | किं नो राज्येन गोविन्द किं भोगैर्जीवितेन वा ||३२||",
+        "transliteration": "na kāṅkṣe vijayaṃ kṛṣṇa na ca rājyaṃ sukhāni ca | kiṃ no rājyena govinda kiṃ bhogairjīvitena vā ||32||",
+        "translation": {
+          "hi": "हे कृष्ण! मैं विजय नहीं चाहता, न राज्य और न सुख। हे गोविन्द! हमें राज्य से क्या प्रयोजन? भोगों से या जीवन से भी क्या?",
+          "en": "I do not desire victory, O Krishna, nor kingdom nor pleasures. What use is kingdom to us, O Govinda? What use are enjoyments or even life itself?"
+        },
+        "explanation": {
+          "hi": "अर्जुन अब घोषित करते हैं कि उन्हें विजय, राज्य, सुख – कुछ भी नहीं चाहिए यदि उसके लिए अपनों को मारना पड़े। Arjuna declares that he desires nothing if it means killing his own people.",
+          "en": ""
+        },
+        "wordMeanings": {
+          "hi": "न: नहीं; काङ्क्षे: चाहता हूँ; विजयम्: विजय; कृष्ण: हे कृष्ण; न: नहीं; च: और; राज्यम्: राज्य; सुखानि: सुख; च: और; किम्: क्या; न: हमें; राज्येन: राज्य से; गोविन्द: हे गोविन्द; किम्: क्या; भोगैः: भोगों से; जीवितेन: जीवन से; वा: अथवा।",
+          "en": ""
+        },
+        "order": 57
+      },
+      {
+        "id": "verse-1-33",
+        "type": "verse",
+        "verseNumber": 33,
+        "sanskrit": "येषामर्थे काङ्क्षितं नो राज्यं भोगाः सुखानि च | त इमेऽवस्थिता युद्धे प्राणांस्त्यक्त्वा धनानि च ||३३||",
+        "transliteration": "yeṣāmarthe kāṅkṣitaṃ no rājyaṃ bhogāḥ sukhāni ca | ta ime'vasthitā yuddhe prāṇāṃstyaktvā dhanāni ca ||33||",
+        "translation": {
+          "hi": "जिनके लिए हम राज्य, भोग और सुख चाहते थे, वे ही लोग यहाँ प्राण और धन त्यागकर युद्ध में खड़े हैं।",
+          "en": "Those for whose sake we desire kingdom, enjoyments, and pleasures are now standing here ready to fight, having given up their lives and wealth."
+        },
+        "explanation": {
+          "hi": "अर्जुन कहते हैं कि जिन लोगों के लिए वे राज्य चाहते थे (उनके भाई, पुत्र आदि), वे ही अब युद्ध में उनके सामने हैं। Arjuna points out that those for whom he desired the kingdom are now arrayed against him.",
+          "en": ""
+        },
+        "wordMeanings": {
+          "hi": "येषाम्: जिनके लिए; अर्थे: लिए; काङ्क्षितम्: इच्छित; नः: हमारे द्वारा; राज्यम्: राज्य; भोगाः: भोग; सुखानि: सुख; च: और; ते: वे; इमे: ये; अवस्थिताः: खड़े हैं; युद्धे: युद्ध में; प्राणान्: प्राण; त्यक्त्वा: त्यागकर; धनानि: धन; च: और।",
+          "en": ""
+        },
+        "order": 58
+      },
+      {
+        "id": "verse-1-34",
+        "type": "verse",
+        "verseNumber": 34,
+        "sanskrit": "आचार्याः पितरः पुत्रास्तथैव च पितामहाः | मातुलाः श्वशुराः पौत्राः श्यालाः सम्बन्धिनस्तथा ||३४||",
+        "transliteration": "ācāryāḥ pitaraḥ putrāstathaiva ca pitāmahāḥ | mātulāḥ śvaśurāḥ pautrāḥ śyālāḥ sambandhinastathā ||34||",
+        "translation": {
+          "hi": "आचार्य, पिता, पुत्र, पितामह, मामा, ससुर, पौत्र, साले तथा अन्य संबंधी – ये सभी यहाँ हैं।",
+          "en": "Teachers, fathers, sons, grandfathers, maternal uncles, fathers-in-law, grandsons, brothers-in-law, and other relatives – all are here."
+        },
+        "explanation": {
+          "hi": "अर्जुन अपने सभी संबंधियों को गिना रहे हैं, जो युद्ध में मौजूद हैं। Arjuna enumerates all the relatives present on the battlefield.",
+          "en": ""
+        },
+        "wordMeanings": {
+          "hi": "आचार्याः: आचार्य; पितरः: पिता; पुत्राः: पुत्र; तथा: तथा; एव: ही; च: और; पितामहाः: पितामह; मातुलाः: मामा; श्वशुराः: ससुर; पौत्राः: पौत्र; श्यालाः: साले; सम्बन्धिनः: संबंधी; तथा: और।",
+          "en": ""
+        },
+        "order": 59
+      },
+      {
+        "id": "verse-1-35",
+        "type": "verse",
+        "verseNumber": 35,
+        "sanskrit": "एतान्न हन्तुमिच्छामि घ्नतोऽपि मधुसूदन | अपि त्रैलोक्यराज्यस्य हेतोः किं नु महीकृते ||३५||",
+        "transliteration": "etānna hantumicchāmi ghnato'pi madhusūdana | api trailokyarājyasya hetoḥ kiṃ nu mahīkṛte ||35||",
+        "translation": {
+          "hi": "हे मधुसूदन! मैं इन्हें मारना नहीं चाहता, चाहे ये मुझे ही क्यों न मारें, तीनों लोकों के राज्य के लिए भी नहीं, तो फिर पृथ्वी के लिए तो क्या कहना?",
+          "en": "O Madhusudana, I do not wish to kill them, even if they kill me, even for the sake of the kingdom of the three worlds, let alone for this earth."
+        },
+        "explanation": {
+          "hi": "अर्जुन स्पष्ट कहते हैं कि वे युद्ध नहीं करना चाहते, चाहे उनकी जान चली जाए या तीनों लोकों का राज्य मिले। Arjuna declares he will not fight, even if it means his own death or the offer of universal sovereignty.",
+          "en": ""
+        },
+        "wordMeanings": {
+          "hi": "एतान्: इनको; न: नहीं; हन्तुम्: मारने की; इच्छामि: इच्छा करता हूँ; घ्नतः: मारे जाने पर भी; अपि: भी; मधुसूदन: हे मधुसूदन (कृष्ण); अपि: भले ही; त्रैलोक्यराज्यस्य: तीनों लोकों के राज्य के; हेतोः: लिए; किम् नु: क्या कहना; महीकृते: पृथ्वी के लिए।",
+          "en": ""
+        },
+        "order": 60
+      },
+      {
+        "id": "verse-1-36",
+        "type": "verse",
+        "verseNumber": 36,
+        "sanskrit": "निहत्य धार्तराष्ट्रान्नः का प्रीतिः स्याज्जनार्दन | पापमेवाश्रयेदस्मान्हत्वैतानाततायिनः ||३६||",
+        "transliteration": "nihatya dhārtarāṣṭrānnaḥ kā prītiḥ syājjanārdana | pāpamevāśrayedasmānhatvaitānātatāyinaḥ ||36||",
+        "translation": {
+          "hi": "हे जनार्दन! धृतराष्ट्र के पुत्रों को मारकर हमें क्या प्रसन्नता होगी? इन आततायियों को मारने पर भी हमें पाप ही लगेगा।",
+          "en": "O Janardana, what pleasure will we derive from killing the sons of Dhritarashtra? Sin will only overtake us if we slay these aggressors."
+        },
+        "explanation": {
+          "hi": "अर्जुन का तर्क है कि यदि वे आततायी (अत्याचारी) दुर्योधन आदि को भी मारेंगे, तो उन्हें पाप ही लगेगा क्योंकि वे भी अपने हैं। Arjuna argues that even killing aggressors who are relatives brings sin.",
+          "en": ""
+        },
+        "wordMeanings": {
+          "hi": "निहत्य: मारकर; धार्तराष्ट्रान्: धृतराष्ट्र के पुत्रों को; नः: हमें; का: क्या; प्रीतिः: प्रसन्नता; स्यात्: होगी; जनार्दन: हे जनार्दन (कृष्ण); पापम्: पाप; एव: ही; आश्रयेत्: प्राप्त होगा; अस्मान्: हमें; हत्वा: मारकर; एतान्: इन; आततायिनः: आततायियों को।",
+          "en": ""
+        },
+        "order": 61
+      },
+      {
+        "id": "verse-1-37",
+        "type": "verse",
+        "verseNumber": 37,
+        "sanskrit": "तस्मान्नार्हा वयं हन्तुं धार्तराष्ट्रान्स्वबान्धवान् | स्वजनं हि कथं हत्वा सुखिनः स्याम माधव ||३७||",
+        "transliteration": "tasmānnārhā vayaṃ hantuṃ dhārtarāṣṭrānsvabāndhavān | svajanaṃ hi kathaṃ hatvā sukhinaḥ syāma mādhava ||37||",
+        "translation": {
+          "hi": "अतएव हे माधव! हम अपने बांधव धृतराष्ट्र के पुत्रों को मारने के योग्य नहीं हैं। अपने स्वजनों को मारकर हम सुखी कैसे हो सकते हैं?",
+          "en": "Therefore, O Madhava, we have no right to kill the sons of Dhritarashtra, our own relatives. How can we be happy after killing our own kinsmen?"
+        },
+        "explanation": {
+          "hi": "अर्जुन पुनः तर्क देते हैं कि अपने ही लोगों को मारकर सुखी होना संभव नहीं। Arjuna reiterates that happiness cannot come from killing one's own kin.",
+          "en": ""
+        },
+        "wordMeanings": {
+          "hi": "तस्मात्: इसलिए; न: नहीं; अर्हाः: योग्य; वयम्: हम; हन्तुम्: मारने के; धार्तराष्ट्रान्: धृतराष्ट्र के पुत्रों को; स्वबान्धवान्: अपने बांधव; स्वजनम्: स्वजनों को; हि: निश्चय ही; कथम्: कैसे; हत्वा: मारकर; सुखिनः: सुखी; स्याम: होंगे; माधव: हे माधव (कृष्ण)।",
+          "en": ""
+        },
+        "order": 62
+      },
+      {
+        "id": "verse-1-38",
+        "type": "verse",
+        "verseNumber": 38,
+        "sanskrit": "यद्यप्येते न पश्यन्ति लोभोपहतचेतसः | कुलक्षयकृतं दोषं मित्रद्रोहे च पातकम् ||३८||",
+        "transliteration": "yadyapyete na paśyanti lobhopahatacetasaḥ | kulakṣayakṛtaṃ doṣaṃ mitradrohe ca pātakam ||38||",
+        "translation": {
+          "hi": "यद्यपि लोभ से ग्रस्त चित्त वाले ये (धृतराष्ट्र के पुत्र) कुल के विनाश से होने वाले दोष को और मित्रों से द्रोह रूपी पातक को नहीं देखते, ...",
+          "en": "Although they, whose minds are overpowered by greed, see no evil in destroying the family or in hostility toward friends, ..."
+        },
+        "explanation": {
+          "hi": "अर्जुन कहते हैं कि दुर्योधन आदि लोभवश कुलक्षय के दोष को नहीं समझते, पर हम तो समझते हैं। Arjuna says that although Duryodhana et al. do not see the evil of destroying the family, we do.",
+          "en": ""
+        },
+        "wordMeanings": {
+          "hi": "यद्यपि: यद्यपि; एते: ये; न: नहीं; पश्यन्ति: देखते हैं; लोभ: लोभ से; उपहत: ग्रस्त; चेतसः: चित्त वाले; कुलक्षयकृतम्: कुल के विनाश से होने वाले; दोषम्: दोष को; मित्रद्रोहे: मित्रों से द्रोह में; च: और; पातकम्: पातक को।",
+          "en": ""
+        },
+        "order": 63
+      },
+      {
+        "id": "verse-1-39",
+        "type": "verse",
+        "verseNumber": 39,
+        "sanskrit": "कथं न ज्ञेयमस्माभिः पापादस्मान्निवर्तितुम् | कुलक्षयकृतं दोषं प्रपश्यद्भिर्जनार्दन ||३९||",
+        "transliteration": "kathaṃ na jñeyamasmābhiḥ pāpādasmānnivartitum | kulakṣayakṛtaṃ doṣaṃ prapaśyadbhirjanārdana ||39||",
+        "translation": {
+          "hi": "हे जनार्दन! जो लोग कुलक्षय से उत्पन्न दोष को देख रहे हैं, उन्हें इस पाप से हटने के लिए क्यों नहीं जानना चाहिए?",
+          "en": "O Janardana, why should we not learn to turn away from this sin, we who can clearly see the evil of destroying the family?"
+        },
+        "explanation": {
+          "hi": "अर्जुन कहते हैं कि जो लोग कुलक्षय के दोष को समझते हैं, उन्हें पाप से बचना चाहिए। Arjuna says that those who understand the evil of destroying the family should avoid sin.",
+          "en": ""
+        },
+        "wordMeanings": {
+          "hi": "कथम्: कैसे; न: नहीं; ज्ञेयम्: जानना चाहिए; अस्माभिः: हमें; पापात्: पाप से; अस्मात्: इससे; निवर्तितुम्: हटने के लिए; कुलक्षयकृतम्: कुल के विनाश से उत्पन्न; दोषम्: दोष को; प्रपश्यद्भिः: देखते हुए; जनार्दन: हे जनार्दन।",
+          "en": ""
+        },
+        "order": 64
+      },
+      {
+        "id": "verse-1-40",
+        "type": "verse",
+        "verseNumber": 40,
+        "sanskrit": "कुलक्षये प्रणश्यन्ति कुलधर्माः सनातनाः | धर्मे नष्टे कुलं कृत्स्नमधर्मोऽभिभवत्युत ||४०||",
+        "transliteration": "kulakṣaye praṇaśyanti kuladharmāḥ sanātanāḥ | dharme naṣṭe kulaṃ kṛtsnamadharmo'bhibhavatyuta ||40||",
+        "translation": {
+          "hi": "कुल के नाश होने पर सनातन कुलधर्म नष्ट हो जाते हैं। धर्म के नष्ट होने पर सम्पूर्ण कुल में अधर्म प्रबल हो जाता है।",
+          "en": "When the family is destroyed, the eternal family traditions are lost. With the destruction of dharma, adharma overtakes the entire family."
+        },
+        "explanation": {
+          "hi": "अर्जुन अब कुलक्षय के दुष्परिणाम बता रहे हैं – धर्म का नाश और अधर्म का उदय। Arjuna now explains the consequences of destroying the family – loss of dharma and rise of adharma.",
+          "en": ""
+        },
+        "wordMeanings": {
+          "hi": "कुलक्षये: कुल के नाश होने पर; प्रणश्यन्ति: नष्ट हो जाते हैं; कुलधर्माः: कुल के धर्म; सनातनाः: सनातन; धर्मे: धर्म के; नष्टे: नष्ट होने पर; कुलम्: कुल; कृत्स्नम्: सम्पूर्ण; अधर्मः: अधर्म; अभिभवति: प्रबल हो जाता है; उत: भी।",
+          "en": ""
+        },
+        "order": 65
+      },
+      {
+        "id": "verse-1-41",
+        "type": "verse",
+        "verseNumber": 41,
+        "sanskrit": "अधर्माभिभवात्कृष्ण प्रदुष्यन्ति कुलस्त्रियः | स्त्रीषु दुष्टासु वार्ष्णेय जायते वर्णसङ्करः ||४१||",
+        "transliteration": "adharmābhibhavātkṛṣṇa praduṣyanti kulastriyaḥ | strīṣu duṣṭāsu vārṣṇeya jāyate varṇasaṅkaraḥ ||41||",
+        "translation": {
+          "hi": "हे कृष्ण! अधर्म के प्रबल होने पर कुल की स्त्रियाँ भ्रष्ट हो जाती हैं। हे वार्ष्णेय! स्त्रियों के भ्रष्ट होने पर वर्णसंकर (अवांछित संतान) उत्पन्न होती है।",
+          "en": "When adharma predominates, O Krishna, the women of the family become corrupt. When women are corrupted, O Varshneya, unwanted progeny are born."
+        },
+        "explanation": {
+          "hi": "अर्जुन कुलक्षय के दूरगामी परिणाम बता रहे हैं – स्त्रियों का भ्रष्ट होना और वर्णसंकर का जन्म। Arjuna explains further consequences – corruption of women and birth of unwanted progeny.",
+          "en": ""
+        },
+        "wordMeanings": {
+          "hi": "अधर्म: अधर्म; अभिभवात्: के प्रबल होने से; कृष्ण: हे कृष्ण; प्रदुष्यन्ति: भ्रष्ट हो जाती हैं; कुलस्त्रियः: कुल की स्त्रियाँ; स्त्रीषु: स्त्रियों के; दुष्टासु: भ्रष्ट होने पर; वार्ष्णेय: हे वार्ष्णेय (कृष्ण); जायते: उत्पन्न होता है; वर्णसङ्कर: वर्णसंकर (अवांछित संतान)।",
+          "en": ""
+        },
+        "order": 66
+      },
+      {
+        "id": "verse-1-42",
+        "type": "verse",
+        "verseNumber": 42,
+        "sanskrit": "सङ्करो नरकायैव कुलघ्नानां कुलस्य च | पतन्ति पितरो ह्येषां लुप्तपिण्डोदकक्रियाः ||४२||",
+        "transliteration": "saṅkaro narakāyaiva kulaghnānāṃ kulasya ca | patanti pitaro hyeṣāṃ luptapiṇḍodakakriyāḥ ||42||",
+        "translation": {
+          "hi": "वर्णसंकर कुलघातियों और कुल को नरक में ले जाने वाला होता है। ऐसे कुलों के पितर पिण्डदान और जलांजलि से वंचित होकर अधोगति को प्राप्त होते हैं।",
+          "en": "The mixture of castes leads the destroyers of the family and the family itself to hell. The ancestors of such families fall, deprived of offerings of food and water."
+        },
+        "explanation": {
+          "hi": "अर्जुन बताते हैं कि वर्णसंकर से पूर्वजों का पिंडदान बंद हो जाता है, जिससे उन्हें नरक मिलता है। Arjuna says that mixed castes lead to ancestors falling to hell due to lack of offerings.",
+          "en": ""
+        },
+        "wordMeanings": {
+          "hi": "सङ्करः: वर्णसंकर; नरकाय: नरक के लिए; एव: ही; कुलघ्नानाम्: कुलघातियों के; कुलस्य: कुल का; च: और; पतन्ति: गिरते हैं; पितरः: पितर; हि: निश्चय ही; एषाम्: इनके; लुप्त: नष्ट हो जाने से; पिण्डोदकक्रियाः: पिण्डदान और जलांजलि की क्रियाएँ।",
+          "en": ""
+        },
+        "order": 67
+      },
+      {
+        "id": "verse-1-43",
+        "type": "verse",
+        "verseNumber": 43,
+        "sanskrit": "दोषैरेतैः कुलघ्नानां वर्णसङ्करकारकैः | उत्साद्यन्ते जातिधर्माः कुलधर्माश्च शाश्वताः ||४३||",
+        "transliteration": "doṣairetaiḥ kulaghnānāṃ varṇasaṅkarakārakaiḥ | utsādyante jātidharmāḥ kuladharmāśca śāśvatāḥ ||43||",
+        "translation": {
+          "hi": "कुलघातियों के इन दोषों (वर्णसंकर उत्पन्न करने वाले) से जाति के धर्म और सनातन कुलधर्म नष्ट हो जाते हैं।",
+          "en": "By these evil deeds of the destroyers of the family, which cause intermixture of castes, the eternal family traditions and the dharma of the race are destroyed."
+        },
+        "explanation": {
+          "hi": "अर्जुन कहते हैं कि कुलघातियों के कार्यों से न केवल कुलधर्म, बल्कि जातिधर्म भी नष्ट हो जाते हैं। Arjuna says that the actions of family-destroyers annihilate both family traditions and societal duties.",
+          "en": ""
+        },
+        "wordMeanings": {
+          "hi": "दोषैः: दोषों से; एतैः: इन; कुलघ्नानाम्: कुलघातियों के; वर्णसङ्करकारकैः: वर्णसंकर उत्पन्न करने वाले; उत्साद्यन्ते: नष्ट हो जाते हैं; जातिधर्माः: जाति के धर्म; कुलधर्माः: कुल के धर्म; च: और; शाश्वताः: सनातन।",
+          "en": ""
+        },
+        "order": 68
+      },
+      {
+        "id": "verse-1-44",
+        "type": "verse",
+        "verseNumber": 44,
+        "sanskrit": "उत्सन्नकुलधर्माणां मनुष्याणां जनार्दन | नरकेऽनियतं वासो भवतीत्यनुशुश्रुम ||४४||",
+        "transliteration": "utsannakuladharmāṇāṃ manuṣyāṇāṃ janārdana | narake'niyataṃ vāso bhavatītyanuśuśruma ||44||",
+        "translation": {
+          "hi": "हे जनार्दन! हमने सुना है कि जिनके कुलधर्म नष्ट हो जाते हैं, उन मनुष्यों का नरक में अनिश्चित काल तक वास होता है।",
+          "en": "O Janardana, we have heard that those whose family traditions are destroyed dwell in hell for an indefinite period."
+        },
+        "explanation": {
+          "hi": "अर्जुन शास्त्रों के प्रमाण देते हैं कि कुलधर्महीनों को नरक में रहना पड़ता है। Arjuna cites scriptural authority that those without family traditions go to hell.",
+          "en": ""
+        },
+        "wordMeanings": {
+          "hi": "उत्सन्न: नष्ट; कुलधर्माणाम्: जिनके कुलधर्म नष्ट हो गए हैं; मनुष्याणाम्: ऐसे मनुष्यों का; जनार्दन: हे जनार्दन; नरके: नरक में; अनियतम्: अनिश्चित काल तक; वासः: निवास; भवति: होता है; इति: इस प्रकार; अनुशुश्रुम: हमने सुना है।",
+          "en": ""
+        },
+        "order": 69
+      },
+      {
+        "id": "verse-1-45",
+        "type": "verse",
+        "verseNumber": 45,
+        "sanskrit": "अहो बत महत्पापं कर्तुं व्यवसिता वयम् | यद्राज्यसुखलोभेन हन्तुं स्वजनमुद्यताः ||४५||",
+        "transliteration": "aho bata mahatpāpaṃ kartuṃ vyavasitā vayam | yadrājyasukhalobhena hantuṃ svajanamudyatāḥ ||45||",
+        "translation": {
+          "hi": "हाय! कितने आश्चर्य की बात है कि हम राज्य के सुख के लोभ से अपने ही स्वजनों को मारने के लिए उद्यत होकर बड़ा पाप करने को तत्पर हैं।",
+          "en": "Alas! How strange it is that we are intent on committing a great sin, being eager to kill our own kinsmen out of greed for the pleasures of the kingdom!"
+        },
+        "explanation": {
+          "hi": "अर्जुन स्वयं को धिक्कारते हैं कि वे राज्य के लालच में अपनों को मारने का पाप करने जा रहे हैं। Arjuna laments that they are about to commit a great sin by killing relatives for the sake of kingdom.",
+          "en": ""
+        },
+        "wordMeanings": {
+          "hi": "अहो बत: हाय; महत्: बड़ा; पापम्: पाप; कर्तुम्: करने के लिए; व्यवसिताः: तत्पर; वयम्: हम; यत्: जो; राज्यसुखलोभेन: राज्य के सुख के लोभ से; हन्तुम्: मारने को; स्वजनम्: अपने लोगों को; उद्यताः: उद्यत।",
+          "en": ""
+        },
+        "order": 70
+      },
+      {
+        "id": "verse-1-46",
+        "type": "verse",
+        "verseNumber": 46,
+        "sanskrit": "यदि मामप्रतीकारमशस्त्रं शस्त्रपाणयः | धार्तराष्ट्रा रणे हन्युस्तन्मे क्षेमतरं भवेत् ||४६||",
+        "transliteration": "yadi māmapratīkāram aśastraṃ śastrapāṇayaḥ | dhārtarāṣṭrā raṇe hanyustanme kṣemataraṃ bhavet ||46||",
+        "translation": {
+          "hi": "यदि धृतराष्ट्र के पुत्र हाथ में शस्त्र लिए युद्ध में मुझे बिना प्रतिकार किए और शस्त्र रहित मार डालें, तो वह मेरे लिए अधिक कल्याणकारी होगा।",
+          "en": "If the sons of Dhritarashtra, with weapons in hand, kill me in battle while I am unarmed and not offering resistance, that would be better for me."
+        },
+        "explanation": {
+          "hi": "अर्जुन अब युद्ध से पूरी तरह विमुख होकर यह भी कहते हैं कि उनका मारा जाना ही भला है, बजाय इसके कि वे अपनों को मारें। Arjuna now says that being killed unarmed is better than killing his own kinsmen.",
+          "en": ""
+        },
+        "wordMeanings": {
+          "hi": "यदि: यदि; माम्: मुझे; अप्रतीकारम्: बिना प्रतिकार किए; अशस्त्रम्: शस्त्र रहित; शस्त्रपाणयः: हाथ में शस्त्र लिए; धार्तराष्ट्राः: धृतराष्ट्र के पुत्र; रणे: युद्ध में; हन्युः: मार डालें; तत्: वह; मे: मेरे लिए; क्षेमतरम्: अधिक कल्याणकारी; भवेत्: होगा।",
+          "en": ""
+        },
+        "order": 71
+      },
+      {
+        "id": "verse-1-47",
+        "type": "verse",
+        "verseNumber": 47,
+        "sanskrit": "एवमुक्त्वार्जुनः सङ्ख्ये रथोपस्थ उपाविशत् | विसृज्य सशरं चापं शोकसंविग्नमानसः ||४७||",
+        "transliteration": "evamuktvārjunaḥ saṅkhye rathopastha upāviśat | visṛjya saśaraṃ cāpaṃ śokasaṃvignamānasaḥ ||47||",
+        "translation": {
+          "hi": "युद्धभूमि में इस प्रकार कहकर अर्जुन ने बाणों सहित धनुष त्याग दिया और शोक से व्याकुल मन से रथ के पिछले भाग में बैठ गए।",
+          "en": "Speaking thus, Arjuna cast aside his bow and arrows and sat down on the chariot, his mind overwhelmed with sorrow."
+        },
+        "explanation": {
+          "hi": "अर्जुन ने युद्ध न करने का निश्चय कर लिया और धनुष-बाण त्यागकर रथ में बैठ गए। Arjuna finally decides not to fight, lays down his weapons, and sits in the chariot.",
+          "en": ""
+        },
+        "wordMeanings": {
+          "hi": "एवम्: इस प्रकार; उक्त्वा: कहकर; अर्जुनः: अर्जुन; सङ्ख्ये: युद्ध में; रथोपस्थे: रथ के पिछले भाग में; उपाविशत्: बैठ गए; विसृज्य: त्यागकर; सशरम्: बाणों सहित; चापम्: धनुष; शोक: शोक से; संविग्न: व्याकुल; मानसः: मन वाले।",
+          "en": ""
+        },
+        "order": 72
+      }
+    ],
+    "verses": [
+      {
+        "verseNumber": 1,
+        "sanskrit": "धृतराष्ट्र उवाच | धर्मक्षेत्रे कुरुक्षेत्रे समवेता युयुत्सवः | मामकाः पाण्डवाश्चैव किमकुर्वत सञ्जय ||१||",
+        "transliteration": "dhṛtarāṣṭra uvāca | dharma-kṣetre kuru-kṣetre samavetā yuyutsavaḥ | māmakāḥ pāṇḍavāś caiva kim akurvata sañjaya ||1||",
+        "translation": {
+          "hi": "धृतराष्ट्र बोले: हे संजय! धर्मभूमि कुरुक्षेत्र में युद्ध की इच्छा से एकत्र हुए मेरे तथा पाण्डु के पुत्रों ने क्या किया?",
+          "en": "Dhritarashtra said: On the holy plain of Kurukshetra, gathered together, eager to fight, what did my sons and the sons of Pandu do, O Sanjaya?"
+        },
+        "explanation": {
+          "hi": "धृतराष्ट्र का यह प्रश्न उनके पुत्र-मोह को दर्शाता है। \"धर्मक्षेत्र\" शब्द यह संकेत देता है कि यह युद्ध केवल राजनीतिक नहीं, अपितु धार्मिक महत्व का भी है। The word \"dharma-kshetra\" signifies that this battlefield is sacred.",
+          "en": ""
+        },
+        "wordMeanings": {
+          "hi": "धृतराष्ट्र: राजा धृतराष्ट्र; उवाच: बोले; धर्मक्षेत्रे: धर्मभूमि में; कुरुक्षेत्रे: कुरुक्षेत्र में; समवेताः: एकत्रित; युयुत्सवः: युद्ध की इच्छा वाले; मामकाः: मेरे पुत्र; पाण्डवाः: पाण्डु के पुत्र; च: और; एव: निश्चय ही; किम्: क्या; अकुर्वत: उन्होंने किया; सञ्जय: हे संजय।",
+          "en": ""
+        }
+      },
+      {
+        "verseNumber": 2,
+        "sanskrit": "सञ्जय उवाच | दृष्ट्वा तु पाण्डवानीकं व्यूढं दुर्योधनस्तदा | आचार्यमुपसङ्गम्य राजा वचनमब्रवीत् ||२||",
+        "transliteration": "sañjaya uvāca | dṛṣṭvā tu pāṇḍavānīkaṃ vyūḍhaṃ duryodhanastadā | ācāryamupasaṅgamya rājā vacanamabravīt ||2||",
+        "translation": {
+          "hi": "संजय बोले: तब राजा दुर्योधन ने पाण्डवों की सेना को व्यूहबद्ध देखकर आचार्य द्रोणाचार्य के पास जाकर यह वचन कहे।",
+          "en": "Sanjaya said: Then, seeing the Pandava army drawn up in battle array, King Duryodhana approached his teacher Dronacharya and spoke these words."
+        },
+        "explanation": {
+          "hi": "दुर्योधन की आशंका और व्याकुलता यहाँ दिखती है। वह सेना की शक्ति का आकलन कर रहा है और गुरु द्रोण को सचेत करना चाहता है। Duryodhana's anxiety reflects his inner insecurity despite his large army.",
+          "en": ""
+        },
+        "wordMeanings": {
+          "hi": "सञ्जय: संजय; उवाच: बोले; दृष्ट्वा: देखकर; तु: तो; पाण्डवानीकम्: पाण्डवों की सेना; व्यूढम्: व्यूह रचना किए हुए; दुर्योधन: दुर्योधन; तदा: तब; आचार्यम्: आचार्य (द्रोण) के पास; उपसङ्गम्य: जाकर; राजा: राजा; वचनम्: वचन; अब्रवीत्: बोला।",
+          "en": ""
+        }
+      },
+      {
+        "verseNumber": 3,
+        "sanskrit": "पश्यैतां पाण्डुपुत्राणामाचार्य महतीं चमूम् | व्यूढां द्रुपदपुत्रेण तव शिष्येण धीमता ||३||",
+        "transliteration": "paśyaitāṃ pāṇḍuputrāṇāmācārya mahatīṃ camūm | vyūḍhāṃ drupadaputreṇa tava śiṣyeṇa dhīmatā ||3||",
+        "translation": {
+          "hi": "हे आचार्य! आपके बुद्धिमान शिष्य द्रुपदपुत्र (धृष्टद्युम्न) द्वारा व्यूहबद्ध पाण्डुपुत्रों की इस विशाल सेना को देखिए।",
+          "en": "O Teacher, behold this great army of the sons of Pandu, arrayed for battle by the son of Drupada, your wise disciple!"
+        },
+        "explanation": {
+          "hi": "दुर्योधन यहाँ द्रोणाचार्य की भावनाओं को भड़काने का प्रयास कर रहा है, क्योंकि धृष्टद्युम्न द्रोण के शत्रु द्रुपद का पुत्र है। Duryodhana subtly reminds Drona that his own disciple is fighting against him.",
+          "en": ""
+        },
+        "wordMeanings": {
+          "hi": "पश्य: देखिए; एताम्: इस; पाण्डुपुत्राणाम्: पाण्डुपुत्रों की; आचार्य: हे आचार्य; महतीम्: महान; चमूम्: सेना को; व्यूढाम्: व्यूहबद्ध; द्रुपदपुत्रेण: द्रुपद के पुत्र (धृष्टद्युम्न) द्वारा; तव: आपके; शिष्येण: शिष्य; धीमता: बुद्धिमान।",
+          "en": ""
+        }
+      },
+      {
+        "verseNumber": 4,
+        "sanskrit": "अत्र शूरा महेष्वासा भीमार्जुनसमा युधि | युयुधानो विराटश्च द्रुपदश्च महारथः ||४||",
+        "transliteration": "atra śūrā maheṣvāsā bhīmārjunasamā yudhi | yuyudhāno virāṭaśca drupadaśca mahārathaḥ ||4||",
+        "translation": {
+          "hi": "इस सेना में भीम और अर्जुन के समान युद्ध करने वाले महान धनुर्धर वीर हैं – युयुधान (सात्यकि), विराट और महारथी द्रुपद।",
+          "en": "Here in this army are many heroic warriors, mighty archers equal in battle to Bhima and Arjuna: great fighters like Yuyudhana, Virata, and Drupada."
+        },
+        "explanation": {
+          "hi": "दुर्योधन पाण्डव पक्ष के प्रमुख योद्धाओं के नाम गिना रहा है, जिससे द्रोण को यह अहसास हो कि युद्ध आसान नहीं होगा। Duryodhana lists the prominent warriors on the Pandava side to emphasize the challenge.",
+          "en": ""
+        },
+        "wordMeanings": {
+          "hi": "अत्र: यहाँ; शूरा: वीर; महेष्वासा: महान धनुर्धर; भीमार्जुनसमा: भीम और अर्जुन के समान; युधि: युद्ध में; युयुधान: सात्यकि; विराट: राजा विराट; च: और; द्रुपद: द्रुपद; च: भी; महारथः: महारथी।",
+          "en": ""
+        }
+      },
+      {
+        "verseNumber": 5,
+        "sanskrit": "धृष्टकेतुश्चेकितानः काशिराजश्च वीर्यवान् | पुरुजित्कुन्तिभोजश्च शैब्यश्च नरपुङ्गवः ||५||",
+        "transliteration": "dhṛṣṭaketuścekitānaḥ kāśirājaśca vīryavān | purujitkuntibhojaśca śaibyaśca narapuṅgavaḥ ||5||",
+        "translation": {
+          "hi": "धृष्टकेतु, चेकितान, पराक्रमी काशीराज, पुरुजित्, कुन्तिभोज और नरश्रेष्ठ शैब्य भी यहाँ हैं।",
+          "en": "There are also great, heroic, and powerful fighters like Dhrishtaketu, Chekitana, the valiant king of Kashi, Purujit, Kuntibhoja, and Shaibya – the best of men."
+        },
+        "explanation": {
+          "hi": "ये सभी राजा पाण्डवों के पक्ष में हैं। दुर्योधन उनकी गिनती कर अपनी चिंता प्रकट कर रहा है। All these kings are allied with the Pandavas; Duryodhana is clearly worried.",
+          "en": ""
+        },
+        "wordMeanings": {
+          "hi": "धृष्टकेतु: धृष्टकेतु (चेदिराज); च: और; चेकितान: चेकितान; काशिराज: काशीराज; च: और; वीर्यवान: पराक्रमी; पुरुजित्: पुरुजित्; कुन्तिभोज: कुन्तिभोज; च: और; शैब्य: शैब्य; च: और; नरपुङ्गव: नरश्रेष्ठ।",
+          "en": ""
+        }
+      },
+      {
+        "verseNumber": 6,
+        "sanskrit": "युधामन्युश्च विक्रान्त उत्तमौजाश्च वीर्यवान् | सौभद्रो द्रौपदेयाश्च सर्व एव महारथाः ||६||",
+        "transliteration": "yudhāmanyuśca vikrānta uttamaujāśca vīryavān | saubhadro draupadeyāśca sarva eva mahārathāḥ ||6||",
+        "translation": {
+          "hi": "पराक्रमी युधामन्यु, शक्तिशाली उत्तमौजा, सौभद्र (अभिमन्यु) और द्रौपदी के पुत्र – ये सभी महारथी हैं।",
+          "en": "The brave Yudhamanyu, the powerful Uttamaujas, the son of Subhadra (Abhimanyu), and the sons of Draupadi – all are great warriors."
+        },
+        "explanation": {
+          "hi": "दुर्योधन अब पाण्डव पक्ष के और योद्धा गिना रहा है, जिनमें अभिमन्यु (अर्जुन पुत्र) और द्रौपदी के पाँचों पुत्र शामिल हैं। Now Duryodhana names Abhimanyu and the five sons of Draupadi – all rated as great warriors.",
+          "en": ""
+        },
+        "wordMeanings": {
+          "hi": "युधामन्यु: युधामन्यु; च: और; विक्रान्त: पराक्रमी; उत्तमौजा: उत्तमौजा; च: और; वीर्यवान्: शक्तिशाली; सौभद्र: सौभद्र (अभिमन्यु); द्रौपदेयाः: द्रौपदी के पुत्र; च: और; सर्व: सभी; एव: निश्चय ही; महारथाः: महारथी।",
+          "en": ""
+        }
+      },
+      {
+        "verseNumber": 7,
+        "sanskrit": "अस्माकं तु विशिष्टा ये तान्निबोध द्विजोत्तम | नायका मम सैन्यस्य संज्ञार्थं तान्ब्रवीमि ते ||७||",
+        "transliteration": "asmākaṃ tu viśiṣṭā ye tānnibodha dvijottama | nāyakā mama sainyasya saṃjñārthaṃ tānbravīmi te ||7||",
+        "translation": {
+          "hi": "किन्तु हे द्विजश्रेष्ठ! आपकी जानकारी के लिए मैं अपनी सेना के जो विशेष नायक हैं, उन्हें बताता हूँ।",
+          "en": "But for your information, O best of the twice-born, let me tell you about the distinguished commanders who are especially qualified to lead my army."
+        },
+        "explanation": {
+          "hi": "दुर्योधन अब अपनी सेना के प्रमुख योद्धाओं का परिचय देता है, यह दिखाने के लिए कि उसकी सेना भी कम शक्तिशाली नहीं है। Duryodhana now lists the key warriors on his own side to boost morale.",
+          "en": ""
+        },
+        "wordMeanings": {
+          "hi": "अस्माकम्: हमारी ओर; तु: तो; विशिष्टा: विशेष; ये: जो; तान्: उन्हें; निबोध: जानो; द्विजोत्तम: हे द्विजश्रेष्ठ; नायका: नायक; मम: मेरी; सैन्यस्य: सेना के; संज्ञार्थम्: सूचना के लिए; तान्: उन्हें; ब्रवीमि: बताता हूँ; ते: आपको।",
+          "en": ""
+        }
+      },
+      {
+        "verseNumber": 8,
+        "sanskrit": "भवान्भीष्मश्च कर्णश्च कृपश्च समितिञ्जयः | अश्वत्थामा विकर्णश्च सौमदत्तिस्तथैव च ||८||",
+        "transliteration": "bhavānbhīṣmaśca karṇaśca kṛpaśca samitiñjayaḥ | aśvatthāmā vikarṇaśca saumadattistathaiva ca ||8||",
+        "translation": {
+          "hi": "आप (द्रोणाचार्य), भीष्म, कर्ण, युद्ध में सदा विजयी कृपाचार्य, अश्वत्थामा, विकर्ण और सोमदत्त के पुत्र भूरिश्रवा – ये सभी हैं।",
+          "en": "There are personalities like yourself, Bhishma, Karna, Kripa who are always victorious in battle, Ashvatthama, Vikarna, and the son of Somadatta (Bhurishrava)."
+        },
+        "explanation": {
+          "hi": "दुर्योधन ने सर्वप्रथम अपने गुरु द्रोण का नाम लिया, फिर भीष्म पितामह, कर्ण, कृपाचार्य, अश्वत्थामा, विकर्ण और भूरिश्रवा। Duryodhana lists the most powerful warriors on his side, starting with Drona and Bhishma.",
+          "en": ""
+        },
+        "wordMeanings": {
+          "hi": "भवान्: आप; भीष्म: भीष्म; च: और; कर्ण: कर्ण; च: और; कृप: कृपाचार्य; च: और; समितिञ्जय: युद्ध में सदा विजयी; अश्वत्थामा: अश्वत्थामा; विकर्ण: विकर्ण; च: और; सौमदत्ति: सोमदत्त के पुत्र (भूरिश्रवा); तथा: तथा; एव: ही; च: और।",
+          "en": ""
+        }
+      },
+      {
+        "verseNumber": 9,
+        "sanskrit": "अन्ये च बहवः शूरा मदर्थे त्यक्तजीविताः | नानाशस्त्रप्रहरणाः सर्वे युद्धविशारदाः ||९||",
+        "transliteration": "anye ca bahavaḥ śūrā madarthe tyaktajīvitāḥ | nānāśastra praharaṇāḥ sarve yuddhaviśāradāḥ ||9||",
+        "translation": {
+          "hi": "और भी बहुत से वीर हैं जो मेरे लिए जीवन का त्याग करने को तैयार हैं। वे अनेक प्रकार के शस्त्रों से सुसज्जित हैं और सभी युद्ध में निपुण हैं।",
+          "en": "There are many other heroes who are prepared to lay down their lives for my sake. They are armed with various weapons and are all skilled in warfare."
+        },
+        "explanation": {
+          "hi": "दुर्योधन यहाँ अपनी सेना के सामान्य सैनिकों और अन्य योद्धाओं की ओर संकेत करता है, जो उसके लिए प्राण न्योछावर करने को तैयार हैं। Duryodhana highlights the loyalty and skill of the ordinary soldiers.",
+          "en": ""
+        },
+        "wordMeanings": {
+          "hi": "अन्ये: अन्य; च: और; बहवः: अनेक; शूरा: वीर; मदर्थे: मेरे लिए; त्यक्तजीविताः: जीवन का त्याग करने वाले; नाना: अनेक प्रकार के; शस्त्र: शस्त्रों से; प्रहरणाः: सुसज्जित; सर्वे: सभी; युद्धविशारदाः: युद्ध में निपुण।",
+          "en": ""
+        }
+      },
+      {
+        "verseNumber": 10,
+        "sanskrit": "अपर्याप्तं तदस्माकं बलं भीष्माभिरक्षितम् | पर्याप्तं त्विदमेतेषां बलं भीमाभिरक्षितम् ||१०||",
+        "transliteration": "aparyāptaṃ tadasmākaṃ balaṃ bhīṣmābhirakṣitam | paryāptaṃ tvidameteṣāṃ balaṃ bhīmābhirakṣitam ||10||",
+        "translation": {
+          "hi": "भीष्म द्वारा सुरक्षित हमारी सेना अपरिमित है, जबकि भीम द्वारा सुरक्षित इनकी सेना परिमित है।",
+          "en": "Our army, protected by Bhishma, is unlimited; but their army, protected by Bhima, is limited."
+        },
+        "explanation": {
+          "hi": "दुर्योधन यहाँ आत्मविश्वास दिखा रहा है कि भीष्म जैसे योद्धा के कारण उसकी सेना अजेय है, जबकि पाण्डव सेना सीमित है। Duryodhana expresses confidence in Bhishma's protection, though his comparison is flawed because Bhima is also a great warrior.",
+          "en": ""
+        },
+        "wordMeanings": {
+          "hi": "अपर्याप्तम्: अपरिमित; तत्: वह; अस्माकम्: हमारी; बलम्: सेना; भीष्म: भीष्म द्वारा; अभिरक्षितम्: सुरक्षित; पर्याप्तम्: परिमित; तु: तो; इदम्: यह; एतेषाम्: इन (पाण्डवों) की; बलम्: सेना; भीम: भीम द्वारा; अभिरक्षितम्: सुरक्षित।",
+          "en": ""
+        }
+      },
+      {
+        "verseNumber": 11,
+        "sanskrit": "अयनेषु च सर्वेषु यथाभागमवस्थिताः | भीष्ममेवाभिरक्षन्तु भवन्तः सर्व एव हि ||११||",
+        "transliteration": "ayaneṣu ca sarveṣu yathābhāgamavasthitāḥ | bhīṣmamevābhirakṣantu bhavantaḥ sarva eva hi ||11||",
+        "translation": {
+          "hi": "अतः सब मोर्चों पर यथायोग्य स्थित होकर आप सब लोग भीष्म की ही सुरक्षा करें।",
+          "en": "Therefore, stationed in your respective positions on all fronts, all of you must protect Bhishma at all costs."
+        },
+        "explanation": {
+          "hi": "दुर्योधन यहाँ अपने सैनिकों को निर्देश देता है कि वे भीष्म की रक्षा पर ध्यान दें, क्योंकि भीष्म ही उनकी सेना के मुख्य आधार हैं। Duryodhana orders everyone to protect Bhishma, recognizing him as the cornerstone of their army.",
+          "en": ""
+        },
+        "wordMeanings": {
+          "hi": "अयनेषु: मोर्चों पर; च: और; सर्वेषु: सब; यथाभागम्: यथायोग्य विभाग में; अवस्थिताः: स्थित होकर; भीष्मम्: भीष्म को; एव: ही; अभिरक्षन्तु: पूरी तरह सुरक्षित करें; भवन्तः: आप लोग; सर्व: सभी; एव: ही; हि: निश्चय ही।",
+          "en": ""
+        }
+      },
+      {
+        "verseNumber": 12,
+        "sanskrit": "तस्य सञ्जनयन्हर्षं कुरुवृद्धः पितामहः | सिंहनादं विनद्योच्चैः शङ्खं दध्मौ प्रतापवान् ||१२||",
+        "transliteration": "tasya sañjanayan harṣaṃ kuruvṛddhaḥ pitāmahaḥ | siṃhanādaṃ vinadyoccaiḥ śaṅkhaṃ dadhmau pratāpavān ||12||",
+        "translation": {
+          "hi": "तब कुरुवंश के वृद्ध पितामह प्रतापी भीष्म ने सिंह की गर्जना के समान ऊँचे स्वर से शंख बजाया, जिससे दुर्योधन को हर्ष हुआ।",
+          "en": "Then the glorious grandsire of the Kuru dynasty, Bhishma, roaring like a lion, blew his conch loudly, infusing joy in Duryodhana."
+        },
+        "explanation": {
+          "hi": "भीष्म ने अपने शंखनाद से युद्ध का आह्वान किया और दुर्योधन का मनोबल बढ़ाया। Bhishma's conch signaled the start of war and boosted Duryodhana's spirits.",
+          "en": ""
+        },
+        "wordMeanings": {
+          "hi": "तस्य: उस (दुर्योधन) के; सञ्जनयन्: उत्पन्न करते हुए; हर्षम्: हर्ष; कुरुवृद्धः: कुरुवंश के वृद्ध; पितामहः: पितामह; सिंहनादम्: सिंह की गर्जना के समान; विनद्य: गर्जना करके; उच्चैः: ऊँचे स्वर से; शङ्खम्: शंख; दध्मौ: बजाया; प्रतापवान्: प्रतापी।",
+          "en": ""
+        }
+      },
+      {
+        "verseNumber": 13,
+        "sanskrit": "ततः शङ्खाश्च भेर्यश्च पणवानकगोमुखाः | सहसैवाभ्यहन्यन्त स शब्दस्तुमुलोऽभवत् ||१३||",
+        "transliteration": "tataḥ śaṅkhāśca bheryaśca paṇavānakagomukhāḥ | sahasaivābhyahanyanta sa śabdastumulo'bhavat ||13||",
+        "translation": {
+          "hi": "उसके बाद अचानक ही शंख, नगाड़े, ढोल, मृदंग और तुरही आदि बजाए गए और वह शब्द अत्यंत भयंकर हो गया।",
+          "en": "After that, conches, kettledrums, cymbals, drums, and trumpets were suddenly sounded, and the combined sound was tumultuous."
+        },
+        "explanation": {
+          "hi": "भीष्म के शंख के बाद कौरव सेना के सभी वाद्य यंत्र एक साथ बज उठे, जिससे वातावरण युद्धोन्माद से भर गया। After Bhishma's conch, all instruments of the Kaurava army played together, creating a tumultuous sound.",
+          "en": ""
+        },
+        "wordMeanings": {
+          "hi": "ततः: उसके बाद; शङ्खाः: शंख; च: और; भेर्यः: नगाड़े; च: और; पणव: पणव (ढोल); आनक: आनक (मृदंग); गोमुखाः: गोमुख (तुरही); सहसा: अचानक; एव: ही; अभ्यहन्यन्त: बजाए गए; स: वह; शब्दः: शब्द; तुमुलः: भयंकर; अभवत्: हो गया।",
+          "en": ""
+        }
+      },
+      {
+        "verseNumber": 14,
+        "sanskrit": "ततः श्वेतैर्हयैर्युक्ते महति स्यन्दने स्थितौ | माधवः पाण्डवश्चैव दिव्यौ शङ्खौ प्रदध्मतुः ||१४||",
+        "transliteration": "tataḥ śvetairhayairyukte mahati syandane sthitau | mādhavaḥ pāṇḍavaścaiva divyau śaṅkhau pradadhmatuḥ ||14||",
+        "translation": {
+          "hi": "तब सफेद घोड़ों से युक्त विशाल रथ पर स्थित माधव (श्रीकृष्ण) और पाण्डव (अर्जुन) ने दिव्य शंख बजाए।",
+          "en": "Then, from the great chariot yoked with white horses, Madhava (Krishna) and the son of Pandu (Arjuna) blew their divine conches."
+        },
+        "explanation": {
+          "hi": "अब पाण्डव पक्ष की ओर से भगवान कृष्ण और अर्जुन ने अपने शंख बजाए, जो दिव्य थे। Now Krishna and Arjuna blow their divine conches from the Pandava side.",
+          "en": ""
+        },
+        "wordMeanings": {
+          "hi": "ततः: तब; श्वेतैः: सफेद; हयैः: घोड़ों से; युक्ते: युक्त; महति: विशाल; स्यन्दने: रथ में; स्थितौ: स्थित; माधवः: माधव (श्रीकृष्ण); पाण्डवः: पाण्डव (अर्जुन); च: और; एव: ही; दिव्यौ: दिव्य; शङ्खौ: शंख; प्रदध्मतुः: बजाया।",
+          "en": ""
+        }
+      },
+      {
+        "verseNumber": 15,
+        "sanskrit": "पाञ्चजन्यं हृषीकेशो देवदत्तं धनञ्जयः | पौण्ड्रं दध्मौ महाशङ्खं भीमकर्मा वृकोदरः ||१५||",
+        "transliteration": "pāñcajanyaṃ hṛṣīkeśo devadattaṃ dhanañjayaḥ | pauṇḍraṃ dadhmau mahāśaṅkhaṃ bhīmakarmā vṛkodaraḥ ||15||",
+        "translation": {
+          "hi": "हृषीकेश (श्रीकृष्ण) ने पाञ्चजन्य, धनंजय (अर्जुन) ने देवदत्त, और भयंकर कर्म करने वाले वृकोदर (भीम) ने पौण्ड्र नामक महाशंख बजाया।",
+          "en": "Hrishikesha (Krishna) blew the Panchajanya; Arjuna blew the Devadatta; and Bhima, the voracious eater and performer of herculean tasks, blew the great conch Paundra."
+        },
+        "explanation": {
+          "hi": "यहाँ तीन प्रमुख पाण्डव योद्धाओं के शंखों के नाम दिए गए हैं – कृष्ण का पाञ्चजन्य, अर्जुन का देवदत्त, और भीम का पौण्ड्र। The names of the conches of the three main Pandava warriors are mentioned.",
+          "en": ""
+        },
+        "wordMeanings": {
+          "hi": "पाञ्चजन्यम्: पाञ्चजन्य नामक शंख; हृषीकेशः: हृषीकेश (श्रीकृष्ण); देवदत्तम्: देवदत्त; धनञ्जयः: धनंजय (अर्जुन); पौण्ड्रम्: पौण्ड्र; दध्मौ: बजाया; महाशङ्खम्: महाशंख; भीमकर्मा: भयंकर कर्म करने वाला; वृकोदरः: वृकोदर (भीम)।",
+          "en": ""
+        }
+      },
+      {
+        "verseNumber": 16,
+        "sanskrit": "अनन्तविजयं राजा कुन्तीपुत्रो युधिष्ठिरः | नकुलः सहदेवश्च सुघोषमणिपुष्पकौ ||१६||",
+        "transliteration": "anantavijayaṃ rājā kuntīputro yudhiṣṭhiraḥ | nakulaḥ sahadevaśca sughoṣamaṇipuṣpakau ||16||",
+        "translation": {
+          "hi": "राजा युधिष्ठिर ने अनन्तविजय, नकुल ने सुघोष और सहदेव ने मणिपुष्पक शंख बजाया।",
+          "en": "King Yudhishthira, son of Kunti, blew his conch Anantavijaya; Nakula and Sahadeva blew their conches Sughosha and Manipushpaka respectively."
+        },
+        "explanation": {
+          "hi": "अब शेष पाण्डव भी अपने-अपने शंख बजाते हैं – युधिष्ठिर का अनन्तविजय, नकुल का सुघोष, सहदेव का मणिपुष्पक। The remaining Pandavas also blow their conches.",
+          "en": ""
+        },
+        "wordMeanings": {
+          "hi": "अनन्तविजयम्: अनन्तविजय नामक शंख; राजा: राजा; कुन्तीपुत्रः: कुन्तीपुत्र; युधिष्ठिरः: युधिष्ठिर; नकुलः: नकुल; सहदेवः: सहदेव; च: और; सुघोषमणिपुष्पकौ: सुघोष और मणिपुष्पक नामक शंख।",
+          "en": ""
+        }
+      },
+      {
+        "verseNumber": 17,
+        "sanskrit": "काश्यश्च परमेष्वासः शिखण्डी च महारथः | धृष्टद्युम्नो विराटश्च सात्यकिश्चापराजितः ||१७||",
+        "transliteration": "kāśyaśca parameṣvāsaḥ śikhaṇḍī ca mahārathaḥ | dhṛṣṭadyumno virāṭaśca sātyakiścāparājitaḥ ||17||",
+        "translation": {
+          "hi": "काशीराज (अत्यंत धनुर्धर), महारथी शिखण्डी, धृष्टद्युम्न, विराट और अपराजित सात्यकि – इन सबने भी शंख बजाए।",
+          "en": "The king of Kashi, an excellent archer; the great warrior Shikhandi; Dhrishtadyumna; Virata; and the invincible Satyaki – all blew their conches."
+        },
+        "explanation": {
+          "hi": "यहाँ पाण्डव पक्ष के अन्य प्रमुख योद्धाओं के शंखनाद का उल्लेख है। Here the other prominent warriors on the Pandava side blow their conches.",
+          "en": ""
+        },
+        "wordMeanings": {
+          "hi": "काश्यः: काशीराज; च: और; परमेष्वासः: अत्यंत धनुर्धर; शिखण्डी: शिखण्डी; च: और; महारथः: महारथी; धृष्टद्युम्नः: धृष्टद्युम्न; विराटः: राजा विराट; च: और; सात्यकिः: सात्यकि; च: और; अपराजितः: कभी न हारने वाला।",
+          "en": ""
+        }
+      },
+      {
+        "verseNumber": 18,
+        "sanskrit": "द्रुपदो द्रौपदेयाश्च सर्वशः पृथिवीपते | सौभद्रश्च महाबाहुः शङ्खान्दध्मुः पृथक्पृथक् ||१८||",
+        "transliteration": "drupado draupadeyāśca sarvaśaḥ pṛthivīpate | saubhadraśca mahābāhuḥ śaṅkhāndadhmaḥ pṛthak pṛthak ||18||",
+        "translation": {
+          "hi": "द्रुपद, द्रौपदी के पुत्र, और महाबाहु अभिमन्यु – इन सबने अलग-अलग अपने-अपने शंख बजाए।",
+          "en": "Drupada, the sons of Draupadi, and the mighty-armed son of Subhadra (Abhimanyu), O king, all blew their conches separately."
+        },
+        "explanation": {
+          "hi": "अब द्रुपद, द्रौपदी के पाँचों पुत्र और अभिमन्यु का शंखनाद हुआ। Now Drupada, the five sons of Draupadi, and Abhimanyu blow their conches.",
+          "en": ""
+        },
+        "wordMeanings": {
+          "hi": "द्रुपद: राजा द्रुपद; द्रौपदेयाः: द्रौपदी के पुत्र; च: और; सर्वशः: सभी ने; पृथिवीपते: हे पृथ्वीपति (धृतराष्ट्र); सौभद्र: अभिमन्यु; च: और; महाबाहुः: महाबाहु; शङ्खान्: शंख; दध्मुः: बजाए; पृथक् पृथक्: अलग-अलग।",
+          "en": ""
+        }
+      },
+      {
+        "verseNumber": 19,
+        "sanskrit": "स घोषो धार्तराष्ट्राणां हृदयानि व्यदारयत् | नभश्च पृथिवीं चैव तुमुलो व्यानुनादयन् ||१९||",
+        "transliteration": "sa ghoṣo dhārtarāṣṭrāṇāṃ hṛdayāni vyadārayat | nabhaśca pṛthivīṃ caiva tumulo vyanunādayan ||19||",
+        "translation": {
+          "hi": "उस भयंकर शब्द ने आकाश और पृथ्वी को गूंजाते हुए धृतराष्ट्र के पुत्रों के हृदय विदीर्ण कर दिए।",
+          "en": "That tumultuous sound, reverberating through the earth and sky, rent the hearts of Dhritarashtra's sons."
+        },
+        "explanation": {
+          "hi": "पाण्डव पक्ष के सामूहिक शंखनाद का प्रभाव कौरवों पर हुआ – उनके हृदय दहल गए। The collective sound of the Pandava conches had a demoralizing effect on the Kauravas.",
+          "en": ""
+        },
+        "wordMeanings": {
+          "hi": "स: वह; घोष: शब्द; धार्तराष्ट्राणाम्: धृतराष्ट्र के पुत्रों के; हृदयानि: हृदय; व्यदारयत्: विदीर्ण कर दिए; नभ: आकाश; च: और; पृथिवीम्: पृथ्वी; च: और; एव: ही; तुमुल: भयंकर; व्यनुनादयन्: गूंजाते हुए।",
+          "en": ""
+        }
+      },
+      {
+        "verseNumber": 20,
+        "sanskrit": "अथ व्यवस्थितान्दृष्ट्वा धार्तराष्ट्रान्कपिध्वजः | प्रवृत्ते शस्त्रसम्पाते धनुरुद्यम्य पाण्डवः ||२०||",
+        "transliteration": "atha vyavasthitāndṛṣṭvā dhārtarāṣṭrān kapidhvajaḥ | pravṛtte śastrasampāte dhanurudyamya pāṇḍavaḥ ||20||",
+        "translation": {
+          "hi": "तब शस्त्र-संपात (बाणों की वर्षा) प्रारंभ होने पर, धृतराष्ट्र के पुत्रों को युद्ध के लिए तैयार देखकर, कपिध्वज अर्जुन ने धनुष उठाया।",
+          "en": "Then, seeing the sons of Dhritarashtra drawn up for battle, as the exchange of weapons was about to begin, Arjuna, the son of Pandu, whose banner bore the emblem of Hanuman, took up his bow."
+        },
+        "explanation": {
+          "hi": "युद्ध आरंभ होने के क्षण में अर्जुन ने अपना गांडीव धनुष उठाया, जो आगे के संवाद की भूमिका तैयार करता है। At the moment of commencement, Arjuna takes up his bow, setting the stage for the dialogue.",
+          "en": ""
+        },
+        "wordMeanings": {
+          "hi": "अथ: उसके बाद; व्यवस्थितान्: युद्ध के लिए तैयार खड़े; दृष्ट्वा: देखकर; धार्तराष्ट्रान्: धृतराष्ट्र के पुत्रों को; कपिध्वजः: कपिध्वज (अर्जुन, जिनके ध्वज पर हनुमान थे); प्रवृत्ते: होने पर; शस्त्रसम्पाते: शस्त्रों के प्रहार का आरंभ; धनु: धनुष; उद्यम्य: उठाकर; पाण्डवः: पाण्डु पुत्र।",
+          "en": ""
+        }
+      },
+      {
+        "verseNumber": 21,
+        "sanskrit": "हृषीकेशं तदा वाक्यमिदमाह महीपते | सेनयोरुभयोर्मध्ये रथं स्थापय मेऽच्युत ||२१||",
+        "transliteration": "hṛṣīkeśaṃ tadā vākyamidamāha mahīpate | senayorubhayormadhye rathaṃ sthāpaya me'cyuta ||21||",
+        "translation": {
+          "hi": "तब अर्जुन ने हृषीकेश (श्रीकृष्ण) से यह वचन कहा: हे अच्युत! मेरे रथ को दोनों सेनाओं के बीच में खड़ा कर दीजिए।",
+          "en": "Arjuna said: O Achyuta (Krishna), place my chariot between the two armies, O lord of the earth (Dhritarashtra is being addressed by Sanjaya)."
+        },
+        "explanation": {
+          "hi": "अर्जुन कृष्ण से रथ दोनों सेनाओं के बीच ले जाने को कहते हैं, ताकि वह युद्ध से पहले अपने विरोधियों को देख सकें। Arjuna asks Krishna to place the chariot between the armies so he can observe the combatants.",
+          "en": ""
+        },
+        "wordMeanings": {
+          "hi": "हृषीकेशम्: हृषीकेश (श्रीकृष्ण) से; तदा: तब; वाक्यम्: वचन; इदम्: यह; आह: बोला; महीपते: हे राजन् (धृतराष्ट्र); सेनयोः: दोनों सेनाओं के; उभयोः: दोनों; मध्ये: बीच में; रथम्: रथ; स्थापय: खड़ा कर; मे: मेरा; अच्युत: हे अच्युत।",
+          "en": ""
+        }
+      },
+      {
+        "verseNumber": 22,
+        "sanskrit": "यावदेतान्निरीक्षेऽहं योद्धुकामानवस्थितान् | कैर्मया सह योद्धव्यमस्मिन्रणसमुद्यमे ||२२||",
+        "transliteration": "yāvadetānnirīkṣe'haṃ yoddhukāmānavasthitān | kairmayā saha yoddhavyamasmin raṇasamudyame ||22||",
+        "translation": {
+          "hi": "मैं उन योद्धाओं को देखना चाहता हूँ जो युद्ध की इच्छा से यहाँ खड़े हैं और जिनके साथ मुझे इस युद्ध में लड़ना है।",
+          "en": "Let me see those who have come here to fight, wishing to please the evil-minded Duryodhana by fighting this battle."
+        },
+        "explanation": {
+          "hi": "अर्जुन उन सभी योद्धाओं को देखना चाहते हैं जो उनके विरुद्ध लड़ने के लिए एकत्र हुए हैं। Arjuna wants to identify all those who have assembled to fight against him.",
+          "en": ""
+        },
+        "wordMeanings": {
+          "hi": "यावत्: जब तक; एतान्: इनको; निरीक्षे: देखूं; अहम्: मैं; योद्धुकामान्: युद्ध की इच्छा वाले; अवस्थितान्: खड़े हुए; कैः: किनके साथ; मया: मुझे; सह: साथ; योद्धव्यम्: युद्ध करना है; अस्मिन्: इस; रणसमुद्यमे: युद्ध के अवसर में।",
+          "en": ""
+        }
+      },
+      {
+        "verseNumber": 23,
+        "sanskrit": "योत्स्यमानानवेक्षेऽहं य एतेऽत्र समागताः | धार्तराष्ट्रस्य दुर्बुद्धेर्युद्धे प्रियचिकीर्षवः ||२३||",
+        "transliteration": "yotsyamānānavekṣe'haṃ ya ete'tra samāgatāḥ | dhārtarāṣṭrasya durbuddheryuddhe priyacikīrṣavaḥ ||23||",
+        "translation": {
+          "hi": "मैं उन योद्धाओं को देखना चाहता हूँ जो दुष्टबुद्धि दुर्योधन का पक्ष लेकर युद्ध में उसे प्रसन्न करने के लिए यहाँ एकत्र हुए हैं।",
+          "en": "I desire to see those who have assembled here to fight, wishing to please the evil-minded son of Dhritarashtra (Duryodhana)."
+        },
+        "explanation": {
+          "hi": "अर्जुन यहाँ दुर्योधन को \"दुर्बुद्धि\" कहते हैं, जो दर्शाता है कि वे युद्ध के कारण को जानते थे – दुर्योधन का अधर्म। Arjuna calls Duryodhana \"evil-minded,\" indicating his awareness of the adharma behind the war.",
+          "en": ""
+        },
+        "wordMeanings": {
+          "hi": "योत्स्यमानान्: युद्ध करने वालों को; अवेक्षे: देखूँ; अहम्: मैं; ये: जो; एते: ये; अत्र: यहाँ; समागताः: एकत्र हुए हैं; धार्तराष्ट्रस्य: धृतराष्ट्र के पुत्र (दुर्योधन) के; दुर्बुद्धेः: दुष्ट बुद्धि वाले; युद्धे: युद्ध में; प्रियचिकीर्षवः: प्रिय करने की इच्छा वाले।",
+          "en": ""
+        }
+      },
+      {
+        "verseNumber": 24,
+        "sanskrit": "एवमुक्तो हृषीकेशो गुडाकेशेन भारत | सेनयोरुभयोर्मध्ये स्थापयित्वा रथोत्तमम् ||२४||",
+        "transliteration": "evamukto hṛṣīkeśo guḍākeśena bhārata | senayorubhayormadhye sthāpayitvā rathottamam ||24||",
+        "translation": {
+          "hi": "हे भारत (धृतराष्ट्र)! गुडाकेश (अर्जुन) द्वारा इस प्रकार कहे जाने पर हृषीकेश (श्रीकृष्ण) ने उत्तम रथ को दोनों सेनाओं के बीच में खड़ा कर दिया।",
+          "en": "O descendant of Bharata (Dhritarashtra), being thus addressed by Gudakesha (Arjuna), Hrishikesha (Krishna) placed that excellent chariot between the two armies."
+        },
+        "explanation": {
+          "hi": "अर्जुन के अनुरोध पर कृष्ण ने रथ को दोनों सेनाओं के बीच में ले जाकर खड़ा कर दिया। At Arjuna's request, Krishna placed the chariot between the two armies.",
+          "en": ""
+        },
+        "wordMeanings": {
+          "hi": "एवम्: इस प्रकार; उक्तः: कहे जाने पर; हृषीकेशः: हृषीकेश (श्रीकृष्ण); गुडाकेशेन: गुडाकेश (अर्जुन) द्वारा; भारत: हे भरतवंशी (धृतराष्ट्र); सेनयोः: दोनों सेनाओं के; उभयोः: दोनों; मध्ये: बीच में; स्थापयित्वा: खड़ा करके; रथोत्तमम्: उत्तम रथ को।",
+          "en": ""
+        }
+      },
+      {
+        "verseNumber": 25,
+        "sanskrit": "भीष्मद्रोणप्रमुखतः सर्वेषां च महीक्षिताम् | उवाच पार्थ पश्यैतान्समवेतान्कुरूनिति ||२५||",
+        "transliteration": "bhīṣmadroṇapramukhataḥ sarveṣāṃ ca mahīkṣitām | uvāca pārtha paśyaitānsamavetānkurūniti ||25||",
+        "translation": {
+          "hi": "भीष्म, द्रोण और सभी राजाओं के सामने कृष्ण ने कहा: हे पार्थ! इन एकत्रित कुरुवंशियों को देखो।",
+          "en": "In the presence of Bhishma, Drona, and all the other kings, Krishna said: O Partha (Arjuna), behold all the Kurus gathered here!"
+        },
+        "explanation": {
+          "hi": "कृष्ण ने अर्जुन को सभी कुरुवंशी योद्धाओं को दिखाया, जिनमें भीष्म, द्रोण आदि थे। Krishna showed Arjuna all the Kuru warriors assembled, including Bhishma, Drona, and others.",
+          "en": ""
+        },
+        "wordMeanings": {
+          "hi": "भीष्म: भीष्म; द्रोण: द्रोणाचार्य; प्रमुखतः: आगे; सर्वेषाम्: सभी; च: और; महीक्षिताम्: राजाओं के; उवाच: बोले; पार्थ: हे पार्थ (अर्जुन); पश्य: देखो; एतान्: इन; समवेतान्: एकत्रित; कुरून्: कुरुवंशियों को; इति: इस प्रकार।",
+          "en": ""
+        }
+      },
+      {
+        "verseNumber": 26,
+        "sanskrit": "तत्रापश्यत्स्थितान्पार्थः पितॄनथ पितामहान् | आचार्यान्मातुलान्भ्रातॄन्पुत्रान्पौत्रान्सखींस्तथा ||२६||",
+        "transliteration": "tatrāpaśyatsthitānpārthaḥ pitṝnatha pitāmahān | ācāryānmātulānbhrātṝnputrānpautrānsakhīṃstathā ||26||",
+        "translation": {
+          "hi": "वहाँ अर्जुन ने देखा कि दोनों सेनाओं में उनके पिता, पितामह, आचार्य, मामा, भाई, पुत्र, पौत्र, मित्र आदि सभी खड़े थे।",
+          "en": "There Arjuna saw standing on both sides his fathers, grandfathers, teachers, maternal uncles, brothers, sons, grandsons, and friends."
+        },
+        "explanation": {
+          "hi": "अर्जुन ने अपने सगे-संबंधियों और प्रियजनों को दोनों ओर देखा। इससे उनके मन में मोह और करुणा उत्पन्न हुई। Arjuna saw his own relatives and loved ones on both sides, which gave rise to attachment and pity in his heart.",
+          "en": ""
+        },
+        "wordMeanings": {
+          "hi": "तत्र: वहाँ; अपश्यत्: देखा; स्थितान्: खड़े हुए; पार्थः: पार्थ (अर्जुन); पितॄन्: पिताओं को; अथ: तथा; पितामहान्: दादाओं को; आचार्यान्: आचार्यों को; मातुलान्: मामाओं को; भ्रातॄन्: भाइयों को; पुत्रान्: पुत्रों को; पौत्रान्: पौत्रों को; सखीन्: मित्रों को; तथा: और।",
+          "en": ""
+        }
+      },
+      {
+        "verseNumber": 27,
+        "sanskrit": "श्वशुरान्सुहृदश्चैव सेनयोरुभयोरपि | तान्समीक्ष्य स कौन्तेयः सर्वान्बन्धूनवस्थितान् ||२७||",
+        "transliteration": "śvaśurānsuhṛdaścaiva senayorubhayorapi | tānsamīkṣya sa kaunteyaḥ sarvānbandhūnavasthitān ||27||",
+        "translation": {
+          "hi": "दोनों सेनाओं में ससुर और हितैषी भी थे। उन सब बांधवों को वहाँ खड़ा देखकर अर्जुन के हृदय में करुणा उत्पन्न हुई।",
+          "en": "He also saw fathers-in-law and well-wishers in both armies. Seeing all these kinsmen standing there, Arjuna was overcome with pity."
+        },
+        "explanation": {
+          "hi": "अर्जुन ने अपने ससुराल पक्ष के लोगों (जैसे काशीराज) और अन्य हितैषियों को भी देखा। Arjuna also saw his fathers-in-law and well-wishers on both sides.",
+          "en": ""
+        },
+        "wordMeanings": {
+          "hi": "श्वशुरान्: ससुरों को; सुहृदः: हितैषियों को; च: और; एव: ही; सेनयोः: दोनों सेनाओं में; उभयोः: दोनों; अपि: भी; तान्: उनको; समीक्‍ष्य: देखकर; स: वह; कौन्तेयः: कुन्तीपुत्र (अर्जुन); सर्वान्: सभी; बन्धून्: बांधवों को; अवस्थितान्: खड़े हुए।",
+          "en": ""
+        }
+      },
+      {
+        "verseNumber": 28,
+        "sanskrit": "कृपया परयाविष्टो विषीदन्निदमब्रवीत् | दृष्ट्वेमं स्वजनं कृष्ण युयुत्सुं समुपस्थितम् ||२८||",
+        "transliteration": "kṛpayā parayāviṣṭo viṣīdannidamabravīt | dṛṣṭvemaṃ svajanaṃ kṛṣṇa yuyutsuṃ samupasthitam ||28||",
+        "translation": {
+          "hi": "अत्यधिक करुणा से आविष्ट और विषाद करते हुए अर्जुन ने यह कहा: हे कृष्ण! युद्ध की इच्छा से उपस्थित अपने इन स्वजनों को देखकर ...",
+          "en": "Overwhelmed with compassion, Arjuna, in great sorrow, spoke thus: O Krishna, seeing my own kinsmen standing here eager for battle, ..."
+        },
+        "explanation": {
+          "hi": "अर्जुन अब अपने मनोभाव प्रकट करते हैं – वे अत्यधिक करुणा से भर गए हैं और विषाद में बोलते हैं। Arjuna now expresses his feelings – he is overwhelmed with compassion and speaks in sorrow.",
+          "en": ""
+        },
+        "wordMeanings": {
+          "hi": "कृपया: करुणा से; परया: अत्यधिक; आविष्टः: आविष्ट; विषीदन्: विषाद करते हुए; इदम्: यह; अब्रवीत्: बोला; दृष्ट्वा: देखकर; इमम्: इस; स्वजनम्: अपने लोगों को; कृष्ण: हे कृष्ण; युयुत्सुम्: युद्ध की इच्छा से; समुपस्थितम्: उपस्थित।",
+          "en": ""
+        }
+      },
+      {
+        "verseNumber": 29,
+        "sanskrit": "सीदन्ति मम गात्राणि मुखं च परिशुष्यति | वेपथुश्च शरीरे मे रोमहर्षश्च जायते ||२९||",
+        "transliteration": "sīdanti mama gātrāṇi mukhaṃ ca pariśuṣyati | vepathuśca śarīre me romaharṣaśca jāyate ||29||",
+        "translation": {
+          "hi": "मेरे अंग शिथिल हो रहे हैं, मुख सूख रहा है, शरीर में कम्पन हो रहा है और रोमांच खड़ा हो रहा है।",
+          "en": "My limbs are giving way, my mouth is drying up, my body trembles, and my hair is standing on end."
+        },
+        "explanation": {
+          "hi": "अर्जुन अपने शारीरिक लक्षण बता रहे हैं जो भय और विषाद के कारण उत्पन्न हो रहे हैं। Arjuna describes the physical symptoms of his fear and sorrow.",
+          "en": ""
+        },
+        "wordMeanings": {
+          "hi": "सीदन्ति: शिथिल हो रहे हैं; मम: मेरे; गात्राणि: अंग; मुखम्: मुख; च: और; परिशुष्यति: सूख रहा है; वेपथु: कम्पन; च: और; शरीरे: शरीर में; मे: मेरे; रोमहर्ष: रोमांच; च: और; जायते: हो रहा है।",
+          "en": ""
+        }
+      },
+      {
+        "verseNumber": 30,
+        "sanskrit": "गाण्डीवं स्रंसते हस्तात्त्वक्चैव परिदह्यते | न च शक्नोम्यवस्थातुं भ्रमतीव च मे मनः ||३०||",
+        "transliteration": "gāṇḍīvaṃ sraṃsate hastāttvakcaiva paridahyate | na ca śaknomyavasthātuṃ bhramatīva ca me manaḥ ||30||",
+        "translation": {
+          "hi": "मेरे हाथ से गांडीव धनुष गिर रहा है, त्वचा जल रही है, मैं स्थिर खड़ा नहीं रह सकता और मेरा मन घूम रहा है (भ्रमित हो रहा है)।",
+          "en": "The bow Gandiva is slipping from my hand, my skin is burning all over, I am unable to stand steady, and my mind is reeling."
+        },
+        "explanation": {
+          "hi": "अर्जुन का दुःख और भय इतना बढ़ गया कि उनका धनुष हाथ से छूट रहा है, त्वचा में जलन हो रही है, और मन भ्रमित है। Arjuna's distress is so intense that he cannot hold his bow, his skin burns, his mind reels.",
+          "en": ""
+        },
+        "wordMeanings": {
+          "hi": "गाण्डीवम्: गांडीव धनुष; स्रंसते: गिर रहा है; हस्तात्: हाथ से; त्वक्: त्वचा; च: और; एव: ही; परिदह्यते: जल रही है; न: नहीं; च: और; शक्नोमि: समर्थ हूँ; अवस्थातुम्: खड़े रहने में; भ्रमति: भ्रमित हो रहा है; इव: मानो; च: और; मे: मेरा; मनः: मन।",
+          "en": ""
+        }
+      },
+      {
+        "verseNumber": 31,
+        "sanskrit": "निमित्तानि च पश्यामि विपरीतानि केशव | न च श्रेयोऽनुपश्यामि हत्वा स्वजनमाहवे ||३१||",
+        "transliteration": "nimittāni ca paśyāmi viparītāni keśava | na ca śreyo'nupaśyāmi hatvā svajanamāh ave ||31||",
+        "translation": {
+          "hi": "हे केशव! मैं विपरीत (अशुभ) लक्षण देख रहा हूँ और युद्ध में अपने स्वजनों को मारकर मुझे कल्याण नहीं दिखता।",
+          "en": "I see inauspicious omens, O Keshava. I do not foresee any good in killing my own kinsmen in this battle."
+        },
+        "explanation": {
+          "hi": "अर्जुन अशुभ शकुन देखते हैं और सोचते हैं कि अपनों को मारने से कोई कल्याण नहीं होगा। Arjuna sees bad omens and thinks that no good can come from killing one's own people.",
+          "en": ""
+        },
+        "wordMeanings": {
+          "hi": "निमित्तानि: लक्षण; च: और; पश्यामि: देखता हूँ; विपरीतानि: विपरीत; केशव: हे केशव (कृष्ण); न: नहीं; च: और; श्रेयः: कल्याण; अनुपश्यामि: देखता हूँ; हत्वा: मारकर; स्वजनम्: स्वजनों को; आहवे: युद्ध में।",
+          "en": ""
+        }
+      },
+      {
+        "verseNumber": 32,
+        "sanskrit": "न काङ्क्षे विजयं कृष्ण न च राज्यं सुखानि च | किं नो राज्येन गोविन्द किं भोगैर्जीवितेन वा ||३२||",
+        "transliteration": "na kāṅkṣe vijayaṃ kṛṣṇa na ca rājyaṃ sukhāni ca | kiṃ no rājyena govinda kiṃ bhogairjīvitena vā ||32||",
+        "translation": {
+          "hi": "हे कृष्ण! मैं विजय नहीं चाहता, न राज्य और न सुख। हे गोविन्द! हमें राज्य से क्या प्रयोजन? भोगों से या जीवन से भी क्या?",
+          "en": "I do not desire victory, O Krishna, nor kingdom nor pleasures. What use is kingdom to us, O Govinda? What use are enjoyments or even life itself?"
+        },
+        "explanation": {
+          "hi": "अर्जुन अब घोषित करते हैं कि उन्हें विजय, राज्य, सुख – कुछ भी नहीं चाहिए यदि उसके लिए अपनों को मारना पड़े। Arjuna declares that he desires nothing if it means killing his own people.",
+          "en": ""
+        },
+        "wordMeanings": {
+          "hi": "न: नहीं; काङ्क्षे: चाहता हूँ; विजयम्: विजय; कृष्ण: हे कृष्ण; न: नहीं; च: और; राज्यम्: राज्य; सुखानि: सुख; च: और; किम्: क्या; न: हमें; राज्येन: राज्य से; गोविन्द: हे गोविन्द; किम्: क्या; भोगैः: भोगों से; जीवितेन: जीवन से; वा: अथवा।",
+          "en": ""
+        }
+      },
+      {
+        "verseNumber": 33,
+        "sanskrit": "येषामर्थे काङ्क्षितं नो राज्यं भोगाः सुखानि च | त इमेऽवस्थिता युद्धे प्राणांस्त्यक्त्वा धनानि च ||३३||",
+        "transliteration": "yeṣāmarthe kāṅkṣitaṃ no rājyaṃ bhogāḥ sukhāni ca | ta ime'vasthitā yuddhe prāṇāṃstyaktvā dhanāni ca ||33||",
+        "translation": {
+          "hi": "जिनके लिए हम राज्य, भोग और सुख चाहते थे, वे ही लोग यहाँ प्राण और धन त्यागकर युद्ध में खड़े हैं।",
+          "en": "Those for whose sake we desire kingdom, enjoyments, and pleasures are now standing here ready to fight, having given up their lives and wealth."
+        },
+        "explanation": {
+          "hi": "अर्जुन कहते हैं कि जिन लोगों के लिए वे राज्य चाहते थे (उनके भाई, पुत्र आदि), वे ही अब युद्ध में उनके सामने हैं। Arjuna points out that those for whom he desired the kingdom are now arrayed against him.",
+          "en": ""
+        },
+        "wordMeanings": {
+          "hi": "येषाम्: जिनके लिए; अर्थे: लिए; काङ्क्षितम्: इच्छित; नः: हमारे द्वारा; राज्यम्: राज्य; भोगाः: भोग; सुखानि: सुख; च: और; ते: वे; इमे: ये; अवस्थिताः: खड़े हैं; युद्धे: युद्ध में; प्राणान्: प्राण; त्यक्त्वा: त्यागकर; धनानि: धन; च: और।",
+          "en": ""
+        }
+      },
+      {
+        "verseNumber": 34,
+        "sanskrit": "आचार्याः पितरः पुत्रास्तथैव च पितामहाः | मातुलाः श्वशुराः पौत्राः श्यालाः सम्बन्धिनस्तथा ||३४||",
+        "transliteration": "ācāryāḥ pitaraḥ putrāstathaiva ca pitāmahāḥ | mātulāḥ śvaśurāḥ pautrāḥ śyālāḥ sambandhinastathā ||34||",
+        "translation": {
+          "hi": "आचार्य, पिता, पुत्र, पितामह, मामा, ससुर, पौत्र, साले तथा अन्य संबंधी – ये सभी यहाँ हैं।",
+          "en": "Teachers, fathers, sons, grandfathers, maternal uncles, fathers-in-law, grandsons, brothers-in-law, and other relatives – all are here."
+        },
+        "explanation": {
+          "hi": "अर्जुन अपने सभी संबंधियों को गिना रहे हैं, जो युद्ध में मौजूद हैं। Arjuna enumerates all the relatives present on the battlefield.",
+          "en": ""
+        },
+        "wordMeanings": {
+          "hi": "आचार्याः: आचार्य; पितरः: पिता; पुत्राः: पुत्र; तथा: तथा; एव: ही; च: और; पितामहाः: पितामह; मातुलाः: मामा; श्वशुराः: ससुर; पौत्राः: पौत्र; श्यालाः: साले; सम्बन्धिनः: संबंधी; तथा: और।",
+          "en": ""
+        }
+      },
+      {
+        "verseNumber": 35,
+        "sanskrit": "एतान्न हन्तुमिच्छामि घ्नतोऽपि मधुसूदन | अपि त्रैलोक्यराज्यस्य हेतोः किं नु महीकृते ||३५||",
+        "transliteration": "etānna hantumicchāmi ghnato'pi madhusūdana | api trailokyarājyasya hetoḥ kiṃ nu mahīkṛte ||35||",
+        "translation": {
+          "hi": "हे मधुसूदन! मैं इन्हें मारना नहीं चाहता, चाहे ये मुझे ही क्यों न मारें, तीनों लोकों के राज्य के लिए भी नहीं, तो फिर पृथ्वी के लिए तो क्या कहना?",
+          "en": "O Madhusudana, I do not wish to kill them, even if they kill me, even for the sake of the kingdom of the three worlds, let alone for this earth."
+        },
+        "explanation": {
+          "hi": "अर्जुन स्पष्ट कहते हैं कि वे युद्ध नहीं करना चाहते, चाहे उनकी जान चली जाए या तीनों लोकों का राज्य मिले। Arjuna declares he will not fight, even if it means his own death or the offer of universal sovereignty.",
+          "en": ""
+        },
+        "wordMeanings": {
+          "hi": "एतान्: इनको; न: नहीं; हन्तुम्: मारने की; इच्छामि: इच्छा करता हूँ; घ्नतः: मारे जाने पर भी; अपि: भी; मधुसूदन: हे मधुसूदन (कृष्ण); अपि: भले ही; त्रैलोक्यराज्यस्य: तीनों लोकों के राज्य के; हेतोः: लिए; किम् नु: क्या कहना; महीकृते: पृथ्वी के लिए।",
+          "en": ""
+        }
+      },
+      {
+        "verseNumber": 36,
+        "sanskrit": "निहत्य धार्तराष्ट्रान्नः का प्रीतिः स्याज्जनार्दन | पापमेवाश्रयेदस्मान्हत्वैतानाततायिनः ||३६||",
+        "transliteration": "nihatya dhārtarāṣṭrānnaḥ kā prītiḥ syājjanārdana | pāpamevāśrayedasmānhatvaitānātatāyinaḥ ||36||",
+        "translation": {
+          "hi": "हे जनार्दन! धृतराष्ट्र के पुत्रों को मारकर हमें क्या प्रसन्नता होगी? इन आततायियों को मारने पर भी हमें पाप ही लगेगा।",
+          "en": "O Janardana, what pleasure will we derive from killing the sons of Dhritarashtra? Sin will only overtake us if we slay these aggressors."
+        },
+        "explanation": {
+          "hi": "अर्जुन का तर्क है कि यदि वे आततायी (अत्याचारी) दुर्योधन आदि को भी मारेंगे, तो उन्हें पाप ही लगेगा क्योंकि वे भी अपने हैं। Arjuna argues that even killing aggressors who are relatives brings sin.",
+          "en": ""
+        },
+        "wordMeanings": {
+          "hi": "निहत्य: मारकर; धार्तराष्ट्रान्: धृतराष्ट्र के पुत्रों को; नः: हमें; का: क्या; प्रीतिः: प्रसन्नता; स्यात्: होगी; जनार्दन: हे जनार्दन (कृष्ण); पापम्: पाप; एव: ही; आश्रयेत्: प्राप्त होगा; अस्मान्: हमें; हत्वा: मारकर; एतान्: इन; आततायिनः: आततायियों को।",
+          "en": ""
+        }
+      },
+      {
+        "verseNumber": 37,
+        "sanskrit": "तस्मान्नार्हा वयं हन्तुं धार्तराष्ट्रान्स्वबान्धवान् | स्वजनं हि कथं हत्वा सुखिनः स्याम माधव ||३७||",
+        "transliteration": "tasmānnārhā vayaṃ hantuṃ dhārtarāṣṭrānsvabāndhavān | svajanaṃ hi kathaṃ hatvā sukhinaḥ syāma mādhava ||37||",
+        "translation": {
+          "hi": "अतएव हे माधव! हम अपने बांधव धृतराष्ट्र के पुत्रों को मारने के योग्य नहीं हैं। अपने स्वजनों को मारकर हम सुखी कैसे हो सकते हैं?",
+          "en": "Therefore, O Madhava, we have no right to kill the sons of Dhritarashtra, our own relatives. How can we be happy after killing our own kinsmen?"
+        },
+        "explanation": {
+          "hi": "अर्जुन पुनः तर्क देते हैं कि अपने ही लोगों को मारकर सुखी होना संभव नहीं। Arjuna reiterates that happiness cannot come from killing one's own kin.",
+          "en": ""
+        },
+        "wordMeanings": {
+          "hi": "तस्मात्: इसलिए; न: नहीं; अर्हाः: योग्य; वयम्: हम; हन्तुम्: मारने के; धार्तराष्ट्रान्: धृतराष्ट्र के पुत्रों को; स्वबान्धवान्: अपने बांधव; स्वजनम्: स्वजनों को; हि: निश्चय ही; कथम्: कैसे; हत्वा: मारकर; सुखिनः: सुखी; स्याम: होंगे; माधव: हे माधव (कृष्ण)।",
+          "en": ""
+        }
+      },
+      {
+        "verseNumber": 38,
+        "sanskrit": "यद्यप्येते न पश्यन्ति लोभोपहतचेतसः | कुलक्षयकृतं दोषं मित्रद्रोहे च पातकम् ||३८||",
+        "transliteration": "yadyapyete na paśyanti lobhopahatacetasaḥ | kulakṣayakṛtaṃ doṣaṃ mitradrohe ca pātakam ||38||",
+        "translation": {
+          "hi": "यद्यपि लोभ से ग्रस्त चित्त वाले ये (धृतराष्ट्र के पुत्र) कुल के विनाश से होने वाले दोष को और मित्रों से द्रोह रूपी पातक को नहीं देखते, ...",
+          "en": "Although they, whose minds are overpowered by greed, see no evil in destroying the family or in hostility toward friends, ..."
+        },
+        "explanation": {
+          "hi": "अर्जुन कहते हैं कि दुर्योधन आदि लोभवश कुलक्षय के दोष को नहीं समझते, पर हम तो समझते हैं। Arjuna says that although Duryodhana et al. do not see the evil of destroying the family, we do.",
+          "en": ""
+        },
+        "wordMeanings": {
+          "hi": "यद्यपि: यद्यपि; एते: ये; न: नहीं; पश्यन्ति: देखते हैं; लोभ: लोभ से; उपहत: ग्रस्त; चेतसः: चित्त वाले; कुलक्षयकृतम्: कुल के विनाश से होने वाले; दोषम्: दोष को; मित्रद्रोहे: मित्रों से द्रोह में; च: और; पातकम्: पातक को।",
+          "en": ""
+        }
+      },
+      {
+        "verseNumber": 39,
+        "sanskrit": "कथं न ज्ञेयमस्माभिः पापादस्मान्निवर्तितुम् | कुलक्षयकृतं दोषं प्रपश्यद्भिर्जनार्दन ||३९||",
+        "transliteration": "kathaṃ na jñeyamasmābhiḥ pāpādasmānnivartitum | kulakṣayakṛtaṃ doṣaṃ prapaśyadbhirjanārdana ||39||",
+        "translation": {
+          "hi": "हे जनार्दन! जो लोग कुलक्षय से उत्पन्न दोष को देख रहे हैं, उन्हें इस पाप से हटने के लिए क्यों नहीं जानना चाहिए?",
+          "en": "O Janardana, why should we not learn to turn away from this sin, we who can clearly see the evil of destroying the family?"
+        },
+        "explanation": {
+          "hi": "अर्जुन कहते हैं कि जो लोग कुलक्षय के दोष को समझते हैं, उन्हें पाप से बचना चाहिए। Arjuna says that those who understand the evil of destroying the family should avoid sin.",
+          "en": ""
+        },
+        "wordMeanings": {
+          "hi": "कथम्: कैसे; न: नहीं; ज्ञेयम्: जानना चाहिए; अस्माभिः: हमें; पापात्: पाप से; अस्मात्: इससे; निवर्तितुम्: हटने के लिए; कुलक्षयकृतम्: कुल के विनाश से उत्पन्न; दोषम्: दोष को; प्रपश्यद्भिः: देखते हुए; जनार्दन: हे जनार्दन।",
+          "en": ""
+        }
+      },
+      {
+        "verseNumber": 40,
+        "sanskrit": "कुलक्षये प्रणश्यन्ति कुलधर्माः सनातनाः | धर्मे नष्टे कुलं कृत्स्नमधर्मोऽभिभवत्युत ||४०||",
+        "transliteration": "kulakṣaye praṇaśyanti kuladharmāḥ sanātanāḥ | dharme naṣṭe kulaṃ kṛtsnamadharmo'bhibhavatyuta ||40||",
+        "translation": {
+          "hi": "कुल के नाश होने पर सनातन कुलधर्म नष्ट हो जाते हैं। धर्म के नष्ट होने पर सम्पूर्ण कुल में अधर्म प्रबल हो जाता है।",
+          "en": "When the family is destroyed, the eternal family traditions are lost. With the destruction of dharma, adharma overtakes the entire family."
+        },
+        "explanation": {
+          "hi": "अर्जुन अब कुलक्षय के दुष्परिणाम बता रहे हैं – धर्म का नाश और अधर्म का उदय। Arjuna now explains the consequences of destroying the family – loss of dharma and rise of adharma.",
+          "en": ""
+        },
+        "wordMeanings": {
+          "hi": "कुलक्षये: कुल के नाश होने पर; प्रणश्यन्ति: नष्ट हो जाते हैं; कुलधर्माः: कुल के धर्म; सनातनाः: सनातन; धर्मे: धर्म के; नष्टे: नष्ट होने पर; कुलम्: कुल; कृत्स्नम्: सम्पूर्ण; अधर्मः: अधर्म; अभिभवति: प्रबल हो जाता है; उत: भी।",
+          "en": ""
+        }
+      },
+      {
+        "verseNumber": 41,
+        "sanskrit": "अधर्माभिभवात्कृष्ण प्रदुष्यन्ति कुलस्त्रियः | स्त्रीषु दुष्टासु वार्ष्णेय जायते वर्णसङ्करः ||४१||",
+        "transliteration": "adharmābhibhavātkṛṣṇa praduṣyanti kulastriyaḥ | strīṣu duṣṭāsu vārṣṇeya jāyate varṇasaṅkaraḥ ||41||",
+        "translation": {
+          "hi": "हे कृष्ण! अधर्म के प्रबल होने पर कुल की स्त्रियाँ भ्रष्ट हो जाती हैं। हे वार्ष्णेय! स्त्रियों के भ्रष्ट होने पर वर्णसंकर (अवांछित संतान) उत्पन्न होती है।",
+          "en": "When adharma predominates, O Krishna, the women of the family become corrupt. When women are corrupted, O Varshneya, unwanted progeny are born."
+        },
+        "explanation": {
+          "hi": "अर्जुन कुलक्षय के दूरगामी परिणाम बता रहे हैं – स्त्रियों का भ्रष्ट होना और वर्णसंकर का जन्म। Arjuna explains further consequences – corruption of women and birth of unwanted progeny.",
+          "en": ""
+        },
+        "wordMeanings": {
+          "hi": "अधर्म: अधर्म; अभिभवात्: के प्रबल होने से; कृष्ण: हे कृष्ण; प्रदुष्यन्ति: भ्रष्ट हो जाती हैं; कुलस्त्रियः: कुल की स्त्रियाँ; स्त्रीषु: स्त्रियों के; दुष्टासु: भ्रष्ट होने पर; वार्ष्णेय: हे वार्ष्णेय (कृष्ण); जायते: उत्पन्न होता है; वर्णसङ्कर: वर्णसंकर (अवांछित संतान)।",
+          "en": ""
+        }
+      },
+      {
+        "verseNumber": 42,
+        "sanskrit": "सङ्करो नरकायैव कुलघ्नानां कुलस्य च | पतन्ति पितरो ह्येषां लुप्तपिण्डोदकक्रियाः ||४२||",
+        "transliteration": "saṅkaro narakāyaiva kulaghnānāṃ kulasya ca | patanti pitaro hyeṣāṃ luptapiṇḍodakakriyāḥ ||42||",
+        "translation": {
+          "hi": "वर्णसंकर कुलघातियों और कुल को नरक में ले जाने वाला होता है। ऐसे कुलों के पितर पिण्डदान और जलांजलि से वंचित होकर अधोगति को प्राप्त होते हैं।",
+          "en": "The mixture of castes leads the destroyers of the family and the family itself to hell. The ancestors of such families fall, deprived of offerings of food and water."
+        },
+        "explanation": {
+          "hi": "अर्जुन बताते हैं कि वर्णसंकर से पूर्वजों का पिंडदान बंद हो जाता है, जिससे उन्हें नरक मिलता है। Arjuna says that mixed castes lead to ancestors falling to hell due to lack of offerings.",
+          "en": ""
+        },
+        "wordMeanings": {
+          "hi": "सङ्करः: वर्णसंकर; नरकाय: नरक के लिए; एव: ही; कुलघ्नानाम्: कुलघातियों के; कुलस्य: कुल का; च: और; पतन्ति: गिरते हैं; पितरः: पितर; हि: निश्चय ही; एषाम्: इनके; लुप्त: नष्ट हो जाने से; पिण्डोदकक्रियाः: पिण्डदान और जलांजलि की क्रियाएँ।",
+          "en": ""
+        }
+      },
+      {
+        "verseNumber": 43,
+        "sanskrit": "दोषैरेतैः कुलघ्नानां वर्णसङ्करकारकैः | उत्साद्यन्ते जातिधर्माः कुलधर्माश्च शाश्वताः ||४३||",
+        "transliteration": "doṣairetaiḥ kulaghnānāṃ varṇasaṅkarakārakaiḥ | utsādyante jātidharmāḥ kuladharmāśca śāśvatāḥ ||43||",
+        "translation": {
+          "hi": "कुलघातियों के इन दोषों (वर्णसंकर उत्पन्न करने वाले) से जाति के धर्म और सनातन कुलधर्म नष्ट हो जाते हैं।",
+          "en": "By these evil deeds of the destroyers of the family, which cause intermixture of castes, the eternal family traditions and the dharma of the race are destroyed."
+        },
+        "explanation": {
+          "hi": "अर्जुन कहते हैं कि कुलघातियों के कार्यों से न केवल कुलधर्म, बल्कि जातिधर्म भी नष्ट हो जाते हैं। Arjuna says that the actions of family-destroyers annihilate both family traditions and societal duties.",
+          "en": ""
+        },
+        "wordMeanings": {
+          "hi": "दोषैः: दोषों से; एतैः: इन; कुलघ्नानाम्: कुलघातियों के; वर्णसङ्करकारकैः: वर्णसंकर उत्पन्न करने वाले; उत्साद्यन्ते: नष्ट हो जाते हैं; जातिधर्माः: जाति के धर्म; कुलधर्माः: कुल के धर्म; च: और; शाश्वताः: सनातन।",
+          "en": ""
+        }
+      },
+      {
+        "verseNumber": 44,
+        "sanskrit": "उत्सन्नकुलधर्माणां मनुष्याणां जनार्दन | नरकेऽनियतं वासो भवतीत्यनुशुश्रुम ||४४||",
+        "transliteration": "utsannakuladharmāṇāṃ manuṣyāṇāṃ janārdana | narake'niyataṃ vāso bhavatītyanuśuśruma ||44||",
+        "translation": {
+          "hi": "हे जनार्दन! हमने सुना है कि जिनके कुलधर्म नष्ट हो जाते हैं, उन मनुष्यों का नरक में अनिश्चित काल तक वास होता है।",
+          "en": "O Janardana, we have heard that those whose family traditions are destroyed dwell in hell for an indefinite period."
+        },
+        "explanation": {
+          "hi": "अर्जुन शास्त्रों के प्रमाण देते हैं कि कुलधर्महीनों को नरक में रहना पड़ता है। Arjuna cites scriptural authority that those without family traditions go to hell.",
+          "en": ""
+        },
+        "wordMeanings": {
+          "hi": "उत्सन्न: नष्ट; कुलधर्माणाम्: जिनके कुलधर्म नष्ट हो गए हैं; मनुष्याणाम्: ऐसे मनुष्यों का; जनार्दन: हे जनार्दन; नरके: नरक में; अनियतम्: अनिश्चित काल तक; वासः: निवास; भवति: होता है; इति: इस प्रकार; अनुशुश्रुम: हमने सुना है।",
+          "en": ""
+        }
+      },
+      {
+        "verseNumber": 45,
+        "sanskrit": "अहो बत महत्पापं कर्तुं व्यवसिता वयम् | यद्राज्यसुखलोभेन हन्तुं स्वजनमुद्यताः ||४५||",
+        "transliteration": "aho bata mahatpāpaṃ kartuṃ vyavasitā vayam | yadrājyasukhalobhena hantuṃ svajanamudyatāḥ ||45||",
+        "translation": {
+          "hi": "हाय! कितने आश्चर्य की बात है कि हम राज्य के सुख के लोभ से अपने ही स्वजनों को मारने के लिए उद्यत होकर बड़ा पाप करने को तत्पर हैं।",
+          "en": "Alas! How strange it is that we are intent on committing a great sin, being eager to kill our own kinsmen out of greed for the pleasures of the kingdom!"
+        },
+        "explanation": {
+          "hi": "अर्जुन स्वयं को धिक्कारते हैं कि वे राज्य के लालच में अपनों को मारने का पाप करने जा रहे हैं। Arjuna laments that they are about to commit a great sin by killing relatives for the sake of kingdom.",
+          "en": ""
+        },
+        "wordMeanings": {
+          "hi": "अहो बत: हाय; महत्: बड़ा; पापम्: पाप; कर्तुम्: करने के लिए; व्यवसिताः: तत्पर; वयम्: हम; यत्: जो; राज्यसुखलोभेन: राज्य के सुख के लोभ से; हन्तुम्: मारने को; स्वजनम्: अपने लोगों को; उद्यताः: उद्यत।",
+          "en": ""
+        }
+      },
+      {
+        "verseNumber": 46,
+        "sanskrit": "यदि मामप्रतीकारमशस्त्रं शस्त्रपाणयः | धार्तराष्ट्रा रणे हन्युस्तन्मे क्षेमतरं भवेत् ||४६||",
+        "transliteration": "yadi māmapratīkāram aśastraṃ śastrapāṇayaḥ | dhārtarāṣṭrā raṇe hanyustanme kṣemataraṃ bhavet ||46||",
+        "translation": {
+          "hi": "यदि धृतराष्ट्र के पुत्र हाथ में शस्त्र लिए युद्ध में मुझे बिना प्रतिकार किए और शस्त्र रहित मार डालें, तो वह मेरे लिए अधिक कल्याणकारी होगा।",
+          "en": "If the sons of Dhritarashtra, with weapons in hand, kill me in battle while I am unarmed and not offering resistance, that would be better for me."
+        },
+        "explanation": {
+          "hi": "अर्जुन अब युद्ध से पूरी तरह विमुख होकर यह भी कहते हैं कि उनका मारा जाना ही भला है, बजाय इसके कि वे अपनों को मारें। Arjuna now says that being killed unarmed is better than killing his own kinsmen.",
+          "en": ""
+        },
+        "wordMeanings": {
+          "hi": "यदि: यदि; माम्: मुझे; अप्रतीकारम्: बिना प्रतिकार किए; अशस्त्रम्: शस्त्र रहित; शस्त्रपाणयः: हाथ में शस्त्र लिए; धार्तराष्ट्राः: धृतराष्ट्र के पुत्र; रणे: युद्ध में; हन्युः: मार डालें; तत्: वह; मे: मेरे लिए; क्षेमतरम्: अधिक कल्याणकारी; भवेत्: होगा।",
+          "en": ""
+        }
+      },
+      {
+        "verseNumber": 47,
+        "sanskrit": "एवमुक्त्वार्जुनः सङ्ख्ये रथोपस्थ उपाविशत् | विसृज्य सशरं चापं शोकसंविग्नमानसः ||४७||",
+        "transliteration": "evamuktvārjunaḥ saṅkhye rathopastha upāviśat | visṛjya saśaraṃ cāpaṃ śokasaṃvignamānasaḥ ||47||",
+        "translation": {
+          "hi": "युद्धभूमि में इस प्रकार कहकर अर्जुन ने बाणों सहित धनुष त्याग दिया और शोक से व्याकुल मन से रथ के पिछले भाग में बैठ गए।",
+          "en": "Speaking thus, Arjuna cast aside his bow and arrows and sat down on the chariot, his mind overwhelmed with sorrow."
+        },
+        "explanation": {
+          "hi": "अर्जुन ने युद्ध न करने का निश्चय कर लिया और धनुष-बाण त्यागकर रथ में बैठ गए। Arjuna finally decides not to fight, lays down his weapons, and sits in the chariot.",
+          "en": ""
+        },
+        "wordMeanings": {
+          "hi": "एवम्: इस प्रकार; उक्त्वा: कहकर; अर्जुनः: अर्जुन; सङ्ख्ये: युद्ध में; रथोपस्थे: रथ के पिछले भाग में; उपाविशत्: बैठ गए; विसृज्य: त्यागकर; सशरम्: बाणों सहित; चापम्: धनुष; शोक: शोक से; संविग्न: व्याकुल; मानसः: मन वाले।",
+          "en": ""
+        }
+      }
+    ]
+  }]
