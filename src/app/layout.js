@@ -1,10 +1,17 @@
 import "./globals.css";
 
 export const metadata = {
-  title: 'Bhaktivas',
+  title: 'Bhaktivas - Devotional Alarms, Bhajans, Wallpapers & Panchang',
   description:
     'Daily Bhajans, Wallpapers, Books, Meditation & Spiritual Growth.',
   metadataBase: new URL('https://bhaktivas.com'),
+  icons: {
+    icon: [
+      { url: '/logo.png', type: 'image/png' },
+    ],
+    shortcut: '/logo.png',
+    apple: '/logo.png',
+  },
 };
 
 export default function RootLayout({ children }) {
