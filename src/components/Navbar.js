@@ -24,9 +24,11 @@ export default function Navbar() {
           
           {/* Logo & Brand */}
           <Link href="/" className="flex items-center gap-3 group">
-            <div className="w-11 h-11 rounded-2xl bg-gradient-to-br from-[#D48A29] to-[#995512] flex items-center justify-center text-white text-xl font-bold shadow-md group-hover:scale-105 transition-transform duration-300">
-              🪔
-            </div>
+            <img
+              src="/logo.png"
+              alt="Bhaktivas Logo"
+              className="w-11 h-11 object-contain rounded-2xl group-hover:scale-105 transition-transform duration-300"
+            />
             <div className="flex flex-col">
               <span className="text-2xl font-bold tracking-tight text-[#2D1F1A] group-hover:text-[#D48A29] transition-colors">
                 Bhaktivas

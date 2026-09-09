@@ -41,7 +41,7 @@ export default async function About({ searchParams }) {
       <header className="bg-[#3A2E2A] text-[#FBF7F0] py-16 px-6 text-center border-b-4 border-[#E38B29]">
         <div className="max-w-4xl mx-auto">
           <div className="inline-flex items-center gap-2 bg-[#E38B29]/20 border border-[#E38B29] px-4 py-1.5 rounded-full mb-4">
-            <span className="text-xl">🪔</span>
+            <img src="/logo.png" alt="Bhaktivas Logo" className="w-5 h-5 object-contain" />
             <span className="text-sm font-extrabold tracking-widest text-[#E38B29]">BHAKTIVAS</span>
           </div>
           <h1 className="text-3xl sm:text-5xl font-black text-white mb-4 tracking-tight">About Bhaktivas</h1>

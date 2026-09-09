@@ -9,9 +9,11 @@ export default function Footer() {
           {/* Col 1: Brand info */}
           <div className="space-y-4 md:col-span-2">
             <div className="flex items-center gap-3">
-              <div className="w-10 h-10 rounded-xl bg-gradient-to-br from-[#D48A29] to-[#995512] flex items-center justify-center text-white text-xl font-bold">
-                🪔
-              </div>
+              <img
+                src="/logo.png"
+                alt="Bhaktivas Logo"
+                className="w-10 h-10 object-contain rounded-xl"
+              />
               <span className="text-2xl font-bold text-white tracking-tight">Bhaktivas</span>
             </div>
             <p className="text-sm text-[#C4B4A5] leading-relaxed max-w-md">
