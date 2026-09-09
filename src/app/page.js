@@ -1,8 +1,18 @@
 import Link from 'next/link';
 import Navbar from '@/components/Navbar';
 import Footer from '@/components/Footer';
+import { getBhajans } from '@/services/bhajanService';
+import { getWallpapers } from '@/services/wallpaperService';
+import { getPanchang } from '@/services/panchangService';
 
-export default function Home() {
+export default async function Home() {
+  // Fetch max 10 random items for each section
+  const [bhajans, wallpapers, panchangList] = await Promise.all([
+    getBhajans(10),
+    getWallpapers(10),
+    getPanchang(10),
+  ]);
+
   return (
     <div className="min-h-screen bg-[#FBF8F3] flex flex-col font-sans">
       <Navbar />
@@ -18,7 +28,7 @@ export default function Home() {
           </div>
 
           <h1 className="text-4xl sm:text-6xl font-extrabold text-[#2D1F1A] tracking-tight leading-tight max-w-4xl mx-auto">
-            Experience Peace, Wisdom & <br className="hidden sm:inline" />
+            Experience Peace, Wisdom &amp; <br className="hidden sm:inline" />
             <span className="text-transparent bg-clip-text bg-gradient-to-r from-[#D48A29] to-[#995512]">
               Daily Devotion
             </span>
@@ -36,14 +46,12 @@ export default function Home() {
               <span>📖 Read Bhagavad Gita (भगवद्गीता)</span>
             </Link>
 
-            <a
-              href="https://play.google.com/store/apps/details?id=com.bhaktivas"
-              target="_blank"
-              rel="noopener noreferrer"
+            <Link
+              href="/download"
               className="rounded-full bg-[#2D1F1A] hover:bg-[#422F28] px-8 py-3.5 font-semibold text-white transition shadow-md hover:shadow-lg text-base"
             >
               Download App 📲
-            </a>
+            </Link>
           </div>
 
           {/* Featured Bhagavad Gita Hero Banner Card */}
@@ -64,7 +72,7 @@ export default function Home() {
                 <div className="pt-2 flex flex-wrap gap-3 text-xs font-semibold text-amber-200">
                   <span>✔ 18 Full Chapters</span>
                   <span>•</span>
-                  <span>✔ 700 Verses & Meaning</span>
+                  <span>✔ 700 Verses &amp; Meaning</span>
                   <span>•</span>
                   <span>✔ Direct Search</span>
                 </div>
@@ -87,6 +95,170 @@ export default function Home() {
             </div>
           </div>
 
+          {/* SECTION 1: DEVOTIONAL BHAJANS PREVIEW (View Only - Max 10) */}
+          <section className="mt-20 text-left">
+            <div className="flex flex-col sm:flex-row sm:items-end justify-between mb-8 gap-4">
+              <div>
+                <span className="text-xs font-extrabold text-[#D48A29] uppercase tracking-wider block mb-1">
+                  🎵 Soulful Chants &amp; Mantras
+                </span>
+                <h3 className="text-2xl sm:text-3xl font-extrabold text-[#2D1F1A]">
+                  Devotional Bhajans (भजन एवं आरती)
+                </h3>
+              </div>
+              <Link
+                href="/bhajans"
+                className="inline-flex items-center gap-1.5 text-sm font-extrabold text-[#D48A29] hover:underline"
+              >
+                View All Bhajans ➔
+              </Link>
+            </div>
+
+            <div className="grid grid-cols-1 md:grid-cols-2 gap-4">
+              {bhajans.map((bhajan, idx) => (
+                <Link
+                  key={bhajan.id || idx}
+                  href="/download"
+                  className="group bg-white rounded-2xl p-4 border border-[#E8DCC4] hover:border-[#D48A29] shadow-xs hover:shadow-md transition-all flex items-center gap-4"
+                >
+                  <div className="relative w-16 h-16 shrink-0 rounded-xl overflow-hidden bg-[#FBF8F3] border border-[#E8DCC4]">
+                    {bhajan.image ? (
+                      <img
+                        src={bhajan.image}
+                        alt={typeof bhajan.title === 'string' ? bhajan.title : bhajan.title?.hi || 'Bhajan'}
+                        className="w-full h-full object-cover group-hover:scale-105 transition-transform"
+                      />
+                    ) : (
+                      <div className="w-full h-full flex items-center justify-center text-2xl">🎵</div>
+                    )}
+                    <div className="absolute inset-0 bg-black/30 flex items-center justify-center">
+                      <span className="text-white text-base">▶</span>
+                    </div>
+                  </div>
+
+                  <div className="flex-1 min-w-0">
+                    <h4 className="font-extrabold text-[#2D1F1A] text-sm group-hover:text-[#D48A29] transition-colors truncate">
+                      {typeof bhajan.title === 'string' ? bhajan.title : bhajan.title?.hi || bhajan.title?.en}
+                    </h4>
+                    <p className="text-xs text-[#6B5B53] truncate mt-0.5">
+                      {typeof bhajan.subtitle === 'string' ? bhajan.subtitle : bhajan.subtitle?.hi || bhajan.artist?.hi || 'Bhaktivas'}
+                    </p>
+                  </div>
+
+                  <span className="shrink-0 text-xs font-extrabold text-white bg-[#2D1F1A] group-hover:bg-[#D48A29] px-3 py-1.5 rounded-xl transition-colors">
+                    🔒 Play in App
+                  </span>
+                </Link>
+              ))}
+            </div>
+          </section>
+
+          {/* SECTION 2: DIVINE WALLPAPERS PREVIEW (View Only - Max 10) */}
+          <section className="mt-20 text-left">
+            <div className="flex flex-col sm:flex-row sm:items-end justify-between mb-8 gap-4">
+              <div>
+                <span className="text-xs font-extrabold text-[#D48A29] uppercase tracking-wider block mb-1">
+                  🖼️ Divine 4K Imagery
+                </span>
+                <h3 className="text-2xl sm:text-3xl font-extrabold text-[#2D1F1A]">
+                  Devotional Wallpapers (वॉलपेपर)
+                </h3>
+              </div>
+              <Link
+                href="/wallpapers"
+                className="inline-flex items-center gap-1.5 text-sm font-extrabold text-[#D48A29] hover:underline"
+              >
+                View All Wallpapers ➔
+              </Link>
+            </div>
+
+            <div className="grid grid-cols-2 sm:grid-cols-3 md:grid-cols-5 gap-4">
+              {wallpapers.map((wallpaper, idx) => (
+                <Link
+                  key={wallpaper.id || idx}
+                  href="/download"
+                  className="group bg-white rounded-2xl overflow-hidden border border-[#E8DCC4] hover:border-[#D48A29] shadow-xs hover:shadow-md transition-all flex flex-col"
+                >
+                  <div className="relative aspect-[3/4] bg-[#FBF8F3] overflow-hidden">
+                    {wallpaper.image || wallpaper.thumbnailUrl ? (
+                      <img
+                        src={wallpaper.thumbnailUrl || wallpaper.image}
+                        alt={typeof wallpaper.title === 'string' ? wallpaper.title : wallpaper.title?.hi || 'Wallpaper'}
+                        className="w-full h-full object-cover group-hover:scale-105 transition-transform duration-300"
+                      />
+                    ) : (
+                      <div className="w-full h-full flex items-center justify-center text-3xl">🖼️</div>
+                    )}
+                  </div>
+                  <div className="p-3 bg-white">
+                    <h4 className="font-extrabold text-[#2D1F1A] text-xs group-hover:text-[#D48A29] transition-colors truncate">
+                      {typeof wallpaper.title === 'string' ? wallpaper.title : wallpaper.title?.hi || wallpaper.title?.en}
+                    </h4>
+                    <span className="mt-2 w-full inline-flex items-center justify-center text-[10px] font-extrabold text-white bg-[#2D1F1A] group-hover:bg-[#D48A29] py-1 rounded-lg transition-colors">
+                      🔒 Download 4K
+                    </span>
+                  </div>
+                </Link>
+              ))}
+            </div>
+          </section>
+
+          {/* SECTION 3: DAILY PANCHANG PREVIEW (View Only - Max 10) */}
+          <section className="mt-20 text-left">
+            <div className="flex flex-col sm:flex-row sm:items-end justify-between mb-8 gap-4">
+              <div>
+                <span className="text-xs font-extrabold text-[#D48A29] uppercase tracking-wider block mb-1">
+                  📅 Traditional Calendar
+                </span>
+                <h3 className="text-2xl sm:text-3xl font-extrabold text-[#2D1F1A]">
+                  Daily Panchang &amp; Tithi (दैनिक पंचांग)
+                </h3>
+              </div>
+              <Link
+                href="/panchang"
+                className="inline-flex items-center gap-1.5 text-sm font-extrabold text-[#D48A29] hover:underline"
+              >
+                View Full Panchang ➔
+              </Link>
+            </div>
+
+            <div className="grid grid-cols-1 md:grid-cols-2 gap-4">
+              {panchangList.map((item, idx) => (
+                <Link
+                  key={item.id || idx}
+                  href="/download"
+                  className="group bg-white rounded-2xl p-5 border border-[#E8DCC4] hover:border-[#D48A29] shadow-xs hover:shadow-md transition-all flex flex-col justify-between"
+                >
+                  <div>
+                    <div className="flex items-center justify-between border-b border-[#E8DCC4] pb-3 mb-3">
+                      <span className="font-extrabold text-[#2D1F1A] text-base">
+                        📅 {typeof item.day === 'string' ? item.day : item.day?.hi || item.day?.en} ({item.date || 'Today'})
+                      </span>
+                      {item.festival && (
+                        <span className="text-[11px] font-extrabold bg-[#F5E8CE] text-[#995512] px-2.5 py-0.5 rounded-full">
+                          🎉 {typeof item.festival === 'string' ? item.festival : item.festival?.hi || item.festival?.en}
+                        </span>
+                      )}
+                    </div>
+
+                    <div className="grid grid-cols-2 gap-2 text-xs text-[#6B5B53]">
+                      <div><strong>तिथि:</strong> {typeof item.tithi === 'string' ? item.tithi : item.tithi?.hi || 'त्रयोदशी'}</div>
+                      <div><strong>नक्षत्र:</strong> {typeof item.nakshatra === 'string' ? item.nakshatra : item.nakshatra?.hi || 'मघा'}</div>
+                      <div><strong>राहुकाल:</strong> <span className="text-[#995512] font-semibold">{typeof item.rahukaal === 'string' ? item.rahukaal : item.rahukaal?.hi || '15:30 - 17:00'}</span></div>
+                      <div><strong>सूर्योदय:</strong> {item.sunrise || '06:04 AM'}</div>
+                    </div>
+                  </div>
+
+                  <div className="mt-4 pt-2 border-t border-[#E8DCC4]">
+                    <span className="w-full inline-flex items-center justify-center gap-1 text-xs font-extrabold text-white bg-[#2D1F1A] group-hover:bg-[#D48A29] py-2 rounded-xl transition-colors">
+                      🔒 View Full Panchang in App
+                    </span>
+                  </div>
+                </Link>
+              ))}
+            </div>
+          </section>
+
           {/* Features Grid */}
           <div className="mt-20">
             <h3 className="text-2xl font-bold text-[#2D1F1A] mb-8">
@@ -97,11 +269,11 @@ export default function Home() {
               <FeatureCard icon="📖" title="Bhagavad Gita" desc="18 Chapters & 700 Shlokas with full meaning" href="/gita" highlighted />
               <FeatureCard icon="🎶" title="Bhajans" desc="Soulful devotional songs & chants" href="/bhajans" />
               <FeatureCard icon="🖼️" title="Wallpapers" desc="Divine HD wallpapers for mobile" href="/wallpapers" />
-              <FeatureCard icon="📅" title="Panchang" desc="Daily auspicious timings & tithi" href="#panchang" />
-              <FeatureCard icon="✨" title="Horoscope" desc="Daily astrological insights" href="#horoscope" />
-              <FeatureCard icon="⏰" title="Devotional Alarm" desc="Wake up to mantras & bhajans" href="#alarm" />
-              <FeatureCard icon="📲" title="Devotional Status" desc="Daily WhatsApp status videos" href="#status" />
-              <FeatureCard icon="🎧" title="Motivational Audio" desc="Inspiring spiritual discourses" href="#audio" />
+              <FeatureCard icon="📅" title="Panchang" desc="Daily auspicious timings & tithi" href="/panchang" />
+              <FeatureCard icon="✨" title="Horoscope" desc="Daily astrological insights" href="/download" />
+              <FeatureCard icon="⏰" title="Devotional Alarm" desc="Wake up to mantras & bhajans" href="/download" />
+              <FeatureCard icon="📲" title="Devotional Status" desc="Daily WhatsApp status videos" href="/download" />
+              <FeatureCard icon="🎧" title="Motivational Audio" desc="Inspiring spiritual discourses" href="/download" />
             </div>
           </div>
 

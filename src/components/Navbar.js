@@ -13,7 +13,7 @@ export default function Navbar() {
     { label: 'श्रीमद्भगवद्गीता', href: '/gita', highlight: true },
     { label: 'Bhajans', href: '/bhajans' },
     { label: 'Wallpapers', href: '/wallpapers' },
-    { label: 'Panchang', href: '/#panchang' },
+    { label: 'Panchang', href: '/panchang' },
     { label: 'Privacy Policy', href: '/privacy' },
   ];
 
