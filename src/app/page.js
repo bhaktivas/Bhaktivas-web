@@ -1,6 +1,7 @@
 import Link from 'next/link';
 import Navbar from '@/components/Navbar';
 import Footer from '@/components/Footer';
+import SafeImage from '@/components/media/SafeImage';
 import { getBhajans } from '@/services/bhajanService';
 import { getWallpapers } from '@/services/wallpaperService';
 import { getPanchang } from '@/services/panchangService';
@@ -122,15 +123,12 @@ export default async function Home() {
                   className="group bg-white rounded-2xl p-4 border border-[#E8DCC4] hover:border-[#D48A29] shadow-xs hover:shadow-md transition-all flex items-center gap-4"
                 >
                   <div className="relative w-16 h-16 shrink-0 rounded-xl overflow-hidden bg-[#FBF8F3] border border-[#E8DCC4]">
-                    {bhajan.image ? (
-                      <img
-                        src={bhajan.image}
-                        alt={typeof bhajan.title === 'string' ? bhajan.title : bhajan.title?.hi || 'Bhajan'}
-                        className="w-full h-full object-cover group-hover:scale-105 transition-transform"
-                      />
-                    ) : (
-                      <div className="w-full h-full flex items-center justify-center text-2xl">🎵</div>
-                    )}
+                    <SafeImage
+                      src={bhajan.image || bhajan.artworkUrl || bhajan.imageUrl || bhajan.thumbnailUrl}
+                      alt={typeof bhajan.title === 'string' ? bhajan.title : bhajan.title?.hi || 'Bhajan'}
+                      className="w-full h-full object-cover group-hover:scale-105 transition-transform"
+                      fallbackIcon="🎵"
+                    />
                     <div className="absolute inset-0 bg-black/30 flex items-center justify-center">
                       <span className="text-white text-base">▶</span>
                     </div>
@@ -180,15 +178,12 @@ export default async function Home() {
                   className="group bg-white rounded-2xl overflow-hidden border border-[#E8DCC4] hover:border-[#D48A29] shadow-xs hover:shadow-md transition-all flex flex-col"
                 >
                   <div className="relative aspect-[3/4] bg-[#FBF8F3] overflow-hidden">
-                    {wallpaper.image || wallpaper.thumbnailUrl ? (
-                      <img
-                        src={wallpaper.thumbnailUrl || wallpaper.image}
-                        alt={typeof wallpaper.title === 'string' ? wallpaper.title : wallpaper.title?.hi || 'Wallpaper'}
-                        className="w-full h-full object-cover group-hover:scale-105 transition-transform duration-300"
-                      />
-                    ) : (
-                      <div className="w-full h-full flex items-center justify-center text-3xl">🖼️</div>
-                    )}
+                    <SafeImage
+                      src={wallpaper.imageUrl || wallpaper.thumbnailUrl || wallpaper.image}
+                      alt={typeof wallpaper.title === 'string' ? wallpaper.title : wallpaper.title?.hi || 'Wallpaper'}
+                      className="w-full h-full object-cover group-hover:scale-105 transition-transform duration-300"
+                      fallbackIcon="🖼️"
+                    />
                   </div>
                   <div className="p-3 bg-white">
                     <h4 className="font-extrabold text-[#2D1F1A] text-xs group-hover:text-[#D48A29] transition-colors truncate">
