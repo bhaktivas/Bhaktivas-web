@@ -10,8 +10,8 @@ const FALLBACK_BHAJANS = [
     deity: 'Hanuman',
     duration: '09:45',
     category: 'Chalisa',
-    imageUrl: 'https://cdn.bhaktivas.com/wallpapers/hanuman.jpg',
-    artworkUrl: 'https://cdn.bhaktivas.com/wallpapers/hanuman.jpg',
+    imageUrl: 'https://cdn.bhaktivas.com/wallpapers/hanuman/mobile/static/hanuman_001.webp',
+    artworkUrl: 'https://cdn.bhaktivas.com/wallpapers/hanuman/mobile/static/hanuman_001.webp',
     audioUrl: 'https://cdn.bhaktivas.com/audio/hanuman-chalisa.mp3',
     isPremium: false,
   },
@@ -22,8 +22,8 @@ const FALLBACK_BHAJANS = [
     deity: 'Shiva',
     duration: '11:20',
     category: 'Stotram',
-    imageUrl: 'https://cdn.bhaktivas.com/wallpapers/mahadev.jpg',
-    artworkUrl: 'https://cdn.bhaktivas.com/wallpapers/mahadev.jpg',
+    imageUrl: 'https://cdn.bhaktivas.com/wallpapers/shiva/mobile/static/shiva_001.webp',
+    artworkUrl: 'https://cdn.bhaktivas.com/wallpapers/shiva/mobile/static/shiva_001.webp',
     audioUrl: 'https://cdn.bhaktivas.com/audio/shiv-tandav.mp3',
     isPremium: false,
   },
@@ -34,8 +34,8 @@ const FALLBACK_BHAJANS = [
     deity: 'Krishna',
     duration: '07:15',
     category: 'Bhajan',
-    imageUrl: 'https://cdn.bhaktivas.com/wallpapers/krishna.jpg',
-    artworkUrl: 'https://cdn.bhaktivas.com/wallpapers/krishna.jpg',
+    imageUrl: 'https://cdn.bhaktivas.com/wallpapers/krishna/mobile/static/krishna_001.webp',
+    artworkUrl: 'https://cdn.bhaktivas.com/wallpapers/krishna/mobile/static/krishna_001.webp',
     audioUrl: 'https://cdn.bhaktivas.com/audio/achyutam-keshavam.mp3',
     isPremium: false,
   },
@@ -46,8 +46,8 @@ const FALLBACK_BHAJANS = [
     deity: 'Krishna',
     duration: '08:30',
     category: 'Kirtan',
-    imageUrl: 'https://cdn.bhaktivas.com/wallpapers/radha-krishna.jpg',
-    artworkUrl: 'https://cdn.bhaktivas.com/wallpapers/radha-krishna.jpg',
+    imageUrl: 'https://cdn.bhaktivas.com/wallpapers/krishna/mobile/static/krishna_004.webp',
+    artworkUrl: 'https://cdn.bhaktivas.com/wallpapers/krishna/mobile/static/krishna_004.webp',
     audioUrl: 'https://cdn.bhaktivas.com/audio/krishna-govind.mp3',
     isPremium: false,
   },
@@ -58,8 +58,8 @@ const FALLBACK_BHAJANS = [
     deity: 'Gayatri Mata',
     duration: '24:00',
     category: 'Mantra',
-    imageUrl: 'https://cdn.bhaktivas.com/wallpapers/gayatri.jpg',
-    artworkUrl: 'https://cdn.bhaktivas.com/wallpapers/gayatri.jpg',
+    imageUrl: 'https://cdn.bhaktivas.com/wallpapers/lakshmi/mobile/static/lakshmi_001.webp',
+    artworkUrl: 'https://cdn.bhaktivas.com/wallpapers/lakshmi/mobile/static/lakshmi_001.webp',
     audioUrl: 'https://cdn.bhaktivas.com/audio/gayatri-mantra.mp3',
     isPremium: false,
   },
@@ -70,8 +70,8 @@ const FALLBACK_BHAJANS = [
     deity: 'Rama',
     duration: '06:50',
     category: 'Chaupai',
-    imageUrl: 'https://cdn.bhaktivas.com/wallpapers/ram.jpg',
-    artworkUrl: 'https://cdn.bhaktivas.com/wallpapers/ram.jpg',
+    imageUrl: 'https://cdn.bhaktivas.com/wallpapers/krishna/mobile/static/krishna_001.webp',
+    artworkUrl: 'https://cdn.bhaktivas.com/wallpapers/krishna/mobile/static/krishna_001.webp',
     audioUrl: 'https://cdn.bhaktivas.com/audio/ram-siya-ram.mp3',
     isPremium: false,
   },
@@ -82,8 +82,8 @@ const FALLBACK_BHAJANS = [
     deity: 'Shiva',
     duration: '15:10',
     category: 'Mantra',
-    imageUrl: 'https://cdn.bhaktivas.com/wallpapers/shiva-lingam.jpg',
-    artworkUrl: 'https://cdn.bhaktivas.com/wallpapers/shiva-lingam.jpg',
+    imageUrl: 'https://cdn.bhaktivas.com/wallpapers/shiva/mobile/static/shiva_001.webp',
+    artworkUrl: 'https://cdn.bhaktivas.com/wallpapers/shiva/mobile/static/shiva_001.webp',
     audioUrl: 'https://cdn.bhaktivas.com/audio/mahamrityunjaya.mp3',
     isPremium: false,
   },
@@ -94,8 +94,8 @@ const FALLBACK_BHAJANS = [
     deity: 'Vishnu',
     duration: '28:40',
     category: 'Stotram',
-    imageUrl: 'https://cdn.bhaktivas.com/wallpapers/vishnu.jpg',
-    artworkUrl: 'https://cdn.bhaktivas.com/wallpapers/vishnu.jpg',
+    imageUrl: 'https://cdn.bhaktivas.com/wallpapers/shiva/mobile/static/shiva_001.webp',
+    artworkUrl: 'https://cdn.bhaktivas.com/wallpapers/shiva/mobile/static/shiva_001.webp',
     audioUrl: 'https://cdn.bhaktivas.com/audio/vishnu-sahasranamam.mp3',
     isPremium: false,
   },
@@ -106,8 +106,8 @@ const FALLBACK_BHAJANS = [
     deity: 'Durga',
     duration: '07:20',
     category: 'Aarti',
-    imageUrl: 'https://cdn.bhaktivas.com/wallpapers/durga.jpg',
-    artworkUrl: 'https://cdn.bhaktivas.com/wallpapers/durga.jpg',
+    imageUrl: 'https://cdn.bhaktivas.com/wallpapers/lakshmi/mobile/static/lakshmi_001.webp',
+    artworkUrl: 'https://cdn.bhaktivas.com/wallpapers/lakshmi/mobile/static/lakshmi_001.webp',
     audioUrl: 'https://cdn.bhaktivas.com/audio/jai-ambe-gauri.mp3',
     isPremium: false,
   },
@@ -118,8 +118,8 @@ const FALLBACK_BHAJANS = [
     deity: 'Radha Rani',
     duration: '10:05',
     category: 'Kirtan',
-    imageUrl: 'https://cdn.bhaktivas.com/wallpapers/radha.jpg',
-    artworkUrl: 'https://cdn.bhaktivas.com/wallpapers/radha.jpg',
+    imageUrl: 'https://cdn.bhaktivas.com/wallpapers/krishna/mobile/static/krishna_004.webp',
+    artworkUrl: 'https://cdn.bhaktivas.com/wallpapers/krishna/mobile/static/krishna_004.webp',
     audioUrl: 'https://cdn.bhaktivas.com/audio/radhe-radhe.mp3',
     isPremium: false,
   },
@@ -161,6 +161,7 @@ export async function getBhajan(id, locale = 'en') {
 export async function getBhajans(limitCount = 10, locale = 'en') {
   let list = [];
 
+  // 1. Primary Source: Query Firestore db collection 'bhajans' directly
   if (db) {
     try {
       const snapshot = await db.collection('bhajans').limit(25).get();
@@ -174,11 +175,37 @@ export async function getBhajans(limitCount = 10, locale = 'en') {
     }
   }
 
+  // 2. Secondary Live Source: Try CMS API endpoint if Firestore returned no docs
+  if (list.length === 0) {
+    try {
+      const controller = new AbortController();
+      const timeoutId = setTimeout(() => controller.abort(), 1500);
+
+      const res = await fetch('http://localhost:3005/api/bhajans', {
+        signal: controller.signal,
+        headers: { 'Accept': 'application/json' },
+        cache: 'no-store'
+      });
+      clearTimeout(timeoutId);
+
+      if (res.ok) {
+        const data = await res.json();
+        const rawList = Array.isArray(data) ? data : (data.data || data.bhajans || []);
+        if (rawList.length > 0) {
+          list = rawList.map((item) => transformBhajan(item, locale));
+        }
+      }
+    } catch (cmsErr) {
+      // CMS API offline
+    }
+  }
+
+  // 3. Fallback to default R2 dataset if Firestore/CMS is unavailable
   if (list.length === 0) {
     list = FALLBACK_BHAJANS.map((item) => transformBhajan(item, locale));
   }
 
   // Shuffle randomly & slice max limitCount (not more than 10)
-  const randomized = shuffleArray(list).slice(0, Math.min(limitCount, 10));
+  const randomized = shuffleArray(list).slice(0, Math.min(limitCount, list.length));
   return signObjectMediaUrls(randomized);
 }

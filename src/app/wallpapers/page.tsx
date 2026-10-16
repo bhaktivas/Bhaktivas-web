@@ -6,6 +6,9 @@ import SafeImage from '@/components/media/SafeImage';
 import VideoPlayer from '@/components/media/VideoPlayer';
 import { getWallpapers } from '@/services/wallpaperService';
 
+export const dynamic = 'force-dynamic';
+export const revalidate = 0;
+
 export default async function WallpapersPage({ searchParams }) {
   const resolvedSearchParams = await searchParams;
   const isWebView = resolvedSearchParams?.webview === 'true' || resolvedSearchParams?.app === 'true';

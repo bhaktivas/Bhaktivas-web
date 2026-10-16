@@ -2,9 +2,13 @@ import Link from 'next/link';
 import Navbar from '@/components/Navbar';
 import Footer from '@/components/Footer';
 import SafeImage from '@/components/media/SafeImage';
+import VideoPlayer from '@/components/media/VideoPlayer';
 import { getBhajans } from '@/services/bhajanService';
 import { getWallpapers } from '@/services/wallpaperService';
 import { getPanchang } from '@/services/panchangService';
+
+export const dynamic = 'force-dynamic';
+export const revalidate = 0;
 
 export default async function Home() {
   // Fetch max 10 random items for each section
@@ -171,30 +175,54 @@ export default async function Home() {
             </div>
 
             <div className="grid grid-cols-2 sm:grid-cols-3 md:grid-cols-5 gap-4">
-              {wallpapers.map((wallpaper, idx) => (
-                <Link
-                  key={wallpaper.id || idx}
-                  href="/download"
-                  className="group bg-white rounded-2xl overflow-hidden border border-[#E8DCC4] hover:border-[#D48A29] shadow-xs hover:shadow-md transition-all flex flex-col"
-                >
-                  <div className="relative aspect-[3/4] bg-[#FBF8F3] overflow-hidden">
-                    <SafeImage
-                      src={wallpaper.imageUrl || wallpaper.thumbnailUrl || wallpaper.image}
-                      alt={typeof wallpaper.title === 'string' ? wallpaper.title : wallpaper.title?.hi || 'Wallpaper'}
-                      className="w-full h-full object-cover group-hover:scale-105 transition-transform duration-300"
-                      fallbackIcon="🖼️"
-                    />
-                  </div>
-                  <div className="p-3 bg-white">
-                    <h4 className="font-extrabold text-[#2D1F1A] text-xs group-hover:text-[#D48A29] transition-colors truncate">
-                      {typeof wallpaper.title === 'string' ? wallpaper.title : wallpaper.title?.hi || wallpaper.title?.en}
-                    </h4>
-                    <span className="mt-2 w-full inline-flex items-center justify-center text-[10px] font-extrabold text-white bg-[#2D1F1A] group-hover:bg-[#D48A29] py-1 rounded-lg transition-colors">
-                      🔒 Download 4K
-                    </span>
-                  </div>
-                </Link>
-              ))}
+              {wallpapers.map((wallpaper, idx) => {
+                const checkIsVideo = (url) => typeof url === 'string' && (url.includes('.mp4') || url.includes('.m3u8') || url.includes('/live/') || url.includes('/video/'));
+                const isLive = wallpaper.artStyle === 'live' || Boolean(wallpaper.videoUrl) || Boolean(wallpaper.hlsUrl) || Boolean(wallpaper.mp4Url) || checkIsVideo(wallpaper.imageUrl);
+                const videoSrc = wallpaper.videoUrl || wallpaper.hlsUrl || wallpaper.mp4Url || (checkIsVideo(wallpaper.imageUrl) ? wallpaper.imageUrl : null) || wallpaper.downloadUrl;
+                const imageSrc = wallpaper.imageUrl || wallpaper.thumbnailUrl || wallpaper.image;
+                const displayTitle = typeof wallpaper.title === 'string' ? wallpaper.title : wallpaper.title?.hi || wallpaper.title?.en || 'Devotional Wallpaper';
+
+                return (
+                  <Link
+                    key={wallpaper.id || idx}
+                    href="/download"
+                    className="group bg-white rounded-2xl overflow-hidden border border-[#E8DCC4] hover:border-[#D48A29] shadow-xs hover:shadow-md transition-all flex flex-col"
+                  >
+                    <div className="relative aspect-[3/4] bg-[#FBF8F3] overflow-hidden">
+                      {isLive && videoSrc ? (
+                        <VideoPlayer
+                          src={videoSrc}
+                          poster={imageSrc}
+                          autoPlay
+                          loop
+                          muted
+                          playsInline
+                          controls={false}
+                          className="w-full h-full object-cover group-hover:scale-105 transition-transform duration-300 pointer-events-none"
+                        />
+                      ) : (
+                        <SafeImage
+                          src={imageSrc}
+                          alt={displayTitle}
+                          className="w-full h-full object-cover group-hover:scale-105 transition-transform duration-300"
+                          fallbackIcon="🖼️"
+                        />
+                      )}
+                      <div className={`absolute top-2 left-2 backdrop-blur-xs text-white text-[10px] font-bold px-2 py-0.5 rounded-md flex items-center gap-1 ${isLive ? 'bg-[#E38B29]' : 'bg-black/60'}`}>
+                        {isLive ? '🎥 LIVE 4K' : (wallpaper.resolution || '4K Ultra HD')}
+                      </div>
+                    </div>
+                    <div className="p-3 bg-white">
+                      <h4 className="font-extrabold text-[#2D1F1A] text-xs group-hover:text-[#D48A29] transition-colors truncate">
+                        {displayTitle}
+                      </h4>
+                      <span className="mt-2 w-full inline-flex items-center justify-center text-[10px] font-extrabold text-white bg-[#2D1F1A] group-hover:bg-[#D48A29] py-1 rounded-lg transition-colors">
+                        🔒 Download 4K
+                      </span>
+                    </div>
+                  </Link>
+                );
+              })}
             </div>
           </section>
 

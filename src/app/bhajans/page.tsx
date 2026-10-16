@@ -5,6 +5,9 @@ import Footer from '@/components/Footer';
 import SafeImage from '@/components/media/SafeImage';
 import { getBhajans } from '@/services/bhajanService';
 
+export const dynamic = 'force-dynamic';
+export const revalidate = 0;
+
 export default async function BhajansPage({ searchParams }) {
   const resolvedSearchParams = await searchParams;
   const isWebView = resolvedSearchParams?.webview === 'true' || resolvedSearchParams?.app === 'true';
